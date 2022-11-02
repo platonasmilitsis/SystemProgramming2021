@@ -1,0 +1,11 @@
+1203  kXQLBv SwEGrx Monaco 7 Humanpapillomavirusinfection YES 16-09-2004
+3055  qlyZBcs GBKiEtK Monaco 52 Mumps NO
+3467  BKrm NyUm Monaco 31 Poliomyelitis YES 25-07-2019
+3922  dIt AfJmY Monaco 66 Meningococcaldisease NO
+4979  JpzxgX bMAEzaf Monaco 108 Pertussis NO
+5448  RZrcbh SzpPSdB Monaco 61 Meningococcaldisease YES 13-06-2000
+6208  KwbEW wIBQ Monaco 24 Japaneseencephalitis YES 18-08-1996
+6514  hWni KAkeNX Monaco 79 Rubella NO
+8368  FCpvbHi YqWfd Monaco 53 Tickborneencephalitis NO
+8908  iKtS oVRJa Monaco 25 Rubella YES 15-06-1996
+9435  pWF gfVFJX Monaco 70 COVID19  NO

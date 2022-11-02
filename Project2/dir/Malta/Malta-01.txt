@@ -1,0 +1,15 @@
+458  TNw bXqUSr Malta 6 COVID19  YES 30-08-2000
+1780  nVtM nAq Malta 89 Varicella NO
+2135  tEAbIZ uQsb Malta 46 Malaria NO
+3020  VBFCWO BlOxddH Malta 19 Mumps YES 22-11-2002
+3652  bInU pke Malta 48 Rubella NO
+4191  AbzUvmA RLx Malta 43 Haemophilusinfluenzaetypeb NO
+4488  lQccA cxnPCOa Malta 13 Rubella NO
+4764  dhYGAv Mmh Malta 118 Rabies NO
+6341  PfyTu xHakxw Malta 90 Pertussis YES 24-10-1999
+6539  uui FfKyE Malta 30 Rotavirusgastroenteritis NO
+7232  qHR wUm Malta 45 Tetanus YES 22-06-2012
+7814  JztYsJ CIrorhH Malta 108 Humanpapillomavirusinfection NO
+8526  pApe mFiS Malta 48 Tuberculosis NO
+9312  wwWrPzC QxREsBX Malta 16 COVID19  YES 08-09-2002
+9763  jibwhd CcLNzA Malta 29 Humanpapillomavirusinfection YES 28-06-2014

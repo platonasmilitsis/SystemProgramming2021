@@ -1,0 +1,17 @@
+168  hcE QPe Taiwan 67 Ebolavirus NO
+1738  HZeM yxccZKd Taiwan 105 Pertussis YES 16-03-2016
+2114  yRVuh sTPh Taiwan 73 Diphtheria NO
+2668  LRo rrZXrX Taiwan 68 Humanpapillomavirusinfection NO
+2922  NTbW QbR Taiwan 97 Meningococcaldisease NO
+4072  hfxbKm hVZJHLD Taiwan 107 HepatitisA YES 13-03-2001
+4566  ShPvnf duf Taiwan 16 Pneumococcaldisease YES 27-07-2013
+4987  WuLd lDRFXBp Taiwan 46 ShinglesHerpesZoster YES 18-06-2018
+5835  QuHTVd pVTBwd Taiwan 112 Tetanus NO
+6496  dLp csYBpP Taiwan 41 Rubella NO
+6736  QlpbUam SVr Taiwan 6 Diphtheria NO
+7121  ZewkSc KanG Taiwan 110 Yellowfever NO
+7466  hRbO gvdSs Taiwan 53 Tetanus NO
+8383  AMZjwn Krplc Taiwan 103 Japaneseencephalitis YES 03-07-2016
+9095  GDVNzC BrCWv Taiwan 13 COVID19  NO
+9343  Vpkd zdtmNrg Taiwan 105 Tuberculosis NO
+9857  PZsnrS kHrN Taiwan 98 ShinglesHerpesZoster NO

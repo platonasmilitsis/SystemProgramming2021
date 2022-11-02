@@ -1,0 +1,13 @@
+45  FAmHcQ zza Spain 19 Varicella NO
+1118  laREf LujuBr Spain 111 Humanpapillomavirusinfection NO
+1522  mNfTzA rqHZUu Spain 52 Haemophilusinfluenzaetypeb NO
+2310  enJu aFDLSNq Spain 18 Poliomyelitis YES 27-08-1998
+3708  tkuE uMO Spain 93 Malaria YES 12-10-2019
+4248  ZQB OhvbeA Spain 105 Rabies NO
+4742  OwfwSK DTzaPm Spain 23 Malaria NO
+5244  qIRLX EqBWP Spain 2 COVID19  YES 26-09-2017
+6021  MLY emJQsT Spain 83 HepatitisA YES 06-12-2014
+6595  DCowv wtIsqE Spain 51 Yellowfever NO
+7689  CvE BTq Spain 106 Influenza YES 26-12-2008
+8205  vAVjEC kDoz Spain 81 HepatitisB YES 27-03-2008
+9417  UVPYtUX PJC Spain 119 HepatitisE YES 27-04-2018

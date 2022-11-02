@@ -1,0 +1,10 @@
+462  QwTtaRs zbwPR Chile 19 HepatitisB NO
+1112  mJLpl NfOw Chile 6 Humanpapillomavirusinfection YES 14-12-1998
+2054  bkTFnB XhKEV Chile 43 Malaria NO
+3673  FcvpCPm GPAGOA Chile 70 Mumps NO
+4077  pvT rMFXhD Chile 11 COVID19  NO
+4747  elYCXC QeA Chile 19 Cholera NO
+5356  rOCYOSn uWmJwW Chile 1 Humanpapillomavirusinfection YES 06-06-1997
+7394  KHSm oRP Chile 20 Ebolavirus YES 09-07-2016
+8317  YloDHWI kaYUdh Chile 53 Haemophilusinfluenzaetypeb NO
+9708  yiEx nGHNJ Chile 78 Pneumococcaldisease YES 18-07-2000

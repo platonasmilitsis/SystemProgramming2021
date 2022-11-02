@@ -1,0 +1,11 @@
+593  pXTZhr Gqhl EquatorialGuinea 66 Denguefever NO
+1245  JboENc RWIUivg EquatorialGuinea 100 Poliomyelitis NO
+1761  ULBUAKn jGDFcCN EquatorialGuinea 106 Rotavirusgastroenteritis NO
+3120  ngegBX vNAEeDv EquatorialGuinea 108 Diphtheria NO
+4001  fKG vPLqg EquatorialGuinea 28 Varicella NO
+5246  riHNiU WELvY EquatorialGuinea 22 Humanpapillomavirusinfection NO
+5722  bxroBcO lZUfwe EquatorialGuinea 26 ShinglesHerpesZoster YES 07-07-2000
+6662  EcmmZy PBiPeNK EquatorialGuinea 15 Cholera NO
+7438  ZegbQt MqdZnEB EquatorialGuinea 98 HepatitisB YES 17-01-2000
+8173  hbOlS IGTWaY EquatorialGuinea 78 Tetanus NO
+8465  rNniHsF ivDsPdK EquatorialGuinea 27 Rubella NO

@@ -1,0 +1,11 @@
+238  MbhECGz PxSZ Panama 33 Measles YES 02-07-2006
+865  lhluC iPELT Panama 99 Denguefever NO
+1396  GXPJ ciDnh Panama 76 Haemophilusinfluenzaetypeb YES 17-02-2015
+2926  mOkhF LnLtFL Panama 75 Malaria NO
+3522  nbezWFg rADEWwV Panama 80 Tuberculosis YES 23-11-2015
+4625  LAHXKa mGR Panama 93 HepatitisB NO
+5301  OKv ADkVX Panama 2 Rubella NO
+6538  ncQqq ilcIILy Panama 34 Influenza NO
+7171  WrYmJny rZNiv Panama 79 Tuberculosis NO
+8782  lsftLh FZiIoX Panama 46 HepatitisB NO
+9362  FqEjp cELwyX Panama 60 HepatitisB YES 02-03-2015

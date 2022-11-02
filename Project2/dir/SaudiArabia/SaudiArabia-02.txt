@@ -1,0 +1,11 @@
+347  ysSPtZ RWAHNaY SaudiArabia 82 HepatitisB YES 18-10-1997
+1200  xUaYnPm nvPzI SaudiArabia 44 COVID19  YES 27-10-2013
+2094  BbZVSra GIiLHoQ SaudiArabia 99 Typhoidfever NO
+2563  CoOPrJm EutPgOE SaudiArabia 92 Meningococcaldisease NO
+3116  DQEl gmEjpU SaudiArabia 69 HepatitisB YES 06-05-2002
+4321  Fgp yFjy SaudiArabia 54 HepatitisB NO
+4932  XpsTJ liOEqu SaudiArabia 73 HepatitisB NO
+6612  lsIhdF hgxrJ SaudiArabia 102 Rabies NO
+7287  vbzDZV stESahJ SaudiArabia 95 ShinglesHerpesZoster NO
+8717  vQbHli KRN SaudiArabia 105 HepatitisE YES 08-10-2011
+9426  TNnQNG PnhglEH SaudiArabia 53 Malaria NO

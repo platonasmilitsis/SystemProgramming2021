@@ -1,0 +1,14 @@
+142  QNsE JeAnB Kyrgyzstan 88 Malaria NO
+1107  uXCss PuOVmIB Kyrgyzstan 109 Poliomyelitis YES 01-05-1999
+1659  bBybNIt THn Kyrgyzstan 58 Cholera YES 29-10-2014
+2242  bGo nxmvufg Kyrgyzstan 42 Rotavirusgastroenteritis YES 30-07-1995
+2805  MhZ AOVt Kyrgyzstan 33 Meningococcaldisease YES 09-11-1999
+3290  ekO vbseW Kyrgyzstan 85 Humanpapillomavirusinfection YES 26-12-2014
+4256  ywy azHDa Kyrgyzstan 35 COVID19  NO
+5091  IUevl onL Kyrgyzstan 50 HepatitisB NO
+6033  eRUGDJ bkwQ Kyrgyzstan 16 Yellowfever NO
+7627  crf rPzw Kyrgyzstan 40 Rubella YES 30-11-2005
+7886  mVe RNO Kyrgyzstan 50 Mumps NO
+8359  wiY DzpfNhj Kyrgyzstan 35 Denguefever YES 29-11-2019
+8668  nzs Ceye Kyrgyzstan 82 Meningococcaldisease YES 02-08-2014
+9494  LtPyl ztZ Kyrgyzstan 56 Malaria YES 21-07-1998

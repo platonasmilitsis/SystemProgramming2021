@@ -1,0 +1,13 @@
+883  RIqg uMqWlvQ Lesotho 11 HepatitisE NO
+1424  JZSP NSxbbnY Lesotho 116 Diphtheria YES 28-02-2006
+2029  eFbw rZVXsP Lesotho 107 Rabies NO
+3023  axDII HfkxPq Lesotho 63 HepatitisA NO
+3543  kAf YeibjjZ Lesotho 12 Humanpapillomavirusinfection NO
+3987  tJwvAJ PuIUOZO Lesotho 9 Poliomyelitis YES 01-10-2013
+4875  knnH YBzOVkC Lesotho 65 ShinglesHerpesZoster YES 09-02-2000
+5930  RMe McwEZv Lesotho 43 Yellowfever YES 06-12-1996
+6522  xAcUs aJA Lesotho 52 Denguefever YES 27-12-2005
+6766  VjznCVI Abm Lesotho 63 Rubella NO
+7551  acxuX LtNv Lesotho 98 COVID19  NO
+8937  DQLrFi lItzJ Lesotho 78 Pertussis NO
+9762  QGpT ZXFQN Lesotho 72 Pertussis NO

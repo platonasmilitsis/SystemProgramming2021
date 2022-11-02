@@ -1,0 +1,14 @@
+139  InP UKDsJj Ireland 110 Haemophilusinfluenzaetypeb YES 27-02-2010
+1637  vQOS NBh Ireland 50 Varicella YES 09-05-2011
+2056  TKXe eLX Ireland 29 Haemophilusinfluenzaetypeb YES 01-06-2019
+2378  jfzoG KwSK Ireland 52 HepatitisA YES 15-05-2008
+2662  QuygHr BuRQRZM Ireland 27 Ebolavirus NO
+4322  VpPmWvW EqMR Ireland 100 Influenza YES 25-01-2005
+4873  qNk Asqg Ireland 105 Tickborneencephalitis YES 20-05-2002
+5462  QZJXh aRPUcuY Ireland 47 Mumps YES 10-03-2019
+5857  CiLw BYt Ireland 8 Yellowfever YES 13-04-2017
+6387  iIj tZEC Ireland 73 Tetanus YES 20-11-1998
+7306  mVvJqs juIx Ireland 65 COVID19  YES 25-04-2018
+7890  TEXr mpYR Ireland 38 HepatitisE NO
+8318  yevKD HxLvy Ireland 29 Pneumococcaldisease YES 12-05-2017
+9464  odRkCy vnyrC Ireland 43 Pertussis YES 21-07-2003

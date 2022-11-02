@@ -1,0 +1,12 @@
+459  hLPpHZ stb SriLanka 109 Japaneseencephalitis NO
+1371  YTOL pQLip SriLanka 78 Meningococcaldisease NO
+2184  cxlQ BdAcsFo SriLanka 63 Diphtheria YES 01-12-1997
+2746  BTEeZ OTNYyz SriLanka 70 Malaria YES 30-09-2003
+3832  olfm WpemFDH SriLanka 11 Rabies YES 07-09-2017
+4383  awsMES OpLA SriLanka 66 Pertussis YES 16-10-2004
+5146  iKBuq ZGZuRt SriLanka 119 HepatitisE YES 07-12-2006
+5469  OOezZs iWZ SriLanka 12 Diphtheria YES 10-06-1999
+6364  IRXfAa qqJ SriLanka 61 Malaria NO
+7971  gOIOl AkKxYnC SriLanka 70 Rotavirusgastroenteritis YES 29-02-2005
+9180  pTNQQcE AmPrBeU SriLanka 90 Haemophilusinfluenzaetypeb NO
+9520  LVnF JCqlSI SriLanka 60 Yellowfever YES 25-08-1995

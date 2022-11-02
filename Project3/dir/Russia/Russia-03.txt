@@ -1,0 +1,11 @@
+1024  dRI EkH Russia 48 Poliomyelitis YES 13-05-2019
+2788  FJSbL Wwj Russia 109 Tuberculosis NO
+3317  JMUyQA liia Russia 61 Denguefever YES 09-06-2007
+4977  nNX sbREPHZ Russia 118 COVID19  NO
+5332  eXFDhhg OtTjL Russia 83 ShinglesHerpesZoster NO
+6207  rTbmYc vxpE Russia 102 Denguefever NO
+6531  kqPf YoJSgl Russia 78 Haemophilusinfluenzaetypeb YES 24-06-2000
+7460  BaJqXo LSbxIk Russia 3 Japaneseencephalitis YES 24-05-2017
+8091  zOsI utlIg Russia 87 Humanpapillomavirusinfection YES 13-03-2009
+8661  SnOXS IlW Russia 63 Rabies NO
+9794  VLjErj Xti Russia 18 Rubella YES 05-03-2018

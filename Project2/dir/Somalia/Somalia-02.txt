@@ -1,0 +1,13 @@
+322  peo ExF Somalia 69 Influenza NO
+1293  CTZG IVuQ Somalia 76 Tuberculosis YES 20-09-2019
+1956  wJg XQRfksW Somalia 103 Tetanus YES 04-02-2003
+2519  hpR FQr Somalia 84 Haemophilusinfluenzaetypeb NO
+2976  Jzou lXGghJ Somalia 17 Varicella YES 02-02-2019
+4266  BCjkziP fvfx Somalia 6 Malaria YES 19-02-2019
+4841  saXDMTi FTl Somalia 99 Typhoidfever NO
+5908  ghz QhBZm Somalia 9 Influenza NO
+6279  WLGlMq fshBEAh Somalia 70 Haemophilusinfluenzaetypeb NO
+7848  IPIlfS UzXy Somalia 13 HepatitisB NO
+9030  Xjw OOAbPP Somalia 50 Pneumococcaldisease YES 13-02-2003
+9498  qES VcMM Somalia 70 Tuberculosis YES 16-01-2018
+9917  cuOkrk EZOcdCC Somalia 98 Influenza YES 11-08-2010

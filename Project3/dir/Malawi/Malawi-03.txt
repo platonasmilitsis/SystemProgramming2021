@@ -1,0 +1,11 @@
+448  Njs PreL Malawi 83 Cholera NO
+1277  vEaAUy Bclnt Malawi 4 Malaria NO
+1588  wrrPvsf yvcoSJw Malawi 119 Ebolavirus NO
+2167  XXhc wdzDHo Malawi 61 Varicella YES 23-03-2016
+4421  oKhWLNd sSgDZey Malawi 36 Pertussis YES 22-05-2001
+5216  QfqmTyk JoPTTv Malawi 43 Meningococcaldisease YES 27-03-2001
+5730  ybFi OQPMB Malawi 76 Varicella NO
+7562  gsN EUJS Malawi 92 Denguefever YES 10-03-2005
+7979  JYamUX kdlNJ Malawi 76 COVID19  NO
+8630  rDeghpl PQoQCe Malawi 115 Malaria YES 06-05-2014
+9677  sHJzh ouTbW Malawi 35 ShinglesHerpesZoster NO

@@ -1,0 +1,11 @@
+461  mTNz loaSV Djibouti 51 Cholera NO
+1053  uDEGlyo ZnwyJj Djibouti 106 Malaria YES 26-01-2013
+1597  CGIfSRY nwfN Djibouti 83 ShinglesHerpesZoster YES 10-08-2019
+2140  gFOgtm RMFz Djibouti 4 Meningococcaldisease YES 29-02-2000
+3140  xDsuEmz WrKXF Djibouti 106 Ebolavirus NO
+3528  kIImjWr rZNsfz Djibouti 97 Denguefever YES 02-03-2003
+4642  dAI hCKtb Djibouti 115 Measles YES 13-03-2001
+5217  snJY koItN Djibouti 79 Diphtheria NO
+6543  XkMXVf ErI Djibouti 66 Japaneseencephalitis NO
+7377  eCTXjrT odIctK Djibouti 34 Varicella NO
+8235  RmYA Rdvfq Djibouti 53 Meningococcaldisease NO

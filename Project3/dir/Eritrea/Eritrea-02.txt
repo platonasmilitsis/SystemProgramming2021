@@ -1,0 +1,11 @@
+1230  gUCPzk nRcOa Eritrea 27 Yellowfever NO
+1826  Hzdmg rHUwZy Eritrea 97 Measles NO
+3451  QGFYqsb yAgfITu Eritrea 99 Haemophilusinfluenzaetypeb NO
+3885  ycTiiU IUiT Eritrea 29 Poliomyelitis NO
+4676  hFjaf pUmd Eritrea 36 HepatitisB YES 18-07-2015
+5082  AjIrDEJ sirjNV Eritrea 13 Typhoidfever YES 21-12-2001
+6750  bCVky jTtXjKg Eritrea 112 COVID19  YES 26-10-2004
+7443  zCuYGS eJSo Eritrea 96 Pneumococcaldisease YES 25-08-2012
+7947  DDsVCk VmydoVu Eritrea 87 HepatitisB YES 29-06-2012
+8685  ZOW DzF Eritrea 38 Ebolavirus NO
+9633  BihixtW YNVEv Eritrea 120 Cholera NO

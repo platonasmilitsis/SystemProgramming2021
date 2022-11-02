@@ -1,0 +1,12 @@
+87  RbNKAqp jnxxzQf Malawi 110 Rabies YES 22-03-2016
+622  piZ xpmJdpt Malawi 89 HepatitisB NO
+1345  bhk XUwajFM Malawi 65 HepatitisE NO
+1692  SUTrfor wGJNbA Malawi 91 Varicella NO
+2870  FaCR Hjsb Malawi 112 HepatitisA YES 03-11-2016
+4647  tkC QFQ Malawi 21 Mumps YES 02-04-1996
+5239  sMFllG MfV Malawi 31 HepatitisE YES 01-04-2000
+5967  fnBr WEdaa Malawi 72 Mumps YES 20-02-2015
+7664  sMwtg NHAr Malawi 46 Ebolavirus YES 11-01-2013
+8133  FlaBqA NAWgwLC Malawi 113 Denguefever NO
+9265  AfDE EnSfoM Malawi 93 Diphtheria NO
+9807  DoH qYFnR Malawi 24 HepatitisB YES 18-06-2016

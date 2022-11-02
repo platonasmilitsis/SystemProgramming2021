@@ -1,0 +1,13 @@
+11  hVZxNj InWiQqQ Niger 32 Typhoidfever YES 16-05-2016
+397  srRj lFXJgy Niger 107 Poliomyelitis NO
+1179  IahIKtw GcXW Niger 15 Tickborneencephalitis NO
+1991  SMY dqYSB Niger 74 HepatitisB YES 15-11-2005
+2416  vTBv pAUrH Niger 28 Poliomyelitis NO
+3779  WPDz RyDQhIi Niger 100 Meningococcaldisease NO
+4479  GPd cXFPL Niger 85 HepatitisE NO
+5331  XjM KUuloL Niger 44 Rubella NO
+6166  fUVda Mbv Niger 100 Haemophilusinfluenzaetypeb YES 26-07-2019
+6639  DwAx YgFeX Niger 108 Haemophilusinfluenzaetypeb YES 04-04-2015
+8098  pvuLM feCFlnL Niger 77 ShinglesHerpesZoster NO
+8354  mroisq hUUVg Niger 103 Pneumococcaldisease YES 13-07-2008
+9091  GzrTqGA SXtr Niger 4 Poliomyelitis NO

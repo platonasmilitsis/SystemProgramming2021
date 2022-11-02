@@ -1,0 +1,14 @@
+320  BeTEwPm gfS Samoa 114 Pertussis NO
+1211  cyVI JEwZdsh Samoa 17 HepatitisB YES 30-03-2019
+1902  Ibk wUN Samoa 50 Japaneseencephalitis NO
+2735  uILFl PDjIC Samoa 44 Rubella NO
+3255  oiPra NRH Samoa 69 Japaneseencephalitis NO
+3822  QhJzc BdQxWk Samoa 32 Meningococcaldisease YES 15-06-2013
+4268  suj AmyEIq Samoa 101 Measles NO
+5259  rGcEaJy cNa Samoa 46 Pneumococcaldisease NO
+5613  ZJJSTb IVSBOBZ Samoa 96 HepatitisA NO
+6204  TKTTe AxkBu Samoa 59 Malaria YES 11-02-2019
+6904  Ykyq zGinrF Samoa 65 Haemophilusinfluenzaetypeb NO
+8054  fdpPZud sxayuYn Samoa 106 Haemophilusinfluenzaetypeb YES 24-10-2004
+8904  GYaBd GmaulCQ Samoa 57 Measles YES 04-05-2009
+9430  OAjVRs tqK Samoa 69 Tuberculosis YES 10-04-2010

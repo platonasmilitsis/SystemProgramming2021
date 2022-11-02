@@ -1,0 +1,13 @@
+662  OYtvwp jPFVc CentralAfricanRepublic 14 Measles NO
+1771  sqDh Xwu CentralAfricanRepublic 3 ShinglesHerpesZoster YES 07-09-2008
+2491  ICjwa xdArqzE CentralAfricanRepublic 18 Pertussis NO
+3162  waciG bLnXwQH CentralAfricanRepublic 99 Cholera NO
+4323  OGtboK MahcZ CentralAfricanRepublic 1 Rotavirusgastroenteritis YES 19-11-2001
+5294  ImJmYU AEr CentralAfricanRepublic 112 Measles YES 01-07-1997
+5617  TfkuO qwYB CentralAfricanRepublic 27 Denguefever YES 01-03-2010
+5992  CXMYk aUpq CentralAfricanRepublic 6 Varicella YES 26-11-2011
+6463  ISlfR qBuR CentralAfricanRepublic 74 ShinglesHerpesZoster NO
+7177  VMxBmpe vqery CentralAfricanRepublic 71 Pneumococcaldisease YES 22-12-2010
+7304  PgF hwJgU CentralAfricanRepublic 14 Yellowfever NO
+8502  GQhWdCq krQ CentralAfricanRepublic 56 Humanpapillomavirusinfection YES 04-01-2007
+9546  glRpA eDtMCl CentralAfricanRepublic 28 ShinglesHerpesZoster YES 20-02-1999

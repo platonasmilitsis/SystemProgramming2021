@@ -1,0 +1,14 @@
+206  qkKM UAmy Ghana 8 Pneumococcaldisease NO
+457  jSWkNau OeMQUYI Ghana 54 Yellowfever NO
+944  YTv sEpi Ghana 29 Influenza YES 07-02-2008
+1944  BzFXTa UegJibi Ghana 49 Malaria NO
+2852  OrngskZ nRphfI Ghana 116 Poliomyelitis YES 25-03-2014
+3024  pSLI xvwVkkH Ghana 15 Japaneseencephalitis NO
+3828  Ujrub EpeDcs Ghana 78 Tuberculosis YES 25-10-2018
+4233  GiMSLb tNGGBN Ghana 47 Humanpapillomavirusinfection NO
+5226  ZfU Kcf Ghana 80 Japaneseencephalitis YES 22-10-2006
+6441  wfplC FyFUcTd Ghana 27 COVID19  NO
+6873  KmwtdmL Pvrnrl Ghana 23 Meningococcaldisease NO
+7373  zTu Iaiyz Ghana 13 Tetanus NO
+8025  ZUq MWLoMr Ghana 92 Pertussis NO
+9619  zGwfny XNO Ghana 49 HepatitisE NO

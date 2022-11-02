@@ -1,0 +1,15 @@
+587  lUs beU SierraLeone 28 Tuberculosis YES 24-04-2017
+1017  ZcUS jlr SierraLeone 96 Denguefever YES 09-11-2003
+2036  MlMEJ dLhVpWK SierraLeone 64 Diphtheria YES 16-04-2019
+2541  pxCiPIw hKjURD SierraLeone 18 Measles YES 19-10-2003
+3869  iyfjV NDRkmaQ SierraLeone 12 Meningococcaldisease YES 17-11-2009
+4381  HEGj nbObd SierraLeone 58 Malaria NO
+5966  vZHm KbEpK SierraLeone 30 Poliomyelitis YES 11-08-2000
+6240  AcR mPHFiyK SierraLeone 27 Japaneseencephalitis YES 19-10-2016
+6587  iDw YKYf SierraLeone 9 Rotavirusgastroenteritis YES 05-05-2012
+7263  RVE PdR SierraLeone 83 Malaria YES 21-11-2011
+7657  uCZAz gwaEUC SierraLeone 80 ShinglesHerpesZoster YES 21-10-1995
+7868  luqTVKq tEkoRUW SierraLeone 34 Measles YES 18-05-2018
+8515  iQMNk hBqt SierraLeone 25 Meningococcaldisease YES 17-11-2017
+8941  Uxkwe kzgudsj SierraLeone 39 Rubella NO
+9892  qNwE zJxhbH SierraLeone 83 Pneumococcaldisease NO

@@ -1,0 +1,13 @@
+120  IOKqki mUmuLvj Australia 103 Pneumococcaldisease NO
+645  XUTz zBkZZP Australia 65 Influenza NO
+1131  iJe zww Australia 9 Tetanus NO
+1715  huBfHbO NtO Australia 43 Cholera NO
+2348  ezso lDCYR Australia 107 Ebolavirus NO
+3399  KWfczPb tcFgG Australia 94 Rubella NO
+4083  Csd UFpYqHY Australia 89 Rotavirusgastroenteritis YES 16-10-1997
+4448  srV QhQhO Australia 24 Typhoidfever YES 21-08-1998
+5158  uqlq ZUqKK Australia 88 Pertussis NO
+5712  oBZo VjrA Australia 33 COVID19  NO
+6079  OxkN HVGEB Australia 74 Yellowfever YES 14-09-2005
+7571  bAK vtExKhQ Australia 42 Pertussis NO
+8815  KYxius Gpkv Australia 49 Poliomyelitis NO

@@ -1,0 +1,16 @@
+7  JrQnw zGt Mongolia 82 Poliomyelitis NO
+271  lkiT mfGQ Mongolia 116 ShinglesHerpesZoster NO
+1180  EuyvPg OiEYaKw Mongolia 99 Meningococcaldisease NO
+2636  mLOKzL frR Mongolia 27 Meningococcaldisease NO
+3282  fcUw gtfW Mongolia 75 Tuberculosis NO
+3610  QYqTXfT NDlKf Mongolia 101 Yellowfever NO
+4033  rOd LXPWbF Mongolia 56 Denguefever NO
+5660  fTFI YfLbopr Mongolia 1 ShinglesHerpesZoster YES 15-08-2001
+5944  DIHMT nzDfqFM Mongolia 82 Pertussis YES 17-11-2016
+6819  bFE GoY Mongolia 35 Meningococcaldisease YES 02-05-1996
+7108  yuEkA Aoc Mongolia 1 Influenza NO
+7293  huBywI SKDD Mongolia 95 Yellowfever NO
+7803  upXVGwI RlC Mongolia 94 Varicella NO
+8280  KQHRoJ nqBok Mongolia 63 Haemophilusinfluenzaetypeb YES 14-08-2009
+9218  YelTsxx xKdRVv Mongolia 94 Yellowfever YES 17-01-2012
+9954  kNExnh OhZi Mongolia 82 Rotavirusgastroenteritis YES 01-11-2002

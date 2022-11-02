@@ -1,0 +1,11 @@
+1468  njpMpN SIF Austria 111 Pneumococcaldisease NO
+1993  mAV beoEh Austria 28 Typhoidfever YES 10-08-2012
+2999  xLAgSD YQovqLj Austria 100 HepatitisB NO
+3276  RZtbz fMcr Austria 101 Rotavirusgastroenteritis NO
+3800  hCCIzfa OtWmPbF Austria 115 Typhoidfever YES 05-11-2010
+4806  GQsUrrv tRBXsSH Austria 104 Denguefever YES 19-06-1997
+5383  XzOAjl AcKKbUo Austria 73 Humanpapillomavirusinfection YES 04-07-2009
+6464  UZYQ gWVCO Austria 95 Humanpapillomavirusinfection NO
+7182  Ogfr XOdrCAN Austria 99 Varicella YES 22-11-2007
+8100  nmoXLwZ wwZIL Austria 6 Mumps NO
+9911  qttHfv sUiue Austria 64 Varicella NO

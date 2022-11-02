@@ -1,0 +1,13 @@
+909  pXcefD Kuc Mozambique 73 Poliomyelitis YES 22-09-2010
+1317  OHAjW cYrgTAT Mozambique 59 Influenza YES 02-06-2005
+2095  PiUM OhXbU Mozambique 38 HepatitisA YES 01-01-2019
+2777  nGCHn HrYW Mozambique 96 HepatitisB YES 03-06-2012
+3830  qCm BYqux Mozambique 27 Meningococcaldisease YES 29-09-2015
+4189  WtJBhiR vBEfMM Mozambique 30 Haemophilusinfluenzaetypeb NO
+4985  vQYeQI fYSiNT Mozambique 18 ShinglesHerpesZoster YES 05-12-2004
+6527  KoVXpa RSP Mozambique 88 Cholera NO
+7146  rNU YVPNc Mozambique 75 Pneumococcaldisease YES 11-04-2001
+7769  XiZCzI pXFnlsz Mozambique 79 Meningococcaldisease NO
+8370  PpN AGwD Mozambique 20 Influenza YES 15-08-2004
+9137  CIYbmX TRouhwm Mozambique 50 Cholera NO
+9797  roxlzn yxXCa Mozambique 59 Ebolavirus YES 23-01-2005

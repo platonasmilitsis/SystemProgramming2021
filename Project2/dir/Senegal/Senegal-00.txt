@@ -1,0 +1,13 @@
+470  iXnObP oNJPmh Senegal 64 Varicella YES 12-05-1997
+1092  HRVCg bgN Senegal 96 HepatitisE NO
+1835  XkCnV LIqrbdF Senegal 36 Tickborneencephalitis YES 15-09-2015
+2691  gBVAyV tYWLp Senegal 13 COVID19  YES 19-12-1996
+3490  uZjQRs jGtUg Senegal 70 Meningococcaldisease NO
+3780  HbmJI WOKnJ Senegal 53 Mumps YES 30-06-1999
+4629  PsFAR xTI Senegal 12 Pertussis NO
+5184  kiD SshFns Senegal 13 Pneumococcaldisease NO
+5683  gpDdE HYZkt Senegal 69 Ebolavirus NO
+6580  CaH TpjSHTA Senegal 93 Tuberculosis NO
+7094  vXcoSPW HHjy Senegal 95 HepatitisA NO
+9196  hSiVHfr Bxptxyh Senegal 69 Tuberculosis NO
+9661  jSNAn DoaJip Senegal 120 Haemophilusinfluenzaetypeb YES 13-05-2018

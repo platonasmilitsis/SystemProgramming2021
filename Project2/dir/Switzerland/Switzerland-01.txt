@@ -1,0 +1,12 @@
+158  OMet vjIfz Switzerland 24 Influenza YES 04-08-2000
+653  yWc IlnBUql Switzerland 114 Influenza NO
+1635  YQzekTd BxwXY Switzerland 56 Malaria YES 17-12-2018
+2417  DdGvSF tflku Switzerland 116 Mumps YES 16-12-2005
+3430  TKZHz zcz Switzerland 36 COVID19  YES 12-02-2000
+4942  JDFQf gvjoa Switzerland 116 Tuberculosis NO
+5512  zHfjzC uNMDFCC Switzerland 95 Tickborneencephalitis NO
+5906  dgupUOE YybyX Switzerland 32 Ebolavirus YES 13-04-2009
+6674  mcDztds YcE Switzerland 27 Yellowfever NO
+7309  bpB zTYXHnh Switzerland 86 Tetanus YES 25-12-2008
+8773  MCFHg mtxoyYm Switzerland 63 Pertussis NO
+9022  xak GSCn Switzerland 58 Rotavirusgastroenteritis NO

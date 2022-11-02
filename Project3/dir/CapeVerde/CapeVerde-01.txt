@@ -1,0 +1,14 @@
+32  AmUSx XxGc CapeVerde 67 Rabies YES 01-06-2013
+386  TSylT TdmI CapeVerde 62 Diphtheria YES 01-07-1999
+987  XPcYKiI HLil CapeVerde 13 HepatitisB NO
+1539  zIEk UNV CapeVerde 33 HepatitisE NO
+2041  ooxzkMh QCZHj CapeVerde 115 Japaneseencephalitis NO
+2202  rJjMYr uoRiL CapeVerde 119 Denguefever YES 07-05-2009
+3092  uTWmtlt TIZ CapeVerde 93 Pertussis NO
+4010  klGL WjNLC CapeVerde 64 Pneumococcaldisease YES 30-07-1996
+4544  XeGs gjrsZUm CapeVerde 57 Yellowfever YES 17-02-1999
+5282  FrdGdj olwKdA CapeVerde 68 HepatitisA NO
+6098  rYQSV sFzpZ CapeVerde 85 Meningococcaldisease YES 02-12-2004
+6739  WppL xCTR CapeVerde 83 Cholera NO
+8457  eryj aNLtX CapeVerde 77 Pertussis YES 09-11-2019
+9287  nyaG qCw CapeVerde 84 Tuberculosis NO

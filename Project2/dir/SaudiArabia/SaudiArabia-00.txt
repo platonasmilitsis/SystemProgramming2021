@@ -1,0 +1,12 @@
+283  AjZCsCY JPYbNdH SaudiArabia 119 Malaria NO
+1027  LCAEoRe KAt SaudiArabia 74 ShinglesHerpesZoster NO
+1573  gPkXORU WMKjQV SaudiArabia 72 COVID19  YES 10-10-2005
+2177  LES hnDZj SaudiArabia 103 Meningococcaldisease NO
+2945  FLzmbRY VlSl SaudiArabia 85 Poliomyelitis NO
+3541  XeVf fqR SaudiArabia 118 Tuberculosis NO
+4697  cdoL Thep SaudiArabia 101 Measles NO
+5382  HCEPaFQ RiqY SaudiArabia 100 Rubella NO
+6922  NWWFehD gKChSZ SaudiArabia 99 ShinglesHerpesZoster YES 17-12-2017
+8006  eVI OEOHdD SaudiArabia 7 HepatitisE YES 05-10-2015
+9123  rKRulN uypc SaudiArabia 106 Tickborneencephalitis YES 16-06-2003
+9759  iqGsz wiLi SaudiArabia 30 Japaneseencephalitis YES 13-09-2013

@@ -1,0 +1,11 @@
+931  wKNOAI CfAW Jamaica 6 Rabies YES 17-06-2015
+1701  sti dwWv Jamaica 26 Denguefever YES 19-09-2002
+2233  qQoQus kZJi Jamaica 18 HepatitisB NO
+2767  MDRPT mTpcikP Jamaica 8 Haemophilusinfluenzaetypeb NO
+4119  JhKAYOt rORm Jamaica 25 Influenza YES 23-09-1997
+4470  OttZpZ jWKt Jamaica 67 Tuberculosis YES 12-06-2019
+5290  nHFS Usqm Jamaica 27 COVID19  NO
+6398  zIrshA buAWN Jamaica 71 Malaria NO
+7948  JKKX eHcQnCP Jamaica 96 Meningococcaldisease NO
+8391  psyAh VLzoTw Jamaica 42 Pneumococcaldisease NO
+9349  gmQ mpCjIve Jamaica 58 Mumps NO

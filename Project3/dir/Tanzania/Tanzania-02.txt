@@ -1,0 +1,13 @@
+669  dKbuCJ GRCq Tanzania 61 Haemophilusinfluenzaetypeb YES 29-08-1995
+1339  QZHyB qmXEM Tanzania 6 Cholera YES 07-12-2016
+2276  rZrG SIQW Tanzania 2 Tickborneencephalitis YES 06-03-2002
+2600  hNP ARX Tanzania 36 Yellowfever YES 03-03-2003
+2899  gbqOBK jqTj Tanzania 113 Humanpapillomavirusinfection NO
+4247  kCEcLIh rMFdF Tanzania 17 Tuberculosis NO
+5830  mzBeAu ABnEYu Tanzania 76 Ebolavirus YES 08-07-2013
+6211  klhp meme Tanzania 3 Cholera YES 27-06-2012
+6771  CTneFt DPusNJY Tanzania 3 Yellowfever YES 24-11-2010
+7329  LZl XTpzik Tanzania 26 Mumps NO
+8182  cDnh llFk Tanzania 55 Measles YES 01-02-2005
+8528  EvulQMM OtDd Tanzania 97 Humanpapillomavirusinfection YES 27-12-2012
+9880  xTRlLM LSA Tanzania 47 Japaneseencephalitis NO

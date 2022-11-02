@@ -1,0 +1,13 @@
+51  SDDKd ZGgYYan Niger 113 HepatitisB YES 02-02-2007
+992  vgit QeTaEd Niger 13 Tetanus YES 05-02-2000
+1418  fzCdpt fRSc Niger 47 Haemophilusinfluenzaetypeb YES 04-09-2007
+2158  RqCrLMi kZxLG Niger 80 Tickborneencephalitis NO
+2465  qNKMK gGXoxg Niger 17 Cholera YES 22-12-2006
+4337  bEyKneA lVY Niger 78 Haemophilusinfluenzaetypeb YES 19-02-2004
+4819  KbArr GSg Niger 96 Influenza YES 10-02-2015
+5456  nFqA Fvll Niger 91 Cholera NO
+6180  wmOQT ewGd Niger 81 COVID19  NO
+6742  uRHNRaJ caARPOh Niger 85 Malaria YES 13-01-2008
+8129  VfD yGT Niger 96 Ebolavirus YES 01-08-2005
+8436  YmRR NtJkmHR Niger 17 HepatitisE NO
+9719  CFa XtQ Niger 98 Japaneseencephalitis YES 29-02-2017

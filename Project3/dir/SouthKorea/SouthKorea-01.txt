@@ -1,0 +1,9 @@
+246  CJrsS sKtYKc SouthKorea 116 Typhoidfever YES 07-07-2008
+1066  FrqvQp rStJdH SouthKorea 42 HepatitisE NO
+2651  FYLZ xcfXj SouthKorea 72 Tickborneencephalitis YES 29-12-1998
+3948  RkEW njgZR SouthKorea 120 HepatitisE NO
+4413  xjDGPp nSwBQbU SouthKorea 101 Pneumococcaldisease NO
+4815  FDe CGwdMp SouthKorea 46 Influenza YES 27-06-1997
+6202  jyXBGg uJtD SouthKorea 46 COVID19  NO
+7457  BLtJnmJ IEDIfCP SouthKorea 110 Influenza YES 06-11-2015
+9128  rZeLzW mCTMmN SouthKorea 87 HepatitisB NO

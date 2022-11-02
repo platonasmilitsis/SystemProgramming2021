@@ -1,0 +1,11 @@
+632  SRLMs Zbtv SaudiArabia 53 Japaneseencephalitis NO
+1488  XboMNl axsL SaudiArabia 68 Pneumococcaldisease YES 16-07-2010
+2168  zABCVj iARCVAF SaudiArabia 40 Diphtheria NO
+2585  gsu knA SaudiArabia 45 HepatitisE NO
+3377  FZtw LmHOV SaudiArabia 34 Rotavirusgastroenteritis YES 02-11-2010
+4338  lum YcQcpS SaudiArabia 83 Pertussis NO
+5207  WUAWJW mNVdF SaudiArabia 32 Tickborneencephalitis NO
+6843  uLxEg DbfYV SaudiArabia 52 Typhoidfever NO
+7787  TylvdR gWaHPGF SaudiArabia 58 Denguefever NO
+9072  cYRUu IGRn SaudiArabia 84 Malaria YES 14-07-2006
+9741  iCv azlYZf SaudiArabia 80 Denguefever NO

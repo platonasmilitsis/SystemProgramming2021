@@ -1,0 +1,16 @@
+31  tNqnR QsmDTaV Albania 39 Pneumococcaldisease NO
+344  jUYCD BCR Albania 9 Meningococcaldisease NO
+930  EOy aXJ Albania 38 HepatitisA NO
+1457  HgkhE xla Albania 16 Varicella YES 18-08-2000
+2822  XYdCw WpkZ Albania 39 Poliomyelitis NO
+4042  xbxCS YZrMcT Albania 106 Typhoidfever NO
+4996  ccjvrp uJyvn Albania 86 Tickborneencephalitis YES 08-07-2018
+5228  Ijf jzFU Albania 80 Rotavirusgastroenteritis YES 13-04-2014
+5915  YIsZdd LQBEjRS Albania 30 Rubella YES 25-04-1999
+6718  wisqibn oqSYXfi Albania 107 Varicella YES 04-06-2016
+7318  Riw TrPsEWV Albania 54 HepatitisE NO
+7717  uMJOEuT biQo Albania 94 Pertussis YES 18-12-1999
+7829  EyyY qqyR Albania 66 Tickborneencephalitis NO
+8335  XBVHbea gFKo Albania 8 Diphtheria NO
+9437  kpnoBDD oUF Albania 38 Rubella YES 14-04-2010
+9903  hwbmM tAC Albania 37 HepatitisA NO

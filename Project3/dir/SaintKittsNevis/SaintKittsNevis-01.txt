@@ -1,0 +1,14 @@
+389  mWoNt ubXSf SaintKittsNevis 87 Pneumococcaldisease NO
+1120  chTJ GNboY SaintKittsNevis 51 Meningococcaldisease NO
+2478  jJkbNG shpaLjr SaintKittsNevis 65 Typhoidfever NO
+2862  DeDhbU GCsGz SaintKittsNevis 21 Rabies YES 11-08-2010
+4021  cUp vrOJyDk SaintKittsNevis 54 Japaneseencephalitis YES 05-05-1996
+4624  FBKOU XnSS SaintKittsNevis 39 Ebolavirus NO
+4778  BuUG MryXC SaintKittsNevis 92 Tetanus NO
+5359  CeX SUs SaintKittsNevis 111 Rotavirusgastroenteritis YES 02-03-2015
+5774  rpHua rasttH SaintKittsNevis 119 Rabies YES 08-02-2006
+6416  opyzN VwUF SaintKittsNevis 85 Meningococcaldisease NO
+7448  qdII WXKA SaintKittsNevis 21 Rubella YES 17-06-2017
+8444  bTbuJR NuBilkJ SaintKittsNevis 28 Varicella YES 20-08-2001
+9245  cytWO VMIr SaintKittsNevis 85 Diphtheria NO
+9964  mdSh ukqWWR SaintKittsNevis 38 Humanpapillomavirusinfection NO

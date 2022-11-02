@@ -1,0 +1,13 @@
+561  YtMG GqdKq Australia 16 Influenza YES 01-04-1995
+1094  UrJMpGv wvfhsU Australia 53 Malaria YES 21-11-2005
+1537  TqELh UzUh Australia 56 Cholera YES 13-10-2018
+1857  zlNV skBirVx Australia 59 Yellowfever NO
+3052  eZy cUPpgNY Australia 34 Diphtheria NO
+3632  pAZ zkiHka Australia 1 Poliomyelitis YES 23-02-2005
+4404  oHrT hiQwvi Australia 106 Influenza YES 21-01-1998
+5005  kIBzPe Wgp Australia 78 Measles NO
+5477  fUiV buIH Australia 87 Pertussis NO
+6012  tQZJ WGhUAGr Australia 28 Haemophilusinfluenzaetypeb NO
+7383  ZKCxjl RMfDJ Australia 67 Diphtheria YES 13-11-2018
+8376  zHppOlt ThknNVK Australia 65 Tickborneencephalitis YES 27-07-2002
+9926  tPYIB evGLCpS Australia 119 Mumps NO

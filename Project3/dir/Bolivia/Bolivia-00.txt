@@ -1,0 +1,11 @@
+309  ANmCm Ptv Bolivia 88 Mumps YES 24-10-2009
+840  naZ rpc Bolivia 109 Mumps NO
+1549  XrYQSr MUzch Bolivia 55 Diphtheria NO
+1718  vwA lpCfkDQ Bolivia 54 Mumps YES 04-11-2005
+3028  GBl mLCxyX Bolivia 16 Pertussis NO
+3965  fzE xlcE Bolivia 69 Influenza YES 05-06-2003
+5640  Kjpco oBECp Bolivia 61 HepatitisB NO
+6619  bYfV oMFGj Bolivia 40 Tuberculosis NO
+7537  KEwRUo FyJjnwa Bolivia 27 Tickborneencephalitis YES 26-02-2002
+8224  HrfiT zcBEmkW Bolivia 70 Japaneseencephalitis YES 16-05-2003
+9650  SsBD sKIAPI Bolivia 92 COVID19  YES 22-03-2014

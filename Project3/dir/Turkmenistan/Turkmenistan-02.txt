@@ -1,0 +1,14 @@
+330  xWNv uFFcU Turkmenistan 94 Measles YES 04-10-2011
+526  aZMC kNez Turkmenistan 17 Measles YES 22-10-2016
+1370  fMJIncF mXCUux Turkmenistan 113 Tetanus YES 30-11-2006
+2297  wTarqh CJunm Turkmenistan 83 Yellowfever YES 05-02-2000
+2643  MqCT UkvH Turkmenistan 87 HepatitisB YES 15-03-2019
+3620  Ort tRhOAly Turkmenistan 65 Mumps NO
+5441  SnmO hBuEiZ Turkmenistan 97 Rabies NO
+5743  OPU lIE Turkmenistan 84 Pneumococcaldisease YES 29-02-2008
+6264  RbQBu ojtI Turkmenistan 99 Cholera NO
+6823  TfdtE fNMuxY Turkmenistan 108 HepatitisE NO
+7838  InPEfL rLYJJX Turkmenistan 79 Poliomyelitis NO
+8555  qQCqp fQhMH Turkmenistan 20 Haemophilusinfluenzaetypeb NO
+9067  SToaC jWCe Turkmenistan 8 ShinglesHerpesZoster NO
+9739  FdMC nLnHyjL Turkmenistan 35 COVID19  NO

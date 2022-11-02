@@ -1,0 +1,12 @@
+1374  qrlk suMRFg Seychelles 87 Pneumococcaldisease YES 01-01-2019
+2404  TCqr lSIZS Seychelles 60 Tetanus NO
+2928  UOuFf fRy Seychelles 13 HepatitisA YES 09-05-2000
+3097  Xey lgNPB Seychelles 104 Rotavirusgastroenteritis YES 05-04-1997
+4092  RiUYy mple Seychelles 2 Diphtheria NO
+4735  iGsWY jIbKPX Seychelles 108 Tetanus YES 04-08-2007
+5071  oqkXF ZyHZXc Seychelles 44 Ebolavirus YES 15-04-2004
+5515  OLTPgOH CBa Seychelles 25 Influenza YES 20-07-2004
+5880  DqLWop xNKLt Seychelles 18 Rubella YES 06-04-2018
+7073  AjivMg Bxa Seychelles 78 Tetanus YES 26-03-2006
+8254  IGCk xeZb Seychelles 60 Rotavirusgastroenteritis YES 06-04-2019
+9062  hEzjw dhqRpk Seychelles 102 Rotavirusgastroenteritis NO

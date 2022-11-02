@@ -1,0 +1,14 @@
+57  aYqCi wkSr Turkmenistan 35 Cholera NO
+404  KwhH mRuqruv Turkmenistan 58 Rubella NO
+1065  XgKLjXM Fwt Turkmenistan 101 Pertussis YES 17-03-2017
+1838  DVoIJ jWzep Turkmenistan 76 Measles YES 18-07-2011
+2476  cZLckjC MgWBxg Turkmenistan 21 Denguefever YES 09-06-1998
+3516  CsO FECFg Turkmenistan 109 Tetanus NO
+4808  nWBh mPCtjIS Turkmenistan 38 Humanpapillomavirusinfection NO
+5524  YFQEEiA XPXdGZb Turkmenistan 28 Influenza NO
+6007  QrxIShU nBp Turkmenistan 42 Rabies YES 15-02-2011
+6652  aRyg UFhlh Turkmenistan 120 Mumps NO
+7284  jlyEcml AMC Turkmenistan 107 Tuberculosis NO
+8236  OUyzJBy oclsgjU Turkmenistan 109 Pertussis NO
+8853  PMaZVn iptqrNL Turkmenistan 82 Meningococcaldisease YES 25-06-2015
+9474  cZmxRe XUJ Turkmenistan 1 Rotavirusgastroenteritis NO

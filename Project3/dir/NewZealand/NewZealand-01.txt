@@ -1,0 +1,14 @@
+293  PHF cRX NewZealand 4 Rabies NO
+914  Dttkjq dJrI NewZealand 66 COVID19  NO
+1518  XeJKIZ FXc NewZealand 69 Tuberculosis NO
+2026  RyZLEdq BDpK NewZealand 67 Cholera NO
+2732  rgXdDE XUpFf NewZealand 6 Malaria YES 26-07-1998
+3580  qFjThPN pNh NewZealand 54 Meningococcaldisease YES 25-09-2000
+4236  racH VuLg NewZealand 19 Ebolavirus NO
+4707  uXAwvq OseaWq NewZealand 120 Rabies YES 30-06-2018
+6102  REmXJ YrQs NewZealand 110 Tickborneencephalitis YES 19-05-2018
+6784  pwcw weMeHTk NewZealand 7 ShinglesHerpesZoster YES 07-02-2005
+7187  JZljF FmbJKJF NewZealand 53 Japaneseencephalitis YES 23-11-1996
+8233  MmK ZrxvQtS NewZealand 86 Tickborneencephalitis NO
+8619  YsVHQ GNKD NewZealand 107 COVID19  YES 08-02-2018
+9188  lPtHm CthyJ NewZealand 29 Tetanus YES 02-11-2017

@@ -1,0 +1,14 @@
+41  VFT Mwyx CapeVerde 43 Rubella NO
+650  pMx qDOjw CapeVerde 81 Pertussis NO
+1025  mTaV utQEIyC CapeVerde 81 Tuberculosis NO
+1544  eOkASlT QccJ CapeVerde 80 Rubella NO
+2165  XyzdVMA pNefNtc CapeVerde 44 Poliomyelitis NO
+2604  gUJz DMNUORj CapeVerde 110 Varicella YES 01-08-2008
+3213  XQLDej iIldM CapeVerde 88 Tetanus NO
+4291  PFf ECDNK CapeVerde 7 COVID19  NO
+5055  qeQv kPAjq CapeVerde 59 Yellowfever NO
+5503  hdClO ERIYAg CapeVerde 76 Varicella YES 24-02-2016
+6368  AEyJ BZHLECF CapeVerde 44 Cholera YES 12-10-2013
+6908  iwfnwJH Ydy CapeVerde 29 Poliomyelitis YES 28-02-2008
+8672  nogsJNb XPf CapeVerde 44 Mumps NO
+9352  POqvni aTAr CapeVerde 19 Humanpapillomavirusinfection YES 23-04-2017

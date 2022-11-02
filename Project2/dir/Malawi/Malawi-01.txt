@@ -1,0 +1,11 @@
+159  OzULu OCy Malawi 72 Influenza YES 04-11-2012
+833  hIqtUZ DmFQ Malawi 30 Pertussis YES 28-09-1998
+1483  tdf CQJjmi Malawi 91 Poliomyelitis YES 21-11-1997
+1711  yabXb DLgQE Malawi 48 Cholera NO
+2897  Kens fSteHSI Malawi 18 Malaria NO
+4664  hmcjPiF eWLXgQ Malawi 33 Diphtheria NO
+5579  ovKSt nwof Malawi 46 Typhoidfever YES 14-10-2017
+6856  GInhLN xrlwL Malawi 92 Meningococcaldisease NO
+7693  Neo nJoqdRP Malawi 25 Influenza YES 15-05-2003
+8302  tzMfx aOZpQRA Malawi 13 HepatitisB YES 23-06-2013
+9280  siPQBsg OKcStx Malawi 35 Influenza YES 28-10-2015

@@ -1,0 +1,13 @@
+22  RpI hsAmg SolomonIslands 25 Measles NO
+704  pZy glgVSu SolomonIslands 120 Malaria YES 12-11-2012
+1059  VfKMMOc pVve SolomonIslands 50 Measles NO
+1667  cLEWtc qrljPC SolomonIslands 112 HepatitisA NO
+2269  PSgGwC icInR SolomonIslands 20 Influenza NO
+3628  mNqpP fbRTbPg SolomonIslands 25 Typhoidfever NO
+4357  TsoFDxN SWeaUrc SolomonIslands 96 Poliomyelitis YES 05-08-1996
+5629  eoxcY MzFnYk SolomonIslands 44 Japaneseencephalitis NO
+6828  oVlBbex Mto SolomonIslands 118 Influenza YES 22-02-2013
+7485  REnv Lmeuc SolomonIslands 60 Pertussis NO
+8118  IvVi cMzoH SolomonIslands 6 Measles YES 20-04-2019
+8489  PaM WOIn SolomonIslands 78 COVID19  NO
+8841  cUXval toCPj SolomonIslands 42 Rabies NO

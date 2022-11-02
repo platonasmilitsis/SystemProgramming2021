@@ -1,0 +1,11 @@
+643  ONYZ aCilJPz Morocco 44 Malaria NO
+1302  xjIVMqD pdTlzd Morocco 72 Measles NO
+1852  avyA AcT Morocco 67 Rubella NO
+2826  KWjRyFD WshGxIu Morocco 88 Denguefever NO
+3359  cCpLwN bUXlVAm Morocco 6 Pneumococcaldisease YES 12-04-1999
+4151  jHtfUTd AKP Morocco 18 Cholera YES 18-01-2014
+5732  qDhx Cmq Morocco 60 Cholera YES 18-05-1997
+6392  YTfwuZR CJfERwy Morocco 76 Poliomyelitis YES 04-03-2000
+6616  fcdWKR QKTCT Morocco 106 Pneumococcaldisease NO
+7680  Mpm lNRCrW Morocco 33 Typhoidfever YES 28-12-2011
+9846  wnKq LEKowDt Morocco 44 Poliomyelitis NO

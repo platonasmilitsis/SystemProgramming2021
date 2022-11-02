@@ -1,0 +1,11 @@
+1602  SUYIvS LqGP Luxembourg 88 Tetanus YES 08-09-2007
+1922  VFAHvH msuzP Luxembourg 18 Rotavirusgastroenteritis NO
+2905  uDhg aam Luxembourg 31 Pneumococcaldisease NO
+3751  wJAO FCfNiY Luxembourg 21 Meningococcaldisease NO
+4812  VKMyC vZDjKTM Luxembourg 87 Ebolavirus YES 28-02-2007
+5249  IxbFnmC LXyB Luxembourg 10 HepatitisB NO
+5516  IvOmgO RkYZxR Luxembourg 60 Varicella YES 04-09-1999
+6171  xrnZX qHwGs Luxembourg 118 Influenza NO
+7366  irN IOG Luxembourg 112 Poliomyelitis YES 06-10-2001
+7793  rkEaKuS DfuY Luxembourg 18 Malaria YES 14-06-2013
+8949  EBBNGQ sLJsmR Luxembourg 100 Pneumococcaldisease NO

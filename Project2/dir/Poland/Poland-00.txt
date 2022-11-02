@@ -1,0 +1,14 @@
+207  zDp wgRXZs Poland 75 Haemophilusinfluenzaetypeb NO
+454  FvPRjTf SmSd Poland 68 Pertussis YES 09-08-2017
+1379  cHtyQq rzHbWJk Poland 49 Pertussis YES 28-02-2003
+1764  ylyihJ PCMa Poland 73 Pneumococcaldisease NO
+2156  SAq SOUQ Poland 3 COVID19  YES 07-12-2007
+3049  vLf OjbHR Poland 106 HepatitisA YES 03-11-2017
+4349  oHdYLmC cGmsUx Poland 20 Haemophilusinfluenzaetypeb YES 16-11-2016
+5675  rFHhwo CwtjmNb Poland 69 HepatitisE YES 12-02-2019
+6129  gkCuPP vIHV Poland 13 Influenza YES 02-08-2005
+6635  YQerMY kfjwQ Poland 40 Tickborneencephalitis NO
+7270  wMa euM Poland 87 Yellowfever NO
+7486  lFJAlf znfjdK Poland 103 Pneumococcaldisease NO
+8621  fCaMe cVIcJ Poland 63 Pertussis YES 05-01-2006
+9549  xUmqJ eTxx Poland 112 COVID19  YES 12-12-2008

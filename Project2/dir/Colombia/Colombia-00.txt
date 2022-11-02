@@ -1,0 +1,16 @@
+111  lEbdsCB ugLGlsD Colombia 26 Japaneseencephalitis YES 10-09-2016
+767  vGFv fSkZdL Colombia 38 HepatitisE YES 29-10-2004
+1452  nxTbaG gLj Colombia 82 Humanpapillomavirusinfection NO
+1914  MPHqKh sqJVM Colombia 41 Mumps YES 14-07-2003
+3056  NhLp zPMB Colombia 116 Pneumococcaldisease NO
+3433  hFbLnwZ fXdPq Colombia 87 Poliomyelitis NO
+3928  RZgXo kAn Colombia 36 COVID19  NO
+4071  BETxWn vdq Colombia 96 Denguefever NO
+4393  kufVzJ OGtk Colombia 28 ShinglesHerpesZoster NO
+4701  MdVSbP oFd Colombia 58 Tuberculosis NO
+5582  uoSl qNNl Colombia 66 Tickborneencephalitis NO
+6118  jBo zPB Colombia 67 Yellowfever YES 25-10-2019
+7127  ZaGx YeDoEB Colombia 117 Cholera NO
+7942  wFb FiPMxv Colombia 55 Mumps NO
+8441  tuJv rUgE Colombia 2 COVID19  YES 10-07-2011
+8978  wXT odqk Colombia 20 Tickborneencephalitis NO

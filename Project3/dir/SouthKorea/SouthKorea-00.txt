@@ -1,0 +1,9 @@
+171  tkmIzv rWRId SouthKorea 100 Poliomyelitis YES 23-10-2011
+624  tHJd hOwLZnY SouthKorea 106 Yellowfever NO
+2368  zoKZ TskFNb SouthKorea 19 Cholera NO
+3548  rMd kwk SouthKorea 112 Mumps NO
+4136  eEBT vLb SouthKorea 33 Japaneseencephalitis YES 15-09-2000
+4751  rXwQ dgOOcST SouthKorea 47 Poliomyelitis NO
+6173  MvtN GusAjv SouthKorea 86 Pneumococcaldisease YES 02-04-2015
+7104  QECnT kqp SouthKorea 118 HepatitisA YES 02-08-2013
+8992  dVylhQL EwZta SouthKorea 78 Meningococcaldisease YES 26-09-2003

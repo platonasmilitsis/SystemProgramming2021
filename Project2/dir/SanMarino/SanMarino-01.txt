@@ -1,0 +1,11 @@
+766  tbklVuq fCFn SanMarino 39 HepatitisB YES 02-06-2019
+1940  zHG NSAH SanMarino 1 Pertussis NO
+2588  pdXCfs Ttg SanMarino 46 Pneumococcaldisease YES 30-06-2001
+3646  sYpVR gpLbAiq SanMarino 100 Rotavirusgastroenteritis YES 27-01-2006
+4049  dTRu XMrvv SanMarino 39 Influenza NO
+4540  gxvXc vgotr SanMarino 111 Pneumococcaldisease NO
+5561  JhaNdn ljeGaXV SanMarino 43 Pneumococcaldisease NO
+6333  kta JVTgfFr SanMarino 72 COVID19  YES 12-08-2002
+7041  zlrJVcZ PwQrpf SanMarino 102 Pertussis YES 01-12-1998
+8204  afqZy ybcYt SanMarino 107 Tickborneencephalitis YES 20-06-2004
+9750  iTWjg qgS SanMarino 13 Pertussis NO

@@ -1,0 +1,12 @@
+100  mWYUY CUloaS Estonia 37 Poliomyelitis YES 01-08-2007
+558  osVZJ ftARmAe Estonia 113 Tetanus NO
+1275  ihyzAeF OWPod Estonia 73 Tickborneencephalitis NO
+2358  sLRyo xGKVZ Estonia 14 Tickborneencephalitis YES 15-03-2004
+3544  cDP HykuQpG Estonia 104 Malaria NO
+4579  VSSEuzQ aBprCo Estonia 70 Japaneseencephalitis YES 21-04-2017
+5416  Eqk TIPD Estonia 63 Humanpapillomavirusinfection NO
+6403  RmYydZY VpY Estonia 101 Pertussis YES 16-07-2017
+7426  hco HWaewT Estonia 91 HepatitisA NO
+8127  DuNpPh MJlcNZO Estonia 118 Japaneseencephalitis YES 09-02-2014
+8842  rhJRaF MjCmOo Estonia 56 COVID19  YES 11-03-1996
+9532  Eilcg CORNh Estonia 73 Poliomyelitis YES 29-10-2013

@@ -1,0 +1,16 @@
+165  HGPZItb Hcas Mongolia 13 Pneumococcaldisease NO
+703  RZXMu tEdTPiL Mongolia 39 Yellowfever NO
+1876  klat Ywn Mongolia 84 Rotavirusgastroenteritis NO
+3235  NUKfus XkI Mongolia 17 Poliomyelitis YES 04-06-2008
+3555  jmT rvfgBwg Mongolia 86 Rabies NO
+3824  dBxyDN ODfJx Mongolia 63 Influenza YES 07-09-2006
+5126  lJb WBrVenn Mongolia 68 Pneumococcaldisease NO
+5806  hvPdQg ibKO Mongolia 50 Cholera YES 09-11-2009
+6745  IAHXF aTcuYY Mongolia 104 Mumps NO
+6901  KQacl UnI Mongolia 99 Denguefever YES 21-10-2011
+7211  hXnv owMrzRq Mongolia 102 Measles NO
+7413  sSRX udQh Mongolia 66 Influenza YES 04-12-2009
+7997  NiGq gBEV Mongolia 35 Rotavirusgastroenteritis NO
+9038  Inlm taEw Mongolia 87 Tickborneencephalitis NO
+9508  uLBCsFP prd Mongolia 74 Cholera NO
+9999  TYu nRT Mongolia 89 Mumps NO

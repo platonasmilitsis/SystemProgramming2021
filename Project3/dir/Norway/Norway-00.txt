@@ -1,0 +1,11 @@
+62  UhR xtr Norway 30 Malaria YES 04-06-2007
+1165  BHD wCnh Norway 59 Poliomyelitis YES 03-07-2018
+1434  klKKfE MiQVeF Norway 26 Rabies YES 26-07-2014
+2246  pIhw pjuuYi Norway 97 Tuberculosis NO
+2952  Kfa NRX Norway 97 Rabies YES 09-09-2010
+3936  QXmBGu GqH Norway 16 Influenza YES 09-05-2001
+5125  FhNFk NjZDGY Norway 45 Ebolavirus YES 28-08-2015
+6227  gLGnx YGRTjS Norway 39 Tickborneencephalitis YES 12-08-1996
+7294  zhPk BLh Norway 87 Pneumococcaldisease NO
+8072  bbCHPQu dIwfja Norway 109 Humanpapillomavirusinfection NO
+9138  TowB EAstBd Norway 35 Varicella YES 14-11-2014

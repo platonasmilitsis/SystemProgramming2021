@@ -1,0 +1,16 @@
+240  CDF WbFfe Gabon 89 Yellowfever NO
+1287  DkpuY mMMUU Gabon 1 Ebolavirus YES 17-03-2018
+1889  UDjjYE vLUvuEa Gabon 4 Rabies NO
+2058  kUjfN xPgcNG Gabon 6 Diphtheria YES 12-01-2013
+2816  rChs KKpQd Gabon 18 Varicella YES 10-08-2005
+3369  qWmh FdI Gabon 34 Tetanus NO
+4601  vZWW liiui Gabon 82 Rubella YES 14-04-2013
+5378  POy bQDPvp Gabon 47 Ebolavirus NO
+5747  orRCSS haQfl Gabon 20 Tickborneencephalitis YES 22-04-2014
+6461  EdS dKMkPV Gabon 38 Tuberculosis NO
+6701  EBguG OLoifl Gabon 58 Influenza NO
+7167  nTnfGa EetC Gabon 4 Tetanus NO
+8196  PsRDWb XlvjM Gabon 66 Cholera NO
+9003  qRVA kEfywy Gabon 86 HepatitisE NO
+9228  dcMfpKQ jcLpwH Gabon 29 Humanpapillomavirusinfection NO
+9631  rTT xuTRYnY Gabon 18 Meningococcaldisease NO

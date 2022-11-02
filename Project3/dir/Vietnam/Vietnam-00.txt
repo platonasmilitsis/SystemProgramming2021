@@ -1,0 +1,14 @@
+270  mJKMbQI yTZ Vietnam 86 Haemophilusinfluenzaetypeb YES 13-09-1999
+2007  HuoM EAunvLO Vietnam 63 Rubella NO
+2615  ntwnnl bRvWSG Vietnam 3 Typhoidfever YES 21-01-1997
+3536  tUCrkLI BjxoW Vietnam 6 Diphtheria NO
+4094  VzKCo ldPCNE Vietnam 6 Mumps NO
+4593  XMO MkaR Vietnam 91 Tuberculosis NO
+5281  rgNUVOU LBcwV Vietnam 119 Humanpapillomavirusinfection YES 03-09-2004
+5928  XPk FrS Vietnam 114 ShinglesHerpesZoster YES 29-11-2011
+6689  UuEAsC azUxr Vietnam 83 Poliomyelitis YES 29-09-2017
+7446  ahgQ mzEX Vietnam 58 Tuberculosis NO
+7797  FpxTz GwMm Vietnam 85 Humanpapillomavirusinfection NO
+8303  ziKhlA HWe Vietnam 61 HepatitisE NO
+8808  LyYWK FVtor Vietnam 25 Rubella NO
+9789  bDI EWWi Vietnam 89 Measles NO

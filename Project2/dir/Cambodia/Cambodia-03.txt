@@ -1,0 +1,10 @@
+1045  SioIY yQNqyvC Cambodia 90 Malaria NO
+2028  VgiFkZn fnzj Cambodia 45 Tuberculosis NO
+2527  hDOUGvK paO Cambodia 10 Cholera YES 24-04-2017
+3264  MMafdu mifd Cambodia 51 Typhoidfever YES 06-11-1997
+3940  pNm ZFlSce Cambodia 96 Rubella YES 09-11-1998
+6702  Rym blEQT Cambodia 80 Tetanus YES 07-10-1997
+7352  LXllux rIF Cambodia 67 Influenza NO
+8115  CGe hZwZE Cambodia 119 Haemophilusinfluenzaetypeb NO
+9163  CjK lAhjql Cambodia 29 HepatitisE NO
+9833  DwN MHsx Cambodia 103 Denguefever YES 07-09-2004

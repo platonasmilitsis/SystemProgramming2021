@@ -1,0 +1,13 @@
+261  WDpvAsO NlZa SaoTomePrincipe 118 Measles NO
+769  rvr QWlBaGb SaoTomePrincipe 52 Tetanus YES 26-06-2017
+1935  gQN gsgx SaoTomePrincipe 30 Poliomyelitis NO
+2398  BynU vhVH SaoTomePrincipe 74 Measles YES 21-12-2013
+3814  HdKaOOY lllG SaoTomePrincipe 5 Yellowfever NO
+4059  WNdd dWin SaoTomePrincipe 86 Ebolavirus YES 25-04-1999
+4315  KDMVPR MlErc SaoTomePrincipe 98 COVID19  YES 17-09-2013
+4949  GIcO NRNyLb SaoTomePrincipe 104 Tuberculosis YES 25-01-2005
+5465  lxUuS tdnIDt SaoTomePrincipe 65 Haemophilusinfluenzaetypeb NO
+6348  hLbFHv sAlC SaoTomePrincipe 103 Humanpapillomavirusinfection NO
+7340  iNK JKtP SaoTomePrincipe 46 COVID19  NO
+8469  xqOsO xzg SaoTomePrincipe 30 Mumps NO
+9018  iUa pWwrd SaoTomePrincipe 66 Varicella NO

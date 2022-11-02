@@ -1,0 +1,11 @@
+520  TDRTGt juaaW Tonga 110 HepatitisA NO
+1046  lHwGdQx LyrlvE Tonga 73 Mumps NO
+1804  vkzmZO ncaIAi Tonga 32 Influenza YES 23-06-2012
+2536  mLaQqHW RWVucp Tonga 107 Tickborneencephalitis NO
+4400  IvznA PPluLbl Tonga 38 Tetanus NO
+4675  gWAMfs KogdLi Tonga 74 Diphtheria NO
+5530  mEOo mtmhp Tonga 93 Pneumococcaldisease YES 12-12-1997
+7156  PLBGkeF UDZK Tonga 1 Tetanus YES 26-08-2019
+8328  lzAsUg wBQ Tonga 19 Diphtheria NO
+9096  bnhj pLoKVZo Tonga 97 Poliomyelitis NO
+9757  xlz wRIL Tonga 32 Tuberculosis NO

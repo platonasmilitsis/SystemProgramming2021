@@ -1,0 +1,10 @@
+795  OzpaV UGB Bolivia 118 Meningococcaldisease NO
+1398  qISZIu LOBaP Bolivia 71 Measles NO
+1713  lrrnEN bBinsJS Bolivia 17 HepatitisA NO
+2532  puGzVg gfjgJ Bolivia 66 COVID19  YES 02-03-1999
+3959  syC czbAuJ Bolivia 85 HepatitisB NO
+5028  IiH oQzPuJ Bolivia 19 COVID19  YES 01-01-2013
+6051  sWRF rdb Bolivia 35 Typhoidfever YES 30-08-2008
+6822  wTjG DRztJm Bolivia 117 Pneumococcaldisease NO
+8075  ONsLzB eaxZZtw Bolivia 47 Pertussis YES 29-03-2016
+9385  IMn UlTZ Bolivia 92 Rabies NO

@@ -1,0 +1,12 @@
+857  ajUeA EHxaWn Burundi 88 Influenza YES 03-01-2011
+1455  iitYa Kjr Burundi 5 Measles YES 03-01-2009
+2031  ciwQIcZ Orc Burundi 97 Rabies YES 14-07-1996
+2393  cEWO ZpXMvD Burundi 13 Tuberculosis YES 18-02-2001
+3631  cST EUgBp Burundi 96 Yellowfever NO
+3812  YMMPZQF zwmEGJ Burundi 51 Rubella YES 30-02-2002
+4415  sDI nXUktw Burundi 102 Humanpapillomavirusinfection NO
+5219  bdpDGs ZgbQB Burundi 85 Denguefever YES 25-01-1995
+6905  RFSHf IvqOi Burundi 10 Pertussis NO
+7191  jhynyqf Jqz Burundi 103 Cholera YES 04-11-2005
+8312  yWiK GJp Burundi 9 HepatitisE NO
+9656  rRUa qPbnde Burundi 62 Humanpapillomavirusinfection NO

@@ -1,0 +1,14 @@
+750  Uitoj yDhwOUE VaticanCity 61 Yellowfever NO
+1808  AHeXTz rBmv VaticanCity 115 Meningococcaldisease YES 09-07-1995
+3154  DZy vhlMU VaticanCity 37 Pneumococcaldisease YES 17-06-2018
+3986  TciFd QjWC VaticanCity 68 Measles YES 06-11-2019
+4143  RMN fnZg VaticanCity 73 Denguefever YES 22-01-2005
+4929  LzmQ qrbG VaticanCity 36 Japaneseencephalitis YES 21-03-2001
+5113  KaoY rGKOhu VaticanCity 10 HepatitisE YES 27-12-2008
+5861  MVctdw qgpoYF VaticanCity 14 Rabies NO
+6309  oSuno OHroqV VaticanCity 120 Ebolavirus NO
+6695  OjAEVK cSF VaticanCity 21 Japaneseencephalitis YES 08-08-2018
+7471  ymBFZ TtxWO VaticanCity 111 Tuberculosis YES 07-04-2009
+8131  OcF XlLJy VaticanCity 104 COVID19  NO
+8622  Lab CLfd VaticanCity 1 Measles NO
+9597  lgzoP QBFBv VaticanCity 80 COVID19  YES 24-12-2007

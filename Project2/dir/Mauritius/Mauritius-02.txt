@@ -1,0 +1,11 @@
+1172  BiTqe hoyGBvc Mauritius 68 Poliomyelitis YES 16-05-1996
+1801  sDLTo voy Mauritius 34 Tickborneencephalitis NO
+2362  lTA yLjSOtX Mauritius 54 Influenza YES 25-11-2015
+2744  LUgZUEK vmwJ Mauritius 80 Tickborneencephalitis YES 08-01-1999
+3542  jIDEZSj PGvBA Mauritius 65 Pneumococcaldisease YES 13-02-2018
+3676  Dlx iHU Mauritius 96 Meningococcaldisease NO
+4659  afdIudM Oql Mauritius 24 Pneumococcaldisease YES 10-04-2013
+5690  nua wBiT Mauritius 28 Tetanus YES 29-09-2013
+6798  WpibRD Fwv Mauritius 74 ShinglesHerpesZoster NO
+9028  XPeNf MwZ Mauritius 120 Typhoidfever NO
+9651  IVm aoQac Mauritius 13 Meningococcaldisease NO

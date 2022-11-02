@@ -1,0 +1,11 @@
+575  pDB egY Guinea 62 Pneumococcaldisease NO
+1286  jGM yRRQ Guinea 45 Ebolavirus NO
+2196  HcDcoG wxE Guinea 24 Poliomyelitis NO
+2670  XPBW YJUnv Guinea 77 Meningococcaldisease YES 20-07-2001
+3530  VMbpL NBC Guinea 110 Influenza YES 26-02-2016
+4207  MhRAhA MlV Guinea 25 Tuberculosis YES 16-07-2012
+5298  BAh aGvRc Guinea 65 Yellowfever NO
+6084  cFiASWu RSO Guinea 57 COVID19  YES 23-11-2013
+6982  BTN Osr Guinea 86 Tetanus NO
+7600  jhzH iEPxLZb Guinea 83 Japaneseencephalitis YES 09-07-1996
+9060  FyqeWif Zhj Guinea 92 Rabies NO

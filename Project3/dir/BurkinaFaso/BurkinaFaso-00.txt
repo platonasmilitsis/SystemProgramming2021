@@ -1,0 +1,14 @@
+101  UuWXtOs Rqa BurkinaFaso 115 HepatitisA YES 08-01-2001
+634  CMLtW Ois BurkinaFaso 17 Tickborneencephalitis YES 26-09-2006
+1032  dyeV yDMzLKr BurkinaFaso 20 Pneumococcaldisease NO
+1807  fxkyS aApS BurkinaFaso 28 HepatitisA YES 09-05-2016
+2311  SXviZo aovy BurkinaFaso 60 HepatitisE NO
+3005  SFKZ vrWOR BurkinaFaso 55 Denguefever YES 14-07-2010
+4407  QNSrO DSKjJ BurkinaFaso 37 Varicella NO
+4738  GahyZTz aREz BurkinaFaso 101 HepatitisA YES 05-10-2009
+4931  Gssh BDbW BurkinaFaso 58 Pertussis YES 13-08-2008
+6037  CiqsDc uZlsz BurkinaFaso 34 Measles YES 10-07-2016
+6288  rfuph HYByP BurkinaFaso 8 Measles NO
+7301  xDXRwx uyM BurkinaFaso 84 Poliomyelitis YES 19-11-2009
+7781  EYhKR QEHXcAw BurkinaFaso 26 Typhoidfever YES 16-04-2005
+9459  tmXSLP yPxFVXP BurkinaFaso 48 Typhoidfever NO

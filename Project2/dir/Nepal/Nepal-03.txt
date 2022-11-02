@@ -1,0 +1,15 @@
+287  BrcJy kJH Nepal 88 Meningococcaldisease YES 05-04-2004
+850  dIhV pod Nepal 46 COVID19  YES 06-07-2009
+1392  mXmC GUfC Nepal 79 Yellowfever NO
+1910  HSeF OpW Nepal 37 Cholera NO
+2795  EvcS FAVbBY Nepal 40 Yellowfever YES 13-10-2006
+4003  UVg KXkZd Nepal 19 Humanpapillomavirusinfection YES 21-03-1997
+4679  YBeHW xPIl Nepal 6 Rubella NO
+5554  jeZP qOY Nepal 20 Pertussis NO
+6884  FFq zyUG Nepal 6 Pneumococcaldisease YES 18-06-2005
+7488  NTbLmy PxFq Nepal 21 Denguefever NO
+8308  gyAvTML BQmKff Nepal 15 Haemophilusinfluenzaetypeb NO
+8534  WHVNgy knVx Nepal 87 Measles YES 14-09-1998
+9205  lDLST pDtAi Nepal 102 Tetanus NO
+9322  hLc drn Nepal 27 Rotavirusgastroenteritis YES 13-06-2008
+9662  NRvbx NhSaBs Nepal 25 Rabies YES 18-01-2013

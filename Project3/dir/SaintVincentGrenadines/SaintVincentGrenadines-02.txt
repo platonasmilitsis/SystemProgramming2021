@@ -1,0 +1,12 @@
+577  MDRPf hIGU SaintVincentGrenadines 110 Ebolavirus YES 15-08-2001
+1762  pktR yjPx SaintVincentGrenadines 25 Tuberculosis NO
+3191  FneZ MwWFDU SaintVincentGrenadines 20 Typhoidfever YES 11-11-1998
+3740  yQuwXXi gFL SaintVincentGrenadines 53 HepatitisE YES 28-10-1996
+5153  PpgftmL DZNu SaintVincentGrenadines 51 Pertussis YES 13-09-2006
+5661  QxUN Jfbp SaintVincentGrenadines 40 HepatitisA NO
+5988  VlTQ MBW SaintVincentGrenadines 18 Denguefever YES 30-03-2007
+6409  Xax BMe SaintVincentGrenadines 81 Malaria YES 10-05-2005
+7047  gQxmB Wtr SaintVincentGrenadines 74 HepatitisB YES 04-09-2006
+7455  PAKR cXtJqT SaintVincentGrenadines 69 Mumps YES 27-03-2006
+8177  rLQnKHQ Ztei SaintVincentGrenadines 50 Rubella YES 29-07-2014
+9170  aTiP rzonZl SaintVincentGrenadines 56 Poliomyelitis NO

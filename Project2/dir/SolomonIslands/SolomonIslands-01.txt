@@ -1,0 +1,13 @@
+183  TOBzKK GTnd SolomonIslands 58 COVID19  YES 22-06-2019
+738  tZt ZpxoLTn SolomonIslands 108 Malaria NO
+1061  fXMhQTL tNZgq SolomonIslands 25 Denguefever NO
+1995  voW mEafT SolomonIslands 53 Haemophilusinfluenzaetypeb NO
+2537  XGNR XbjVUf SolomonIslands 64 Pneumococcaldisease NO
+3682  JhsdNQt oKak SolomonIslands 96 HepatitisE NO
+4610  jwmmuE RuCOnG SolomonIslands 110 HepatitisB NO
+5734  aESY TokTJE SolomonIslands 110 Rubella YES 02-11-1998
+6867  Zvc LBwg SolomonIslands 65 COVID19  YES 08-12-2000
+7815  sxvbx dCJlyv SolomonIslands 111 HepatitisB NO
+8138  RFHaHde fVCWQx SolomonIslands 62 Mumps YES 11-04-2012
+8616  RDOr VFN SolomonIslands 45 Ebolavirus YES 26-12-2016
+8952  oOcVaK DkIgq SolomonIslands 79 Ebolavirus NO

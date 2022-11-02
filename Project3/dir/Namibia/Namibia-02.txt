@@ -1,0 +1,12 @@
+1188  zqyvB hyXY Namibia 20 Pneumococcaldisease YES 29-04-2013
+1793  QIqHZ YPPzd Namibia 110 Influenza NO
+2508  OVp MxbWy Namibia 73 Denguefever YES 14-11-2018
+2633  Atfbdk rRCfl Namibia 99 Yellowfever YES 05-07-2019
+3081  SesgpSb rntnMT Namibia 96 Pertussis NO
+4580  ZBv adt Namibia 75 COVID19  NO
+5778  bPpHIe bEd Namibia 53 Measles YES 02-02-2003
+6613  kIrBzq VluagN Namibia 47 Mumps YES 24-07-1999
+6977  pXu etYrFA Namibia 26 Varicella NO
+7598  QBEnrdx XPpby Namibia 105 Rabies YES 22-11-2013
+8749  ItsH mUiPyoi Namibia 50 Poliomyelitis YES 02-02-2008
+9380  yjqm hJsqAR Namibia 89 Tetanus NO

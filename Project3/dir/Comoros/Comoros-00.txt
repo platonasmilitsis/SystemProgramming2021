@@ -1,0 +1,14 @@
+79  mKXDM kcRSqH Comoros 73 Japaneseencephalitis NO
+525  SYH KpXLG Comoros 2 Rabies NO
+1469  PVYFmAM Jqm Comoros 18 Tetanus NO
+2462  QRz IkBhX Comoros 59 Poliomyelitis NO
+3298  jzNKGFK uzc Comoros 96 Denguefever YES 15-08-2010
+3624  lpNgzXT eKc Comoros 57 Rabies NO
+4017  BkMI dxg Comoros 36 HepatitisE NO
+4498  MUryLS TFDHR Comoros 76 Malaria YES 25-04-2002
+5665  rScxv aZawdCj Comoros 105 Tetanus YES 12-05-2011
+6529  GEGmTw mIzK Comoros 84 Typhoidfever NO
+7096  lhqqLDE Oys Comoros 116 HepatitisE NO
+7464  jCFA FGsZlPm Comoros 102 Rotavirusgastroenteritis YES 01-12-2009
+8750  ZvkXNha yzztJt Comoros 73 Yellowfever YES 26-05-2004
+9325  ICahsFI HFJS Comoros 11 HepatitisA YES 08-12-2007

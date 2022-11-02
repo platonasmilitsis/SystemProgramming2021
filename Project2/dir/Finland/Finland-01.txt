@@ -1,0 +1,11 @@
+94  qNpWT ctFWN Finland 5 Rabies YES 16-12-2014
+971  CEBJU bjSe Finland 103 Denguefever YES 25-01-2008
+1717  raM dseJk Finland 57 Diphtheria NO
+2634  EzDKT VQuW Finland 2 Humanpapillomavirusinfection NO
+3662  QPAPzq WSLmJe Finland 105 Japaneseencephalitis YES 19-05-2008
+4103  ZuQl TPbI Finland 106 COVID19  NO
+4203  UOoT iNa Finland 21 Pneumococcaldisease YES 20-03-2009
+6097  zcLkX AHHbw Finland 4 HepatitisA YES 28-01-2006
+6666  wVFpr HEZkYG Finland 87 COVID19  NO
+8125  nuUe KkpYbs Finland 88 HepatitisE YES 23-05-2011
+9591  GEJjd corp Finland 63 ShinglesHerpesZoster YES 28-09-2017

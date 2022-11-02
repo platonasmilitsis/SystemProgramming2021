@@ -1,0 +1,13 @@
+1686  qCFU WkrIJS CentralAfricanRepublic 28 Rabies NO
+2213  XeIefC NAGPGh CentralAfricanRepublic 23 Cholera NO
+2913  NIQLt dRXzz CentralAfricanRepublic 101 Diphtheria YES 06-09-2019
+3927  keBLyAj qirPw CentralAfricanRepublic 76 Ebolavirus NO
+5065  VbI TMqa CentralAfricanRepublic 86 Measles NO
+5560  kwTAm hWczs CentralAfricanRepublic 10 COVID19  YES 22-01-2003
+5910  Rzw fQe CentralAfricanRepublic 70 ShinglesHerpesZoster YES 03-03-2000
+6447  sBsGdeG IOP CentralAfricanRepublic 97 Rabies NO
+7101  xgMZxFT flkLqFv CentralAfricanRepublic 38 Yellowfever YES 14-11-2009
+7255  dhOPP OYenE CentralAfricanRepublic 30 Influenza NO
+7625  WrbxyKE spPaRGO CentralAfricanRepublic 19 Mumps NO
+9379  Rwj umv CentralAfricanRepublic 105 Malaria NO
+9953  qrFX PchHz CentralAfricanRepublic 17 COVID19  NO

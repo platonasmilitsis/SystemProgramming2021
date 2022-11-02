@@ -1,0 +1,15 @@
+804  BytuS egi SaintLucia 52 Denguefever NO
+1271  cTXjw eQFkRjw SaintLucia 87 Cholera YES 13-11-2013
+1806  TPmKZ WbXMY SaintLucia 89 Ebolavirus YES 11-12-2011
+2760  NNmi JOWxkIi SaintLucia 90 Denguefever NO
+3738  fliPQo UTCO SaintLucia 4 Influenza NO
+4343  WDHNWHN wXGmUDE SaintLucia 117 Mumps NO
+4541  Fkn WZZ SaintLucia 12 Humanpapillomavirusinfection YES 30-12-2012
+4945  ZZgPSvz zJgbyu SaintLucia 91 Tickborneencephalitis YES 28-04-2018
+5671  RizA yksHR SaintLucia 120 Tuberculosis NO
+6592  SpFA XFk SaintLucia 45 Humanpapillomavirusinfection YES 25-03-2019
+7198  XBIAede BnGBrEW SaintLucia 83 Haemophilusinfluenzaetypeb NO
+7523  CLqYb xaBjd SaintLucia 94 Humanpapillomavirusinfection NO
+7986  ExOWmJ PEfOG SaintLucia 27 Measles YES 17-04-2015
+9198  bPJx qNHyHvA SaintLucia 46 Pertussis YES 16-12-2002
+9985  kMHY RWhyaKw SaintLucia 101 Tetanus YES 21-11-2001

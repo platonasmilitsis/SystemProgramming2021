@@ -1,0 +1,13 @@
+213  Ieh KWJ Haiti 52 Meningococcaldisease NO
+990  fNuGR FxFZID Haiti 48 Mumps NO
+1699  mhCOE mZBb Haiti 103 Meningococcaldisease YES 15-11-2001
+1954  KzWDK FtlYET Haiti 72 Malaria YES 13-11-2009
+2632  xjC fjqd Haiti 25 Measles YES 15-10-2017
+3144  WeymL srWy Haiti 35 Pertussis NO
+3848  gbqbAa rGRaw Haiti 54 Rubella NO
+5099  kXG vVGfKmZ Haiti 79 HepatitisA YES 26-02-2007
+6076  xRQ yEzyzPm Haiti 113 Diphtheria NO
+6565  nweylq VFVmlwR Haiti 118 ShinglesHerpesZoster YES 24-09-1995
+7153  CALUOZ FFfifiC Haiti 22 Rabies NO
+8044  jjVxGs gdhzeQ Haiti 4 Haemophilusinfluenzaetypeb YES 30-06-2015
+8896  zyxR BKzGOq Haiti 112 Haemophilusinfluenzaetypeb NO

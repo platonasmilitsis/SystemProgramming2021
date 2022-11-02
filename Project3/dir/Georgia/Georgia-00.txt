@@ -1,0 +1,13 @@
+429  kMLbjGv GnjBNC Georgia 30 Meningococcaldisease YES 28-09-1996
+1054  RltTnX JNjfcW Georgia 109 Varicella NO
+1912  xlkZg xOzOGVz Georgia 39 Diphtheria YES 27-09-2016
+2818  jFDFU SuV Georgia 53 Haemophilusinfluenzaetypeb NO
+2963  QiiX IHN Georgia 52 Rubella NO
+3472  llpZqW GrcFeU Georgia 62 Varicella YES 29-09-2014
+4776  KfeMmc ylMrW Georgia 62 Rabies NO
+5418  HytpgqW cuyi Georgia 10 Yellowfever YES 16-08-2000
+5849  Ury YuaPWpq Georgia 3 Denguefever YES 23-06-2010
+6477  lpUO gZmNTF Georgia 37 Rubella NO
+7439  PfQemV rpywahG Georgia 112 HepatitisB YES 05-10-1996
+8358  sZUpRbH NbGv Georgia 37 Pneumococcaldisease NO
+9519  UXaQ dCMo Georgia 16 Japaneseencephalitis NO

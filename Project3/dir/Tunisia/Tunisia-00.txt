@@ -1,0 +1,14 @@
+256  LBO boC Tunisia 95 Pneumococcaldisease NO
+825  XDiMOD NzxgZTZ Tunisia 54 Diphtheria YES 18-09-1997
+1410  Uvooz EiS Tunisia 38 HepatitisB NO
+1903  oapUEcY KTe Tunisia 3 Pneumococcaldisease NO
+2505  qwPp hxyAXSO Tunisia 16 Typhoidfever NO
+2992  nehmcf VauU Tunisia 106 Haemophilusinfluenzaetypeb YES 21-08-2015
+3717  sMPxP ufh Tunisia 104 Malaria YES 27-03-2000
+4604  kuTNR VdWZs Tunisia 93 COVID19  NO
+5841  tCivOy xEupknT Tunisia 20 HepatitisE NO
+6870  KwyhF Zke Tunisia 46 HepatitisA NO
+7388  Mkdj VzU Tunisia 81 HepatitisB NO
+8283  Nazf gBeRxF Tunisia 96 Varicella YES 17-07-2018
+8720  TMG whR Tunisia 100 Rotavirusgastroenteritis NO
+9166  cSjxH VyPBX Tunisia 91 Influenza NO

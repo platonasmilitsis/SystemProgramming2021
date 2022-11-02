@@ -1,0 +1,15 @@
+714  jyNLR sDEZeiT China 41 Haemophilusinfluenzaetypeb YES 16-09-2012
+994  flETiM uCaHfVA China 104 Malaria NO
+1557  cIcpp aMfG China 72 Malaria NO
+2833  MGui CYsMr China 100 Cholera NO
+3386  BEPtHaR GVTh China 120 Tickborneencephalitis YES 05-08-2019
+3852  hoRsTn liN China 10 Ebolavirus NO
+4549  TPe cWyjIr China 110 ShinglesHerpesZoster NO
+5218  OLcf WOBNJo China 80 Cholera YES 16-10-2004
+5607  PfGpB wnZnco China 35 COVID19  NO
+6030  aDuGCeq ByNy China 62 Tetanus NO
+6932  mLmUb RffG China 102 Tickborneencephalitis NO
+7500  JLbr BbPqTH China 90 Typhoidfever NO
+8453  ookk psNFeaC China 15 Measles YES 10-03-2003
+8964  iyrl NpDJQRC China 1 Influenza YES 19-04-1998
+9085  uRcQ wYX China 8 Pertussis YES 29-01-1998

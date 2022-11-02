@@ -1,0 +1,15 @@
+205  QmVaPfV AfAFx Nauru 40 Tetanus NO
+1062  glcInhi iQnqZNQ Nauru 63 Cholera YES 24-07-2014
+1783  eVG FYO Nauru 112 Cholera NO
+2363  KAqEiW tWq Nauru 12 Rubella YES 11-04-2019
+2803  pIgX aqVnafB Nauru 107 Pneumococcaldisease YES 03-06-2002
+3233  SlSi dNYP Nauru 5 Yellowfever YES 06-03-2000
+3975  brX mOhYBM Nauru 68 Rubella NO
+4506  ahchv TdUFnY Nauru 85 HepatitisA NO
+4984  itEKln NYQqwua Nauru 94 Rubella NO
+6009  sALMpjw vMy Nauru 105 Tetanus NO
+6777  paQq DWCrOo Nauru 65 COVID19  YES 30-07-1996
+7357  KzOl kzgVus Nauru 73 Pertussis NO
+8033  APX JrjnuIt Nauru 8 HepatitisA YES 04-09-1995
+8819  CsQz fpObm Nauru 13 Pertussis YES 24-11-2014
+9593  sBlUPZe gcDZAX Nauru 110 Diphtheria NO

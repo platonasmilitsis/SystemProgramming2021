@@ -1,0 +1,15 @@
+917  EGZYgJS ZXhV Lebanon 84 Pneumococcaldisease YES 15-09-2000
+1629  YqOu nLzRN Lebanon 55 Poliomyelitis YES 19-11-2013
+1751  TWKw dzqNd Lebanon 111 Japaneseencephalitis NO
+2139  DZbiS CdNi Lebanon 117 Tetanus NO
+2714  ntyNMF jtniV Lebanon 97 Rubella NO
+3413  Wzr WfgA Lebanon 55 Humanpapillomavirusinfection NO
+3839  EslnPiR qARuwW Lebanon 106 Denguefever YES 20-08-2008
+4472  OBR wHoqMG Lebanon 84 Cholera NO
+5851  kafUD GQDDTM Lebanon 79 Rubella NO
+6317  pqKhFSH PFSayH Lebanon 84 Influenza YES 14-02-2000
+6800  WAD dFgQX Lebanon 21 Influenza YES 26-10-2004
+7314  KjakV qbXOFTP Lebanon 105 Cholera NO
+8085  tcYfeY uUIg Lebanon 11 Yellowfever YES 28-08-2017
+8479  tfl Ohnugs Lebanon 42 Pertussis YES 16-04-1998
+9396  RKIKWV RwOuuHv Lebanon 63 Tetanus NO

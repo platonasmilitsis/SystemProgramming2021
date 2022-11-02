@@ -1,0 +1,13 @@
+335  IWRc bzAwmKR Turkey 38 Denguefever NO
+1554  ERdyNR akUh Turkey 64 Meningococcaldisease NO
+1703  dlQfC IoHs Turkey 59 Poliomyelitis YES 17-12-2017
+2479  uAqTD FDoXjP Turkey 39 COVID19  YES 16-03-1996
+4086  Wtn cirnC Turkey 79 Malaria YES 04-09-2007
+4505  bQMhFW dzDpb Turkey 54 Tetanus NO
+4946  tkqRrnJ LIdAy Turkey 51 Pneumococcaldisease YES 25-11-2017
+5860  nLPAHa eZqehA Turkey 82 Typhoidfever NO
+6383  rUgVb lwFLzM Turkey 27 Tuberculosis YES 28-09-2010
+6923  gUW JDqmg Turkey 85 Varicella YES 01-04-2005
+7783  LPUh rEYNJcJ Turkey 80 Diphtheria NO
+8798  sXvhgl PRyx Turkey 96 Influenza NO
+9599  edbDTwW poZwJN Turkey 59 Tickborneencephalitis YES 08-01-2001

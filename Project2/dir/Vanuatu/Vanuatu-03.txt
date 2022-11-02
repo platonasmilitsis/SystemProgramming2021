@@ -1,0 +1,9 @@
+1177  QZlTwW IQuws Vanuatu 18 Typhoidfever NO
+2122  Dkc Hkye Vanuatu 69 Poliomyelitis NO
+2779  IKV RdSU Vanuatu 104 Ebolavirus NO
+3202  HfTfNg rNt Vanuatu 16 HepatitisB NO
+3742  XYwJu LOEO Vanuatu 43 Ebolavirus YES 16-10-2019
+5882  FJQgyn LCzsME Vanuatu 19 Typhoidfever YES 09-04-2014
+6987  JAuK AxyO Vanuatu 110 Measles YES 26-11-1996
+8813  WThqjU Ein Vanuatu 2 Yellowfever YES 14-04-2015
+9634  AwVkY LBv Vanuatu 12 Mumps YES 11-09-1999

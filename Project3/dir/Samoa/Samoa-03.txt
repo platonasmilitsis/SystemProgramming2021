@@ -1,0 +1,14 @@
+1076  JxPQFCk wZCho Samoa 22 Meningococcaldisease NO
+1313  yap mHdSLyf Samoa 117 Ebolavirus NO
+2635  eEL deaZFm Samoa 4 Meningococcaldisease NO
+3139  psW sak Samoa 76 Typhoidfever YES 16-06-2007
+3722  iFjG MUH Samoa 115 Varicella NO
+4176  dKk LoNJg Samoa 43 Influenza NO
+4867  AAVFdu yKvue Samoa 66 Yellowfever NO
+5597  Sso pCELvEW Samoa 117 Meningococcaldisease NO
+6188  msXVg GYdoT Samoa 87 Tuberculosis NO
+6596  RcIO NllEByH Samoa 67 Pertussis NO
+8024  NFdUaV uxGqZM Samoa 118 Varicella YES 06-12-2019
+8704  ZBRWO JgEw Samoa 77 Pertussis YES 12-08-2006
+9233  oGt zGZ Samoa 77 Denguefever YES 17-04-1999
+9997  jcCXQgx zaCoC Samoa 55 Ebolavirus NO

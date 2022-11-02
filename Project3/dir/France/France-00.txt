@@ -1,0 +1,11 @@
+143  BjRv khBxE France 16 Mumps NO
+1480  bibJGF aEW France 23 Influenza NO
+1818  GwLo qyHY France 119 Japaneseencephalitis YES 18-06-2006
+2129  Qoet FPra France 87 HepatitisE NO
+3002  IOO AHda France 76 Tickborneencephalitis NO
+4229  mGj vUt France 76 Ebolavirus YES 04-07-1996
+4925  dzZGwL TKKe France 78 Meningococcaldisease NO
+6885  Cdm HEX France 58 Typhoidfever NO
+7755  AtyK sIO France 26 COVID19  NO
+8626  SleXy YCZ France 80 Yellowfever YES 23-11-2005
+9063  BjQgRi iDAGJ France 10 Meningococcaldisease NO

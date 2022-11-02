@@ -1,0 +1,12 @@
+1113  njxGXHA CjNFg Belarus 60 Pertussis YES 24-01-1998
+1551  NqpV bmJk Belarus 5 COVID19  NO
+2203  lpk JpX Belarus 34 Denguefever YES 28-09-1996
+2882  zBWlRSb ahuefgE Belarus 82 Typhoidfever YES 22-05-2007
+3465  EolVW wlTo Belarus 91 Rubella NO
+4165  CDkqAS Havnr Belarus 99 Rotavirusgastroenteritis NO
+6006  VPl AXG Belarus 62 Tickborneencephalitis YES 11-12-2017
+6748  dqZSyVJ sjHxNuj Belarus 23 Haemophilusinfluenzaetypeb YES 10-08-1999
+7512  wWwVx hGhh Belarus 61 Diphtheria YES 04-06-2005
+7818  ljLc JhCsC Belarus 59 Cholera NO
+8804  KjtZhQ hqJJ Belarus 51 COVID19  YES 14-04-2010
+9398  TmhnuDZ HwBuA Belarus 80 HepatitisE NO

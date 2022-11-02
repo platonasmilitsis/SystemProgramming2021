@@ -1,0 +1,13 @@
+435  TjbU UmwM ElSalvador 15 Rabies NO
+1862  bIVEXD TKZJg ElSalvador 39 Rubella YES 17-03-2017
+2383  KNuCDfx exFsuB ElSalvador 2 Ebolavirus NO
+2973  HtgTGAR pLiHatk ElSalvador 108 HepatitisE YES 21-04-1996
+3067  oIdnu JjsWY ElSalvador 108 Humanpapillomavirusinfection YES 02-03-2001
+3923  MpxPV LJf ElSalvador 99 Pertussis NO
+4669  brsKRk vWSFqk ElSalvador 118 Japaneseencephalitis NO
+5210  uMeR AWk ElSalvador 112 Mumps YES 14-06-1997
+6609  ZYx tEYWlH ElSalvador 96 Rotavirusgastroenteritis NO
+7014  RkvE mWoV ElSalvador 97 Pertussis NO
+7303  nNKE hUXkcS ElSalvador 4 Humanpapillomavirusinfection YES 25-05-1996
+8558  qet JOgilu ElSalvador 23 Pneumococcaldisease YES 20-12-2015
+9436  LtbAME axV ElSalvador 119 Tuberculosis NO

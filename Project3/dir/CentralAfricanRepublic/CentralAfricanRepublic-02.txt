@@ -1,0 +1,13 @@
+1216  hqh KMpNgt CentralAfricanRepublic 65 Haemophilusinfluenzaetypeb YES 27-09-2006
+2082  EpvCQEO sOJLT CentralAfricanRepublic 62 Yellowfever YES 16-05-2004
+2847  DrN gyCZa CentralAfricanRepublic 43 Poliomyelitis NO
+3880  XmmKF elkLxR CentralAfricanRepublic 48 Measles NO
+4997  cclsBvM vABnhO CentralAfricanRepublic 107 Rabies YES 21-05-1995
+5472  EtSbW nIZs CentralAfricanRepublic 62 ShinglesHerpesZoster NO
+5760  GUFtswO CVcoZgg CentralAfricanRepublic 48 Tickborneencephalitis NO
+6148  XKhdKTe MmYJEx CentralAfricanRepublic 16 Tuberculosis YES 10-08-1999
+7099  LHSRq XgI CentralAfricanRepublic 28 Rotavirusgastroenteritis NO
+7235  gxVE qancLQV CentralAfricanRepublic 42 Malaria NO
+7520  Kva LKd CentralAfricanRepublic 103 Rabies NO
+9208  qTXzN HVYK CentralAfricanRepublic 10 Cholera NO
+9899  teJU JxEfh CentralAfricanRepublic 64 Rotavirusgastroenteritis YES 15-03-2015

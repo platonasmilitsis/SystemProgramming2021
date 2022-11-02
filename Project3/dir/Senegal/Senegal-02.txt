@@ -1,0 +1,12 @@
+954  cTDCdE ShLqO Senegal 3 Denguefever NO
+1343  Cdg aXEczyw Senegal 46 Cholera YES 10-04-2011
+2075  Ipk CbMeF Senegal 63 Typhoidfever NO
+3352  lUaYJDZ RHGP Senegal 4 HepatitisB NO
+3608  ZVzNDyz HpYQKhD Senegal 24 Tickborneencephalitis NO
+4524  pyVvjR fGqobLu Senegal 11 Meningococcaldisease YES 11-03-2007
+4900  jNBbM wcBtElK Senegal 23 Yellowfever YES 29-02-2000
+5308  bqOyQS eGCwIs Senegal 2 Mumps YES 06-03-2011
+6286  hzJO lSFRQ Senegal 46 Tuberculosis NO
+6851  WjzYp ecDXA Senegal 104 Yellowfever YES 22-06-2015
+7930  CJpQpNs TTfzD Senegal 118 Measles YES 05-05-2006
+9451  STEZHPD ULlbN Senegal 67 Japaneseencephalitis YES 29-06-1999

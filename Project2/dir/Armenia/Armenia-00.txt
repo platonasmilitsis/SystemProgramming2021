@@ -1,0 +1,13 @@
+326  bYHnnmk PiGxvy Armenia 21 Tuberculosis YES 21-09-2010
+711  wWgUYyg oqKw Armenia 67 Measles NO
+1353  uxeEnu YSCKi Armenia 32 Typhoidfever NO
+3305  rdtku GAo Armenia 76 Typhoidfever YES 14-08-2001
+4535  DkXBV sugfPq Armenia 109 Japaneseencephalitis NO
+4937  ZjfMZf fDlyV Armenia 20 Meningococcaldisease NO
+6338  hfJZdIh KJmx Armenia 97 Pneumococcaldisease NO
+6614  MpQbuQx RxMWhO Armenia 50 Influenza NO
+7305  PFw jaER Armenia 6 HepatitisB YES 09-02-1996
+8184  rPPEUd diCts Armenia 66 Rotavirusgastroenteritis NO
+8617  YIyU hxqEUkh Armenia 26 HepatitisA NO
+9620  oRCjEs DwIHhZW Armenia 86 HepatitisE YES 22-05-1998
+9883  FGt ZCrIf Armenia 74 Poliomyelitis NO

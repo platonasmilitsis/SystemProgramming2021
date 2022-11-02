@@ -1,0 +1,12 @@
+367  GWriUPN fXqe Sweden 98 Influenza YES 05-05-1997
+1894  ZUCgIF lmMipCn Sweden 21 Varicella NO
+2441  IdTDhGK GOZZJzc Sweden 115 Yellowfever YES 20-05-2004
+3083  ATanZ wSfd Sweden 67 Rabies YES 24-08-1997
+3579  Kat ypvzgE Sweden 102 Pertussis NO
+3794  mKDT LGLa Sweden 103 Tuberculosis NO
+4830  UwntD HqER Sweden 119 Pneumococcaldisease NO
+5995  CAPOZ TjK Sweden 12 Tickborneencephalitis NO
+7475  lME UAC Sweden 93 Tetanus YES 06-11-2013
+7866  hlZ JCFR Sweden 30 Typhoidfever NO
+9117  LkB AMRIvP Sweden 63 Poliomyelitis YES 03-08-2014
+9945  UaVsK CZq Sweden 2 Yellowfever NO

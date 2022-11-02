@@ -1,0 +1,16 @@
+465  BNQ bVbJ Belgium 85 Haemophilusinfluenzaetypeb NO
+1199  OZKrQ MKfsNxV Belgium 31 Poliomyelitis YES 06-07-2019
+1789  dQh sUDpsU Belgium 30 Japaneseencephalitis NO
+2093  XcqA UCbbWMO Belgium 53 Meningococcaldisease NO
+2507  yRjW vtYeLo Belgium 58 Influenza NO
+3164  ZoukCO iLTk Belgium 18 Tuberculosis NO
+3459  tVLgj krD Belgium 58 Ebolavirus YES 05-12-2012
+4197  zYM vinyl Belgium 118 Diphtheria YES 11-11-2002
+4915  YdCiIy JwqObQv Belgium 10 Diphtheria YES 30-06-1996
+5916  thJDNcM iGw Belgium 23 Meningococcaldisease YES 01-08-1997
+6694  Yab pGLa Belgium 2 Ebolavirus NO
+6971  oUG DiWkZGD Belgium 97 Haemophilusinfluenzaetypeb NO
+7130  yKyFzYy QBXOF Belgium 35 Poliomyelitis YES 23-06-2016
+7532  pEcBs zXUdt Belgium 59 Denguefever YES 06-10-2013
+8286  zASPimu giim Belgium 42 Pertussis NO
+9214  STUEV IBYtu Belgium 111 Humanpapillomavirusinfection NO

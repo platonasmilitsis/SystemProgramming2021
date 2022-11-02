@@ -1,0 +1,14 @@
+8  wCKf fFFqt Kyrgyzstan 24 Tuberculosis YES 13-06-1998
+1052  tIF PphevXp Kyrgyzstan 82 Poliomyelitis NO
+1438  PgUQXT CFQGHJ Kyrgyzstan 23 Tuberculosis YES 06-06-2017
+2038  LfxqK sgyCCJ Kyrgyzstan 110 HepatitisB NO
+2460  TYJK DJDdJa Kyrgyzstan 27 Measles YES 30-04-2005
+3260  HyxxfC gRC Kyrgyzstan 19 Diphtheria YES 17-06-2006
+4196  wFsGo hWTAuuD Kyrgyzstan 41 ShinglesHerpesZoster YES 26-03-2017
+4672  pVLguwR tdzbndC Kyrgyzstan 82 Pertussis YES 02-04-2002
+5834  IuAeUmD LQjuMD Kyrgyzstan 47 Cholera YES 17-07-2016
+7473  ZnuFLRF qZnF Kyrgyzstan 55 Rabies NO
+7845  cglraTM FdSLZV Kyrgyzstan 31 Pneumococcaldisease YES 20-04-2010
+8222  OLMwi VPSkMO Kyrgyzstan 43 Ebolavirus YES 02-12-1999
+8647  fqoAk fTmU Kyrgyzstan 67 Cholera YES 30-03-2011
+9369  RLdLR fPFftOZ Kyrgyzstan 35 ShinglesHerpesZoster YES 28-04-2013

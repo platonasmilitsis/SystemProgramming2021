@@ -1,0 +1,12 @@
+415  AcVqw vWXlrlD Latvia 14 Malaria YES 14-06-2005
+962  sAVWEbR ITCAwFM Latvia 34 Cholera NO
+2413  gasng EtuuP Latvia 62 Pertussis NO
+3273  PMD Cgf Latvia 22 Pneumococcaldisease NO
+3765  dTetAEc VNMbZK Latvia 102 Humanpapillomavirusinfection YES 14-10-2003
+4947  wRHGHoj bysVn Latvia 68 Tetanus NO
+5295  LDfsDd oKLH Latvia 84 Varicella NO
+5721  XmM OSeqNiH Latvia 118 Rubella NO
+6713  jhLsk xmXX Latvia 29 Meningococcaldisease YES 16-04-2014
+7819  UofBCeh ktERCil Latvia 73 Malaria YES 03-04-2008
+8504  YxP YcZM Latvia 11 Pertussis YES 20-12-2017
+8784  mARxR axfQ Latvia 12 HepatitisA YES 06-05-1997

@@ -1,0 +1,12 @@
+10  GFdC CBRMarO Sweden 13 Tetanus NO
+1429  ZkbOCT FWJO Sweden 19 Rotavirusgastroenteritis YES 12-03-2009
+2145  AIoztc JObg Sweden 8 Pneumococcaldisease NO
+3000  hPIdG OCGsQ Sweden 96 Tetanus YES 18-03-2012
+3546  jjqP OoLV Sweden 116 Ebolavirus YES 07-10-2000
+3783  rBvfl IOujdhT Sweden 108 Mumps NO
+4577  qikEBY aebA Sweden 49 Meningococcaldisease NO
+5993  xEs losjlbz Sweden 19 Humanpapillomavirusinfection YES 18-01-2002
+7236  VFY EAuCL Sweden 2 HepatitisB YES 13-02-2007
+7778  dXs GWZICth Sweden 7 Humanpapillomavirusinfection NO
+8840  JspU rwni Sweden 49 HepatitisB YES 13-02-1999
+9910  pSOB wsTtod Sweden 85 Tickborneencephalitis YES 28-10-1997

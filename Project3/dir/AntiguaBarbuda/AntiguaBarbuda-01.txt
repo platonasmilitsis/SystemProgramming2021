@@ -1,0 +1,10 @@
+668  gBXHPGh DTaKvl AntiguaBarbuda 112 Malaria YES 08-05-2010
+1355  PAtlLQd iOmDTM AntiguaBarbuda 76 Rotavirusgastroenteritis NO
+2078  tgjg LWeW AntiguaBarbuda 26 Denguefever YES 24-02-1997
+2982  shXQ qGClyFw AntiguaBarbuda 26 HepatitisB NO
+4328  FDK LHIJA AntiguaBarbuda 70 Rabies YES 10-04-2012
+6016  kvwRMh dvduVx AntiguaBarbuda 97 Typhoidfever NO
+6834  HGBGD sNQafRb AntiguaBarbuda 83 Varicella YES 25-10-2013
+7612  mBu xNfgVRS AntiguaBarbuda 91 Tuberculosis YES 30-08-2013
+7805  tPXdL dYucrE AntiguaBarbuda 100 Varicella YES 13-06-2010
+8794  qUr pJrqU AntiguaBarbuda 111 Tetanus NO

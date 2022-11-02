@@ -1,0 +1,17 @@
+116  QIGQz yPawRi Mexico 118 Humanpapillomavirusinfection NO
+572  CZPRl dPM Mexico 84 Mumps NO
+1101  puuI iWbjR Mexico 6 Typhoidfever YES 01-12-2004
+1254  osygp JWwv Mexico 3 Yellowfever YES 14-11-2003
+1509  bWIiAS cCml Mexico 42 Malaria YES 25-03-2003
+2260  jag fUzu Mexico 3 Rubella NO
+2592  whXf JxaRZ Mexico 9 Rubella YES 01-04-2011
+3565  ZGYzfWs CMP Mexico 16 Poliomyelitis YES 27-11-2003
+4223  TuPvEFK sHHv Mexico 101 Rubella YES 14-06-2007
+4796  nssExhp YvN Mexico 57 Rubella NO
+5490  xPqDqiU QOjwJmZ Mexico 3 Rotavirusgastroenteritis NO
+6112  oALC QkG Mexico 71 Pertussis YES 01-08-2001
+6583  iurW uuVEDH Mexico 74 ShinglesHerpesZoster YES 02-08-2009
+7020  zgHrRxf fCALi Mexico 107 Varicella NO
+7499  MtXdI dmC Mexico 91 Tetanus NO
+7863  nIfdh WVWo Mexico 112 COVID19  NO
+8744  JRQO ySbNV Mexico 84 Tuberculosis YES 08-03-2007

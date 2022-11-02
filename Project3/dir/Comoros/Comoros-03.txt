@@ -1,0 +1,13 @@
+250  LKPLnm zBFw Comoros 1 Pertussis NO
+1097  iSvVfX JwgYQ Comoros 72 Pertussis YES 15-10-2002
+2411  sLM aCowP Comoros 41 Cholera YES 02-02-2017
+2857  yJPrB vKruuiH Comoros 33 Diphtheria NO
+3477  foJ Qwxqb Comoros 17 Pertussis YES 05-12-1998
+3973  Zmrya nYvyaEA Comoros 18 Diphtheria YES 05-08-2016
+4252  TOuDjdJ dVKou Comoros 74 COVID19  YES 10-07-2006
+5627  gcDnjmD xIkV Comoros 97 Tetanus NO
+6428  Wnu VlP Comoros 40 HepatitisA NO
+7035  MqqomIY iULPUx Comoros 33 Japaneseencephalitis YES 03-12-2001
+7422  vbAKsN ggdvH Comoros 109 Haemophilusinfluenzaetypeb YES 24-07-2004
+8603  eeKjNFu rzKAnG Comoros 106 Influenza YES 11-03-2001
+9288  mgPfuQ xTZUvIV Comoros 7 Rabies YES 20-11-2003

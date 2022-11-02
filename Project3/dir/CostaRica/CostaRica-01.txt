@@ -1,0 +1,10 @@
+677  gKQysi AYAr CostaRica 53 Meningococcaldisease YES 26-01-2000
+2030  LWoq rjZdy CostaRica 85 Varicella YES 19-05-2012
+3653  xvJY FQsV CostaRica 108 Yellowfever NO
+4287  DgPkTX ASMVUtR CostaRica 3 COVID19  YES 28-01-1999
+4783  lzyzI TZwGkj CostaRica 32 Tetanus NO
+5881  uQF YnHlHu CostaRica 76 Pertussis YES 16-05-2019
+6597  kaRGrVQ Ngi CostaRica 97 Varicella YES 22-04-2005
+8206  BSEMqU XPAgtzW CostaRica 21 Measles NO
+9053  uEoM BTyQQ CostaRica 11 Humanpapillomavirusinfection NO
+9649  ciFA UVb CostaRica 64 ShinglesHerpesZoster YES 25-04-1999

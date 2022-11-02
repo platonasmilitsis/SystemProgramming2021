@@ -1,0 +1,13 @@
+388  dJlEf hQIDL Hungary 19 Influenza NO
+1962  rEeB mVxY Hungary 7 HepatitisA YES 29-01-2019
+2224  BwqkNv rgD Hungary 87 Poliomyelitis NO
+3453  cQdt PgLX Hungary 80 HepatitisE YES 12-03-2019
+4138  RugGwQ msJYHzY Hungary 37 Haemophilusinfluenzaetypeb NO
+4592  FGYkwmS xSandkz Hungary 58 Yellowfever YES 19-07-2015
+5337  zdR BzWSs Hungary 53 Mumps YES 15-10-2019
+6243  SgXexq yxzPwD Hungary 34 Varicella NO
+6881  nji vJzm Hungary 112 Pneumococcaldisease NO
+7941  NPfST Eri Hungary 116 HepatitisA NO
+8590  UFQOEAY GyGoc Hungary 73 Pneumococcaldisease NO
+9294  CBoBJ bhcPAZ Hungary 71 ShinglesHerpesZoster YES 21-09-2005
+9772  UMhjKY NnYA Hungary 15 Malaria NO

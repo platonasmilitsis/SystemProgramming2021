@@ -1,0 +1,16 @@
+193  VIk NuqDk Oman 15 Pertussis NO
+535  fauL BtKjKP Oman 117 Rotavirusgastroenteritis YES 19-10-2016
+1325  XAGsycV mGlvs Oman 97 Tickborneencephalitis NO
+2131  Fcf fidUHPW Oman 105 Influenza YES 09-05-2013
+2620  KnSoO NqYU Oman 91 Tickborneencephalitis NO
+3340  zJbzL yOTU Oman 111 Meningococcaldisease NO
+3803  nDNXpbk LlmWA Oman 101 Malaria YES 11-08-2002
+4803  ENoX hiS Oman 25 Pneumococcaldisease NO
+5552  HSOxqQu qJVl Oman 63 Tickborneencephalitis YES 05-09-2001
+5820  teikNAR SLQsKLo Oman 10 Rabies YES 26-08-2007
+6385  Tue JuzTde Oman 33 Meningococcaldisease YES 28-09-2002
+7326  sPyjzpY qKk Oman 120 Yellowfever NO
+7857  bOBc GCzd Oman 32 Measles YES 01-10-2019
+8765  sKshJ ixC Oman 31 Typhoidfever YES 20-08-2017
+9556  pLS lGNQrSr Oman 54 Humanpapillomavirusinfection YES 12-09-2009
+9743  bOLP QJbszV Oman 34 Rubella NO

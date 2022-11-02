@@ -1,0 +1,8 @@
+600  yZm RSGw SouthKorea 7 Malaria NO
+1334  nHC GTSst SouthKorea 72 Yellowfever NO
+3269  bXbQd cqMbIpo SouthKorea 58 Diphtheria YES 29-08-2011
+4104  UUJAKA amc SouthKorea 98 Ebolavirus NO
+4640  sPLUqDb AMa SouthKorea 37 Influenza NO
+6100  klzbDy YQsS SouthKorea 63 COVID19  NO
+6817  tkr QboGn SouthKorea 107 Rubella NO
+8734  RIK HjNabB SouthKorea 96 Haemophilusinfluenzaetypeb YES 09-08-2019

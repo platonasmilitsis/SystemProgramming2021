@@ -1,0 +1,15 @@
+50  qkFR qBw Albania 109 Tetanus NO
+554  ZTGnk XovpKjI Albania 20 Tickborneencephalitis NO
+1119  jWvn eUMSrN Albania 120 Measles YES 12-03-2015
+1782  WyBhpr nmpfi Albania 5 Pertussis NO
+3482  xOHnCsp YsM Albania 60 Tetanus NO
+4729  IxUDKUj cXn Albania 44 Typhoidfever NO
+5081  DWVbm JckPu Albania 52 Denguefever YES 22-03-2006
+5591  NGhL GjlLS Albania 103 Influenza NO
+6223  ZGJjjV NymQ Albania 7 COVID19  NO
+6950  MZzZd ceFR Albania 39 Pertussis NO
+7558  ZSho lkFqU Albania 51 Influenza YES 01-03-2003
+7786  fZinwa ODVnK Albania 37 Varicella NO
+8063  vua QKYZWDE Albania 83 ShinglesHerpesZoster YES 10-03-2012
+8867  gYDItf qpnYg Albania 114 HepatitisB NO
+9860  seU TnwwjQm Albania 18 HepatitisE YES 04-04-2017

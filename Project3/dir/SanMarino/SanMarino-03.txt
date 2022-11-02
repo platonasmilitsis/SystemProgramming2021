@@ -1,0 +1,11 @@
+1412  xQzsl CHIlGEo SanMarino 79 Rotavirusgastroenteritis YES 01-07-1995
+2372  fxhDNn qXcib SanMarino 40 Humanpapillomavirusinfection NO
+2896  Wdn qCLJWd SanMarino 3 Humanpapillomavirusinfection NO
+3854  fMr iKWOUQ SanMarino 23 Japaneseencephalitis NO
+4463  TSeo vSxD SanMarino 70 ShinglesHerpesZoster NO
+5037  LcMKxP tuPN SanMarino 45 Influenza NO
+5573  QzrXbl sUKeSXZ SanMarino 61 Japaneseencephalitis NO
+6862  EMQKKdg TUGLcN SanMarino 110 COVID19  YES 06-03-1997
+7356  cIoN kjP SanMarino 115 Tickborneencephalitis YES 29-08-2015
+8592  XJlHwUg PGs SanMarino 68 Tuberculosis YES 27-01-2016
+9970  ADT wCQt SanMarino 66 Typhoidfever YES 27-08-2008

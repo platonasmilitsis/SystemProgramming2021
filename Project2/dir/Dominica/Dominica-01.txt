@@ -1,0 +1,15 @@
+343  AknnUtX reEJ Dominica 21 Poliomyelitis NO
+935  iBYA UijIe Dominica 79 Rotavirusgastroenteritis NO
+1319  hrED Icr Dominica 94 ShinglesHerpesZoster NO
+2282  ZdqG eemSN Dominica 119 Ebolavirus NO
+3514  qjA ryTwXs Dominica 75 ShinglesHerpesZoster YES 26-12-2007
+4121  kMnO deOAYX Dominica 64 Diphtheria NO
+5801  VeDJg zIwjA Dominica 9 Rabies YES 21-10-1997
+6174  hUgHQ AXBl Dominica 47 Haemophilusinfluenzaetypeb NO
+6519  zUaBcni dYcu Dominica 25 Influenza NO
+6811  NpE qdgWy Dominica 56 Rotavirusgastroenteritis NO
+7609  DfFzCos Gua Dominica 35 Pneumococcaldisease NO
+8487  SfFjd FnBjDt Dominica 53 Humanpapillomavirusinfection YES 18-03-2017
+8862  OfjFD dji Dominica 29 Cholera NO
+9412  uWU kAEZGhM Dominica 67 Rotavirusgastroenteritis NO
+9873  FrVbDeh pToNp Dominica 49 Tickborneencephalitis YES 03-12-2015

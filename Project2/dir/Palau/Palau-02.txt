@@ -1,0 +1,11 @@
+567  IlM pweMrsD Palau 114 Measles YES 02-09-2009
+1068  GcxxV cfSpOJ Palau 119 Influenza NO
+1590  fUkC DlRcCL Palau 19 Malaria YES 13-09-2002
+2594  LfxmzWw QJIFoPj Palau 45 Pertussis NO
+3349  NQhjCSe UjRz Palau 2 Varicella YES 29-06-2004
+3953  NLgpvt ELMLUZ Palau 70 COVID19  YES 12-07-2010
+4882  LBBKRSI kug Palau 66 HepatitisB YES 14-03-1996
+6134  fJYKBR rvP Palau 37 Meningococcaldisease YES 21-03-2016
+7694  GmNTZG xNyrY Palau 8 Humanpapillomavirusinfection YES 13-06-2019
+8766  lKRokZQ AMJdAlN Palau 25 Varicella YES 18-11-2009
+9787  zfum JxVp Palau 119 Influenza NO

@@ -1,0 +1,11 @@
+329  qza ACevFjB Mauritius 23 Pertussis NO
+1368  Sviy FnqHJ Mauritius 56 HepatitisA YES 29-11-2003
+2192  VpgLij NDCxLz Mauritius 25 HepatitisE YES 27-12-2002
+2521  IFNOBgG RNtGnp Mauritius 74 Haemophilusinfluenzaetypeb YES 14-04-2004
+3019  znUMicG lHM Mauritius 86 HepatitisA NO
+3616  cggJlr pNIiZ Mauritius 49 HepatitisB NO
+3988  tfCFe wzGmvNo Mauritius 2 Meningococcaldisease YES 25-06-1995
+5190  WIOnAyZ nmDzIFQ Mauritius 73 Pertussis NO
+6066  vcmHEH XSQEt Mauritius 110 Typhoidfever YES 13-11-2013
+8250  FSJBlwh RUw Mauritius 81 Pneumococcaldisease NO
+9164  oKUi vRBScD Mauritius 43 Tuberculosis YES 25-09-2002

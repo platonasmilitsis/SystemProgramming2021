@@ -1,0 +1,11 @@
+563  mLIA ZXL PapuaNewGuinea 2 Mumps NO
+1011  Gpz EmKkr PapuaNewGuinea 118 COVID19  NO
+2227  JuZPVmx LXM PapuaNewGuinea 41 Measles NO
+2488  Ddz BdXOe PapuaNewGuinea 26 Tickborneencephalitis NO
+4272  mkSar RnQRWKD PapuaNewGuinea 21 Mumps NO
+5191  ylI XEAf PapuaNewGuinea 109 Tuberculosis NO
+6176  KbA Ujls PapuaNewGuinea 20 Cholera NO
+6916  WWq DLfmPU PapuaNewGuinea 15 Poliomyelitis YES 25-02-2016
+7610  cNzj HmuDS PapuaNewGuinea 98 Pneumococcaldisease YES 28-04-1997
+8392  MWsqgq UVgn PapuaNewGuinea 115 Tetanus NO
+9685  iBUU wfY PapuaNewGuinea 63 HepatitisB YES 19-06-2017

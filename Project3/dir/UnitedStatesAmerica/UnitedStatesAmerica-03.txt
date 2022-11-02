@@ -1,0 +1,14 @@
+298  WONr Lkuf UnitedStatesAmerica 94 HepatitisE NO
+913  WEHH QmAYs UnitedStatesAmerica 15 Pneumococcaldisease NO
+1454  uOxjs kHNRc UnitedStatesAmerica 108 Pertussis NO
+1691  vhvm TpDLa UnitedStatesAmerica 104 Cholera NO
+2223  mRR DyXxo UnitedStatesAmerica 57 Rabies YES 25-01-2010
+3449  zpj nYMp UnitedStatesAmerica 58 HepatitisA YES 28-03-1995
+4352  KryjTq nBT UnitedStatesAmerica 57 Tickborneencephalitis YES 28-09-2005
+4981  xWhO OAaG UnitedStatesAmerica 24 Rabies YES 05-02-1995
+5832  DnggrJ Tqpk UnitedStatesAmerica 59 Cholera NO
+6326  CLx SHHH UnitedStatesAmerica 113 Pertussis NO
+6759  DDY RooU UnitedStatesAmerica 6 Humanpapillomavirusinfection NO
+7622  cEZyag aGvaRD UnitedStatesAmerica 8 Tickborneencephalitis NO
+8547  pZgNeWf VHeksk UnitedStatesAmerica 20 Varicella NO
+9420  UDCTnqg DGk UnitedStatesAmerica 84 Malaria YES 05-07-2011

@@ -1,0 +1,11 @@
+253  IHg kLg Maldives 64 Pertussis NO
+1411  IeZ BcO Maldives 88 Tuberculosis YES 18-01-2016
+3034  xwHWZl wAOdYI Maldives 11 Meningococcaldisease NO
+3648  dZbbAvQ NOx Maldives 56 Tickborneencephalitis NO
+4067  UZi YYUfY Maldives 54 Rubella NO
+5176  CWoUTHs awtD Maldives 60 Diphtheria NO
+6230  UAZuK OyXDv Maldives 30 Diphtheria NO
+6805  baAipon Lmb Maldives 97 Ebolavirus NO
+7150  SYfBwmL XKRJ Maldives 2 Measles NO
+8677  IWXIc eSbq Maldives 114 HepatitisB NO
+9306  srpfN Zdki Maldives 46 Japaneseencephalitis YES 27-02-2002

@@ -1,0 +1,18 @@
+102  RMK eqX ﻿Afghanistan 80 HepatitisE YES 28-11-2010
+781  FMIo QFAh ﻿Afghanistan 35 Cholera YES 17-12-2006
+1641  NMA dHdJ ﻿Afghanistan 110 Japaneseencephalitis NO
+2218  eqajh gvM ﻿Afghanistan 25 COVID19  NO
+2547  TmUySE OWgXFCR ﻿Afghanistan 11 Typhoidfever YES 04-06-1996
+3211  LeivH XwHJfq ﻿Afghanistan 14 Rabies YES 27-10-2007
+3588  vmwuE zSNQ ﻿Afghanistan 110 HepatitisE YES 19-05-1998
+3834  RvxnREM RALaKwo ﻿Afghanistan 71 COVID19  YES 03-04-1996
+4627  IGI ZuzAhKE ﻿Afghanistan 78 Humanpapillomavirusinfection NO
+5058  ZoFq gJzgMlB ﻿Afghanistan 110 Haemophilusinfluenzaetypeb NO
+5260  wERFIW xwr ﻿Afghanistan 104 Tuberculosis YES 11-10-2000
+5975  cgqTm dJQABh ﻿Afghanistan 61 Yellowfever YES 22-10-2015
+7107  PNbeDB coPmzHR ﻿Afghanistan 87 Malaria NO
+7976  usc jLlMh ﻿Afghanistan 83 Yellowfever YES 23-01-2014
+8290  YeolcP zftHFPq ﻿Afghanistan 70 Pertussis NO
+9098  budUt SHLOQ ﻿Afghanistan 34 Malaria NO
+9295  VVYR JpJQF ﻿Afghanistan 68 Japaneseencephalitis NO
+9932  HMpcP zGbdk ﻿Afghanistan 24 Poliomyelitis YES 29-01-1996

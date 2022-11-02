@@ -1,0 +1,12 @@
+731  WKKotHv kPAoG Latvia 73 Haemophilusinfluenzaetypeb YES 28-12-2003
+1878  xBMQ ojXUMP Latvia 5 Pneumococcaldisease YES 03-07-2017
+2919  HAsmr jrlVlbD Latvia 59 Influenza YES 05-12-2006
+3404  hjptN rmhA Latvia 109 Haemophilusinfluenzaetypeb NO
+4110  HIkZ MPNfl Latvia 89 Tuberculosis NO
+4990  Bdk jgb Latvia 104 Typhoidfever YES 03-12-2003
+5393  YlhqKwd wjjBWs Latvia 91 Poliomyelitis YES 08-03-2018
+5884  xTRRTDQ DKbSEH Latvia 63 Varicella YES 02-07-1999
+6813  KcouJWm uqWcI Latvia 89 ShinglesHerpesZoster NO
+8176  hfXoyk thtamIb Latvia 17 Pertussis NO
+8599  HwrX NxUzCy Latvia 72 Cholera NO
+9491  KtZx SFgyzdh Latvia 62 Haemophilusinfluenzaetypeb YES 06-06-2008

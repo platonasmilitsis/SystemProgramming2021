@@ -1,0 +1,11 @@
+902  nYHW bTCvb Djibouti 115 Meningococcaldisease YES 25-04-2010
+1395  GLbels XiDPk Djibouti 111 Diphtheria YES 01-06-2014
+2081  WCT YSG Djibouti 91 Japaneseencephalitis NO
+2752  UcXJBM XYsyokS Djibouti 56 Rotavirusgastroenteritis YES 03-04-2007
+3210  EQCkin sPMBWA Djibouti 53 HepatitisA YES 29-04-2001
+4255  imJrp KcNDk Djibouti 87 Varicella YES 02-03-1998
+4731  GHeuV KUiBBhP Djibouti 63 Cholera NO
+5902  XaVvg CqBI Djibouti 62 COVID19  YES 26-04-2003
+7015  BfrehB BwoDFZQ Djibouti 6 Tickborneencephalitis YES 11-02-1996
+7926  hDRv ZuzRHpk Djibouti 14 Cholera NO
+8779  CuBuCR EzhzxKk Djibouti 113 COVID19  YES 27-12-1997

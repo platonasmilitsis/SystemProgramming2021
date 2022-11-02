@@ -1,0 +1,13 @@
+61  YVs LUrNlE Denmark 51 Tuberculosis NO
+803  Xts NyqKbB Denmark 60 Malaria YES 21-09-2018
+1132  OBjZh VBfTN Denmark 94 Diphtheria NO
+2601  qaVbcvk NBRzGO Denmark 51 Influenza YES 01-05-2017
+3638  AVwnV jyrmuj Denmark 66 Ebolavirus NO
+4831  IkZeq Qyc Denmark 87 Tuberculosis NO
+5267  LbiQGh Utwptyn Denmark 5 Malaria NO
+5807  msb dOAv Denmark 96 Yellowfever YES 04-10-2012
+6786  XfBKB wuO Denmark 78 Influenza YES 29-06-1998
+7742  Ctpdq zwVzts Denmark 31 Pertussis NO
+8004  PHF GcixR Denmark 15 Cholera YES 20-12-1996
+8725  ukRAG VRye Denmark 80 Tetanus YES 24-03-2019
+9896  axsnvWa oJd Denmark 46 Mumps YES 22-08-2018

@@ -1,0 +1,11 @@
+780  XMFLs UXi Panama 51 Haemophilusinfluenzaetypeb NO
+1219  opuYC BSQh Panama 96 Yellowfever YES 15-06-2001
+2459  zcCsW EoFpgkJ Panama 43 Typhoidfever NO
+3345  CbkFt xCsdYI Panama 1 Poliomyelitis YES 04-08-1995
+4561  WwnbA OOS Panama 1 HepatitisA NO
+5253  xuzk wrGcqOE Panama 52 Malaria YES 03-06-2015
+6083  pJEjUF QuI Panama 92 Tickborneencephalitis NO
+7058  ZXuqqCj HlTOG Panama 56 Humanpapillomavirusinfection NO
+8522  recO OCahuff Panama 41 Pertussis YES 26-06-1998
+9075  BkJOy DNMy Panama 48 Pneumococcaldisease NO
+9962  Bbl XHLmLF Panama 67 Japaneseencephalitis NO

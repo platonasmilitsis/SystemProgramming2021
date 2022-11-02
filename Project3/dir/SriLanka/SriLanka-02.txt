@@ -1,0 +1,12 @@
+1100  apOGcFs ExRV SriLanka 38 Japaneseencephalitis YES 29-05-2009
+1623  DHzJ nVcZMM SriLanka 101 Meningococcaldisease YES 07-10-2012
+2280  yRotPEX JGDg SriLanka 59 Cholera YES 28-01-2005
+3196  VJBWoU IqrKx SriLanka 70 Japaneseencephalitis NO
+3886  yvYk HKlEeyz SriLanka 96 HepatitisA NO
+4553  ocSMEmo zAfDLG SriLanka 64 Diphtheria NO
+5155  NIinl wzx SriLanka 104 Rotavirusgastroenteritis YES 11-02-1996
+5668  egxsLVt TUHyCBa SriLanka 104 Malaria YES 12-06-2018
+6778  DKo txHvFNH SriLanka 33 ShinglesHerpesZoster NO
+7999  wzQA lihypB SriLanka 66 Rabies NO
+9346  DmI fdvG SriLanka 39 HepatitisB YES 02-04-2019
+9659  EAuITp HJheu SriLanka 95 Varicella NO

@@ -1,0 +1,10 @@
+1484  ihOvy ccNaDOy UnitedKingdom 113 Meningococcaldisease NO
+2720  cXyjt OsRYbHa UnitedKingdom 117 Humanpapillomavirusinfection YES 25-05-2007
+3301  ELUAzLQ jVYA UnitedKingdom 20 ShinglesHerpesZoster NO
+4081  tlkdbYf nME UnitedKingdom 8 Japaneseencephalitis NO
+4474  LcIMSGp NmeQPo UnitedKingdom 27 Pertussis YES 01-09-1995
+5348  uWUN XeaXgEI UnitedKingdom 90 Denguefever NO
+6388  CjilnKK teZHV UnitedKingdom 65 Malaria NO
+7025  lXZk ZrrXW UnitedKingdom 87 HepatitisB NO
+8057  bAS QKktZ UnitedKingdom 68 ShinglesHerpesZoster NO
+8724  YpKL qTnAYVe UnitedKingdom 68 Tetanus YES 05-06-2009

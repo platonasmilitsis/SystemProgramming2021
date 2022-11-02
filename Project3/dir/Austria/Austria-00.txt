@@ -1,0 +1,11 @@
+942  gvQcrpO ZCH Austria 112 Yellowfever YES 29-04-2005
+1920  ktmKY kZyZdD Austria 97 Varicella YES 02-07-1998
+2189  PBku yzjzew Austria 62 Tuberculosis NO
+3059  pXcZ btJPi Austria 51 Tuberculosis YES 08-12-2002
+3505  rlEFoH ngn Austria 61 Tuberculosis NO
+4645  jLEmC pRhPqw Austria 47 Meningococcaldisease NO
+5309  jJRd yIBuYNY Austria 25 Denguefever YES 07-01-2012
+6127  Njtfin iwyA Austria 13 Diphtheria YES 22-09-2013
+6906  gyZ KtDJZ Austria 70 Varicella YES 21-07-2019
+7427  dBc JJCl Austria 75 Measles NO
+9126  sKEg zStxAV Austria 42 Denguefever NO

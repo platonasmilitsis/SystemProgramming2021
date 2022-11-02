@@ -1,0 +1,13 @@
+403  myHKDpZ MUkR Haiti 45 Yellowfever NO
+1244  bzu HLGh Haiti 78 Pertussis YES 17-08-2017
+1781  osdlL FfXOMl Haiti 19 Japaneseencephalitis YES 26-06-2010
+2008  VPD SNNNXqY Haiti 82 Measles YES 05-03-2000
+2844  UawLT MtsTt Haiti 22 Varicella YES 15-03-1997
+3222  tvvRPO NXk Haiti 112 COVID19  YES 02-05-2012
+4450  bDogqn AiG Haiti 3 Rabies NO
+5241  utKjFQR pLgzNyA Haiti 104 Meningococcaldisease YES 13-06-2000
+6150  BCnssb TqhnKav Haiti 28 Mumps YES 08-09-2001
+6719  aqsSCc MzLpjb Haiti 49 HepatitisE NO
+7189  ZmrmLR NRH Haiti 96 Poliomyelitis NO
+8195  jne iKlxJVB Haiti 53 ShinglesHerpesZoster NO
+9318  UhKrsla sHT Haiti 48 Rubella NO

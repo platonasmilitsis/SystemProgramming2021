@@ -1,0 +1,13 @@
+223  vLIbyN vse SaintVincentGrenadines 75 Meningococcaldisease NO
+1694  ODFgwa ZeQyia SaintVincentGrenadines 30 Varicella YES 18-10-2001
+2664  gVkLz OHq SaintVincentGrenadines 2 Mumps YES 22-03-1995
+3728  LkGL wUGlm SaintVincentGrenadines 2 HepatitisA YES 27-02-2017
+4994  ZsVPB Qzn SaintVincentGrenadines 119 Typhoidfever YES 12-04-2004
+5547  fVKhE vrbD SaintVincentGrenadines 22 Diphtheria NO
+5959  ptCUWcC UHnE SaintVincentGrenadines 32 Influenza YES 15-01-2018
+6195  kaozP fctZgt SaintVincentGrenadines 108 Tuberculosis YES 19-08-2011
+7045  sZTAnWt kALuCqn SaintVincentGrenadines 28 HepatitisA NO
+7192  lRuha fsnN SaintVincentGrenadines 14 HepatitisE NO
+8069  OxH QcFnIw SaintVincentGrenadines 55 Influenza YES 08-12-2011
+9094  cbX SPbV SaintVincentGrenadines 87 Pertussis YES 16-09-2009
+9453  lCFD mAi SaintVincentGrenadines 25 Pneumococcaldisease YES 26-02-2002

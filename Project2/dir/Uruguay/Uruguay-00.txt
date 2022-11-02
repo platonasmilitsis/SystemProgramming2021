@@ -1,0 +1,13 @@
+384  dNiq lBV Uruguay 48 Meningococcaldisease NO
+1268  TvWxbP QFIbNa Uruguay 88 Poliomyelitis YES 24-05-2010
+2083  WTpweKL wgY Uruguay 44 Humanpapillomavirusinfection YES 20-07-2003
+3263  eGg lnJgAM Uruguay 98 Tuberculosis YES 26-06-2018
+3895  sfEdCrG JQn Uruguay 86 Varicella YES 20-01-1996
+4920  FIvJS cgaL Uruguay 104 Yellowfever NO
+5492  pXBaH hoP Uruguay 21 Rubella NO
+6577  LxHgP HlWLA Uruguay 31 Humanpapillomavirusinfection NO
+7355  GHNPd KJP Uruguay 94 Tuberculosis YES 03-10-2007
+7860  fQGWIy VsHgkdA Uruguay 46 Tetanus NO
+8640  JYEkFZF UbwELOX Uruguay 51 Ebolavirus YES 29-11-2005
+9340  JQB gWpJgL Uruguay 84 Poliomyelitis YES 24-09-1997
+9745  pqSU ZBdku Uruguay 15 Rubella NO

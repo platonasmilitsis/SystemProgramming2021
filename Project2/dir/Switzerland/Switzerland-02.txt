@@ -1,0 +1,12 @@
+350  MJThXi cVI Switzerland 20 Japaneseencephalitis NO
+816  GvQAdq joVg Switzerland 3 Meningococcaldisease YES 16-05-2008
+2016  cqMpFgD OFZHM Switzerland 114 Rabies YES 30-09-2001
+2431  eue OfOqVRI Switzerland 82 Typhoidfever YES 10-04-2013
+3774  Imn HRois Switzerland 58 Influenza YES 19-12-2000
+5109  urGOGk nzuVFAT Switzerland 94 Pertussis NO
+5529  COQhQ xsNVVHG Switzerland 35 Cholera YES 14-09-1995
+5938  bIsCHt fqDkrgd Switzerland 101 Measles NO
+6921  but EbkiySv Switzerland 106 Tuberculosis YES 23-03-2018
+7327  EPKmHJO urfCE Switzerland 32 Tickborneencephalitis YES 09-01-2013
+8898  WBSl MRxoT Switzerland 39 Humanpapillomavirusinfection NO
+9101  tsMd bhfqR Switzerland 5 Haemophilusinfluenzaetypeb YES 20-06-2005

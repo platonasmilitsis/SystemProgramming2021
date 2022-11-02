@@ -1,0 +1,15 @@
+547  eKqqNz xITFhY Benin 87 Tickborneencephalitis NO
+778  sYb rIXf Benin 6 Rubella YES 15-11-2005
+1089  XREB RlrO Benin 116 Yellowfever NO
+1657  IcZBW SNWq Benin 82 Denguefever NO
+2761  gbJL FOC Benin 22 Rabies NO
+4032  gBUQ ernyYA Benin 47 Yellowfever YES 12-07-2006
+4906  gsOx FvmT Benin 55 HepatitisB NO
+5740  muOSc nYXjTFe Benin 65 Typhoidfever NO
+6253  pPssp SpX Benin 71 Pneumococcaldisease YES 05-07-2006
+6700  RGmHwdj XeF Benin 72 Rabies YES 02-01-1999
+7806  ZDpnjj ZWWEge Benin 59 HepatitisE NO
+8687  svDQ HwIgend Benin 21 Rabies NO
+9515  KhC cYQBbE Benin 85 Tickborneencephalitis NO
+9714  zqbtWWc GbESJ Benin 16 Denguefever NO
+9904  RhPj UVIwy Benin 29 Haemophilusinfluenzaetypeb YES 08-06-2011

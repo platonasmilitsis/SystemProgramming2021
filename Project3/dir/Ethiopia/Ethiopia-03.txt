@@ -1,0 +1,14 @@
+364  ApVfqW kBl Ethiopia 14 Tuberculosis YES 04-07-2012
+683  FCSK vlcVv Ethiopia 14 Yellowfever NO
+1645  xggL qpuELLH Ethiopia 60 Meningococcaldisease YES 23-06-2003
+3170  FtY hvYWvTn Ethiopia 38 Rabies NO
+3889  uVZD CkPaHVz Ethiopia 59 Malaria YES 21-02-1999
+4723  aIvLQz wvN Ethiopia 12 Typhoidfever NO
+5236  GIdUOe lZsFZ Ethiopia 42 Varicella NO
+6143  FHQxsRm AAo Ethiopia 47 Poliomyelitis NO
+6521  kLWxyc PGxC Ethiopia 106 COVID19  YES 22-07-1998
+7114  DwLA yIyT Ethiopia 45 Yellowfever YES 23-07-2014
+7400  fLi AeQX Ethiopia 28 COVID19  NO
+7672  yPazr zKE Ethiopia 9 Denguefever YES 18-01-2013
+8108  SbZzL RUH Ethiopia 3 Ebolavirus YES 24-09-2012
+8864  RlGyi cbIWo Ethiopia 56 Poliomyelitis YES 30-07-2015

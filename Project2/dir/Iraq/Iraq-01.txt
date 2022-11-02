@@ -1,0 +1,14 @@
+427  Biosng LvYRAg Iraq 16 Pertussis NO
+635  tzRFIk iDUo Iraq 71 Japaneseencephalitis YES 25-02-2001
+1034  wBJVkg hKe Iraq 112 Yellowfever YES 21-01-2016
+3153  JUl nBzFZ Iraq 81 Varicella YES 22-08-2010
+3221  oPBhv YHNPp Iraq 51 Rabies NO
+3373  lspln WvSiBj Iraq 53 Typhoidfever YES 04-08-1998
+3846  vaTXTCu itiOSnF Iraq 55 Measles NO
+5345  PVdbInP Egcm Iraq 115 Cholera NO
+6289  EhMu lOX Iraq 25 ShinglesHerpesZoster YES 25-09-2000
+6886  IFKJh rpnCZf Iraq 48 Denguefever NO
+8104  wLWdz inKRyS Iraq 68 Measles YES 13-10-2006
+8447  bOIy wvR Iraq 4 Haemophilusinfluenzaetypeb NO
+9222  HsLFSD WOZGh Iraq 116 Ebolavirus NO
+9629  ZFSVi zUe Iraq 107 Haemophilusinfluenzaetypeb YES 11-03-2018

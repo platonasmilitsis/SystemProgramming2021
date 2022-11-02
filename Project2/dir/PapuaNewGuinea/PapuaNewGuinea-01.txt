@@ -1,0 +1,11 @@
+230  pLlLouF cEArFh PapuaNewGuinea 40 HepatitisB NO
+980  aXQzQC AQhp PapuaNewGuinea 120 Tetanus NO
+2077  NrwYQ tbZNP PapuaNewGuinea 49 Tetanus YES 25-08-2017
+2352  ZOrhwHu UAbM PapuaNewGuinea 51 Tickborneencephalitis YES 05-10-1999
+4219  kibUUn stoVnAZ PapuaNewGuinea 20 COVID19  YES 23-10-1998
+5105  kgp trXkTuJ PapuaNewGuinea 60 HepatitisB NO
+5791  IJw nLjlG PapuaNewGuinea 81 Rubella YES 20-12-2000
+6541  BUSmmKQ qkGIpw PapuaNewGuinea 59 Typhoidfever NO
+7577  arf tMW PapuaNewGuinea 72 COVID19  YES 03-02-1999
+7785  ecF otym PapuaNewGuinea 118 HepatitisA YES 08-03-2017
+9639  Lkd RJFTmC PapuaNewGuinea 69 Malaria NO

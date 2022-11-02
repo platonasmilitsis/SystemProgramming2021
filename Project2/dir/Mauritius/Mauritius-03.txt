@@ -1,0 +1,11 @@
+1206  xcUQ mjTomF Mauritius 51 Influenza NO
+1988  cDQD dVWEz Mauritius 111 Meningococcaldisease YES 30-05-2016
+2520  LOy kkHlK Mauritius 119 Poliomyelitis NO
+2985  xTLTJRT nAW Mauritius 15 Mumps NO
+3563  ryLqEW xTz Mauritius 112 Malaria YES 28-08-1995
+3899  uIKaYFj WPLGac Mauritius 14 Varicella YES 29-05-2010
+4798  BlMyp ZsPxABM Mauritius 74 Influenza YES 19-12-2019
+5859  ulvuIr ngQ Mauritius 72 Tuberculosis NO
+7462  cWJnR AIdutKT Mauritius 88 HepatitisA YES 16-09-1996
+9102  AUvjguI mmHaqh Mauritius 81 COVID19  YES 12-08-2013
+9930  PuwXw uGu Mauritius 38 Haemophilusinfluenzaetypeb NO

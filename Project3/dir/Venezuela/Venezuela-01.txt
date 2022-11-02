@@ -1,0 +1,14 @@
+131  RFdbScM Yue Venezuela 67 Influenza NO
+729  JXCDGS HZFc Venezuela 116 Haemophilusinfluenzaetypeb NO
+1423  Ucs keNGCJ Venezuela 103 Cholera NO
+2312  sJf tbgDgJ Venezuela 96 Mumps NO
+3074  skNS Bti Venezuela 106 Humanpapillomavirusinfection YES 05-12-1995
+3338  rdg VDIT Venezuela 71 Poliomyelitis YES 06-05-2010
+4034  zYP fFxvc Venezuela 16 Rotavirusgastroenteritis YES 09-06-2002
+4761  eKh edGjqU Venezuela 49 Diphtheria YES 10-08-2016
+5520  EpIZC Pkw Venezuela 70 COVID19  NO
+5695  ZHwqyS MRL Venezuela 116 Mumps NO
+7228  BIsb SRPQl Venezuela 87 Influenza YES 05-03-2004
+7723  AwBIf FpN Venezuela 31 HepatitisA NO
+8852  TtVtJG TFe Venezuela 89 Diphtheria YES 30-05-1996
+9109  nVvnv ORnx Venezuela 86 Measles NO

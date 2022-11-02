@@ -1,0 +1,15 @@
+25  znm RgPNY SaintLucia 110 Denguefever NO
+1079  WdNQAi Izt SaintLucia 85 HepatitisA NO
+1437  lSZhB shwUztp SaintLucia 29 Pneumococcaldisease NO
+2009  ziEx kFZZwe SaintLucia 15 Cholera YES 05-02-2013
+3104  cmDiEqH tTgzJ SaintLucia 84 Rabies YES 13-12-1995
+3994  Tit dNEg SaintLucia 27 ShinglesHerpesZoster NO
+4401  iXJt bfqAxzJ SaintLucia 78 HepatitisB NO
+4600  hJB oPSLM SaintLucia 24 Pneumococcaldisease YES 21-07-2018
+5222  eNOEk zvy SaintLucia 96 Tickborneencephalitis YES 19-01-1997
+5960  rjKLCAq KmXYFKZ SaintLucia 15 Rabies NO
+6663  ULqrt eKZ SaintLucia 120 Pneumococcaldisease NO
+7219  JPQfa ImPBEx SaintLucia 8 Ebolavirus YES 08-12-2014
+7620  cgpSfV HtGH SaintLucia 83 Tickborneencephalitis YES 26-10-2012
+8277  MGgzEbj iNGAdL SaintLucia 110 Measles YES 10-10-2015
+9560  sztW QARm SaintLucia 24 Rabies NO

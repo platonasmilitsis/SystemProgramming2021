@@ -1,0 +1,13 @@
+894  vwtO pwx SouthAfrica 59 Malaria YES 26-06-2004
+1965  LvHn jobE SouthAfrica 9 Influenza YES 16-07-2005
+2422  rHOQF lQYf SouthAfrica 56 Japaneseencephalitis YES 28-09-2013
+2713  ONdkTI EPdggvv SouthAfrica 1 Denguefever NO
+3970  wKjT FTDv SouthAfrica 84 Measles YES 20-05-2013
+5303  DddZqN HShfZ SouthAfrica 73 Rabies YES 27-10-2012
+5785  vJDPB SbJvSG SouthAfrica 110 Yellowfever YES 01-12-2010
+6125  fmFdS aJiL SouthAfrica 34 Measles NO
+6829  mIPF qVU SouthAfrica 52 Cholera NO
+7361  MJgwnA ewbNNqC SouthAfrica 35 Pertussis NO
+7911  mghx mMRQaZ SouthAfrica 110 Japaneseencephalitis NO
+9443  ADpmh lgEl SouthAfrica 80 Meningococcaldisease NO
+9859  mze SAGErUY SouthAfrica 53 Ebolavirus YES 23-09-2008

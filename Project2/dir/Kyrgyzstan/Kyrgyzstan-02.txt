@@ -1,0 +1,14 @@
+268  UzfLGKH GdeBAd Kyrgyzstan 39 Tetanus YES 30-09-2015
+1168  HBSss kaLFc Kyrgyzstan 90 Malaria NO
+1874  WCjpwWF WViIflp Kyrgyzstan 40 Typhoidfever YES 15-01-2005
+2253  rigl Bjpx Kyrgyzstan 2 Typhoidfever YES 03-06-2012
+3126  epV yMVCNy Kyrgyzstan 105 Yellowfever NO
+3346  lqgoLV Gpwa Kyrgyzstan 23 Tetanus YES 14-03-1996
+4420  cCRvbw MipBRTs Kyrgyzstan 17 Tuberculosis YES 29-11-2015
+5223  mIcvc yQBJiW Kyrgyzstan 74 Ebolavirus NO
+6201  lDzTiM fTd Kyrgyzstan 89 Rotavirusgastroenteritis NO
+7629  WfNc UOAMBGh Kyrgyzstan 86 Humanpapillomavirusinfection NO
+8002  TxUCS IVAMEx Kyrgyzstan 94 Pneumococcaldisease YES 01-10-2002
+8550  lvnJ HpSlJAj Kyrgyzstan 117 HepatitisB NO
+8900  ajdrbWq CvbGNL Kyrgyzstan 46 Tickborneencephalitis YES 19-03-2012
+9544  Jrl CfRGQ Kyrgyzstan 62 Influenza YES 21-07-2014

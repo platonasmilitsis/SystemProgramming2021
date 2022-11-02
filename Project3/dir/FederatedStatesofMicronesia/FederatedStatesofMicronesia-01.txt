@@ -1,0 +1,13 @@
+167  cInfs AgQFSZ FederatedStatesofMicronesia 13 Pneumococcaldisease YES 18-03-2019
+414  oOVcs pHIe FederatedStatesofMicronesia 12 Poliomyelitis NO
+1377  PLqvtM HbP FederatedStatesofMicronesia 99 Diphtheria NO
+1648  WpSqjmp ZNhIFZ FederatedStatesofMicronesia 28 Cholera YES 29-08-2000
+2429  wvwxS ULOTK FederatedStatesofMicronesia 5 Diphtheria NO
+3523  QxdHtUz EMdtD FederatedStatesofMicronesia 104 Tuberculosis YES 03-07-2005
+4131  pGAxX uLWxdln FederatedStatesofMicronesia 76 Poliomyelitis NO
+5170  vpDf uie FederatedStatesofMicronesia 21 Malaria YES 01-11-2012
+6034  ZjL nhiYl FederatedStatesofMicronesia 64 Measles YES 27-03-2008
+7380  BCRHAPB vZU FederatedStatesofMicronesia 58 Humanpapillomavirusinfection NO
+8816  Zwl gmH FederatedStatesofMicronesia 10 Influenza YES 14-12-2002
+9484  EJGu qUCiORT FederatedStatesofMicronesia 23 Ebolavirus NO
+9882  iLJZTnq XwC FederatedStatesofMicronesia 108 Rubella YES 30-02-1996

@@ -1,0 +1,12 @@
+861  TxYR qsAB Honduras 90 Rabies NO
+1535  WnHwHhF ZojRg Honduras 115 Malaria NO
+1819  wMcrA qVSB Honduras 112 Influenza YES 09-02-2006
+2792  MxtIEAz zLzf Honduras 111 Japaneseencephalitis NO
+4746  SVhmr kisT Honduras 89 Tetanus NO
+5061  BpJprRY brzhgj Honduras 64 Diphtheria NO
+5598  xWk ggg Honduras 65 Pertussis YES 28-06-2003
+6192  gnx KBrc Honduras 10 Japaneseencephalitis NO
+7316  isrn MXFd Honduras 87 Humanpapillomavirusinfection YES 04-10-2016
+8017  UWHzc lqjCXNF Honduras 120 Rotavirusgastroenteritis YES 25-11-2008
+8669  cCRWcP PRGUYk Honduras 27 Ebolavirus YES 04-09-2005
+9777  IoEc wlNHoo Honduras 26 Mumps NO

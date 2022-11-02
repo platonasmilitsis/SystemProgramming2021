@@ -1,0 +1,16 @@
+515  aex lIzt Taiwan 111 Cholera YES 08-07-2011
+1999  eaFPTj zCTjvmu Taiwan 90 Tuberculosis YES 16-12-2002
+2141  lCh BwsYTr Taiwan 83 ShinglesHerpesZoster NO
+2834  DXpQk wEQ Taiwan 28 Rabies YES 01-04-1999
+3314  ywnSsd dZvJU Taiwan 60 Cholera YES 28-07-2016
+4122  cVIJh RRkIhv Taiwan 15 Humanpapillomavirusinfection NO
+4847  heV OkiP Taiwan 53 HepatitisA YES 07-11-2011
+5206  KBPIFc Hah Taiwan 115 ShinglesHerpesZoster NO
+6110  OGUkU PDlI Taiwan 40 Typhoidfever NO
+6678  qzxIvxX RWWAms Taiwan 80 Rubella YES 27-08-1997
+6912  vAQ KQhxGz Taiwan 59 Pneumococcaldisease NO
+7240  yvzJP LfERou Taiwan 19 Rubella NO
+8107  bPEcqmh kpAhwPe Taiwan 107 Humanpapillomavirusinfection NO
+8993  XSW amSvgx Taiwan 10 Japaneseencephalitis NO
+9215  WSlbT vRpd Taiwan 10 ShinglesHerpesZoster NO
+9460  QNPctie MySDKzN Taiwan 18 Typhoidfever NO

@@ -1,0 +1,12 @@
+517  gvV nyZdUN Senegal 30 Yellowfever NO
+1218  iOQsZdW lFYr Senegal 5 Yellowfever NO
+1916  FaML TlfnosA Senegal 58 COVID19  YES 19-07-2006
+3149  vDSkNH KqL Senegal 67 Ebolavirus NO
+3600  BMyL MaWV Senegal 33 Diphtheria NO
+4369  FPY Jjd Senegal 119 ShinglesHerpesZoster NO
+4883  LKtS cif Senegal 25 Pertussis NO
+5289  MSvIc lvX Senegal 38 ShinglesHerpesZoster YES 06-02-2002
+5828  vudg AXPcND Senegal 104 Diphtheria NO
+6684  IRJkS pdV Senegal 5 Tetanus YES 06-05-1997
+7568  onx MbNz Senegal 76 Japaneseencephalitis NO
+9371  exk OwvM Senegal 83 Varicella NO

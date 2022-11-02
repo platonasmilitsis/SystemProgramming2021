@@ -1,0 +1,12 @@
+122  Aidc WWvS Belize 49 Influenza NO
+586  RzEccuI tTCvQKv Belize 53 Malaria NO
+1362  HxcTTck OCnPU Belize 82 Rotavirusgastroenteritis YES 22-09-2010
+1827  XIR vDX Belize 84 Rubella YES 03-03-1996
+2572  lBmWn EFtweUI Belize 72 Pertussis NO
+3640  fSJkek kIGtbGV Belize 4 COVID19  NO
+4227  YqUrWr rXX Belize 54 Denguefever NO
+4807  NgRI HFzx Belize 57 Pneumococcaldisease NO
+6283  AWvVQdA TSyj Belize 22 Typhoidfever YES 30-08-1997
+7730  HwmAK kmrBisM Belize 120 Pneumococcaldisease NO
+8053  NnBxZby cxKTv Belize 5 HepatitisA YES 23-06-1995
+8768  XZi yzG Belize 38 Mumps YES 01-02-2017

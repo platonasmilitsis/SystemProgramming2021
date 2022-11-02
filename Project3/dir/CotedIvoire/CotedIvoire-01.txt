@@ -1,0 +1,17 @@
+17  fuwQ WlD CotedIvoire 6 HepatitisE YES 01-06-2015
+760  iNLEgnZ Qhbqtqt CotedIvoire 113 Haemophilusinfluenzaetypeb NO
+2166  sKnb qyMbTD CotedIvoire 50 COVID19  NO
+2832  kUj zsdhv CotedIvoire 118 Diphtheria YES 29-02-1996
+3054  rcLqHfv TRXIpoG CotedIvoire 19 Haemophilusinfluenzaetypeb YES 01-08-2003
+3418  Hsc kvJU CotedIvoire 96 Mumps YES 10-04-2004
+4238  koYDQR tBRapCO CotedIvoire 30 Pneumococcaldisease NO
+4902  ZSRd xsWP CotedIvoire 66 Yellowfever YES 16-08-1997
+5742  sEPUKfZ skYdRH CotedIvoire 74 Tuberculosis NO
+6347  NEi qqXBh CotedIvoire 119 Rubella NO
+6815  dFM FELUiG CotedIvoire 35 HepatitisE NO
+7919  tYei JkoEog CotedIvoire 50 Rotavirusgastroenteritis YES 23-10-2004
+8239  hmo mdcG CotedIvoire 37 Meningococcaldisease YES 09-09-1996
+8517  RZhfQno kFeMcmy CotedIvoire 43 Meningococcaldisease YES 14-09-2005
+8934  zzsTp DcdsJT CotedIvoire 55 Tetanus YES 07-07-2001
+9383  DpassFl FFlmIq CotedIvoire 46 Tickborneencephalitis YES 01-03-2012
+9890  XsM oEIL CotedIvoire 56 Meningococcaldisease NO

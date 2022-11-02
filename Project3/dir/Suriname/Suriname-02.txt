@@ -1,0 +1,15 @@
+892  XlvD PyLN Suriname 2 Meningococcaldisease YES 19-10-2010
+1273  adSpBaZ SQlzbft Suriname 67 HepatitisB NO
+2299  yCYAIMG tKNzsbI Suriname 61 Denguefever YES 04-12-2012
+3064  AhIb LDJO Suriname 29 Tickborneencephalitis NO
+4105  lgdh QyLkj Suriname 31 Diphtheria NO
+4721  yid bVC Suriname 14 Pneumococcaldisease YES 24-11-1996
+5089  uAoG yvT Suriname 104 Rubella NO
+6239  yZM DAi Suriname 44 Pertussis NO
+6832  qye FfF Suriname 37 Poliomyelitis NO
+7243  ctp sGFHxII Suriname 69 Rubella NO
+7943  kWDgBA FqtgkRc Suriname 15 HepatitisB YES 05-06-2017
+8278  jIJPwW NTVMNOG Suriname 59 Poliomyelitis NO
+8758  Fwwhz fOPcYY Suriname 4 Tuberculosis YES 27-04-2003
+9209  avIM Kcy Suriname 107 Influenza YES 20-11-2011
+9328  WvSVM iXo Suriname 30 Tickborneencephalitis YES 15-06-2015

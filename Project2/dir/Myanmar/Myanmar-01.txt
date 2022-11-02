@@ -1,0 +1,11 @@
+768  uvWWV NjnTIo Myanmar 104 Typhoidfever YES 11-03-2018
+1533  KVNI jsaapk Myanmar 114 Meningococcaldisease YES 18-10-1995
+3556  RrKdO tDOFNDC Myanmar 58 Yellowfever YES 09-12-2004
+4792  rEIC wtpbiO Myanmar 91 HepatitisA YES 08-05-2002
+5012  lYKUJ PPyX Myanmar 83 COVID19  YES 01-02-1996
+5918  JZO NxcDxI Myanmar 71 Rotavirusgastroenteritis NO
+7042  ozA wTraC Myanmar 11 Rabies NO
+8000  MVsxX qGiyE Myanmar 34 Poliomyelitis NO
+8477  kdpL tnCGHf Myanmar 95 Tickborneencephalitis YES 28-06-1997
+9251  alzTG muDX Myanmar 76 COVID19  YES 24-10-2000
+9760  TbXZc XQQpj Myanmar 74 Cholera YES 03-01-2008

@@ -1,0 +1,9 @@
+904  YXyHh CjFa Slovakia 103 Meningococcaldisease YES 19-10-1998
+1883  OrNH Teu Slovakia 106 Influenza YES 24-11-2000
+2458  DPIH GKqbYa Slovakia 42 Mumps NO
+3654  AudS UTxVcK Slovakia 19 Rotavirusgastroenteritis NO
+5230  Apj CmtuE Slovakia 33 Haemophilusinfluenzaetypeb YES 11-02-1998
+6092  bsLwiv DEyr Slovakia 55 Rubella NO
+7129  dEFmCMj FYwsoug Slovakia 12 Typhoidfever NO
+8680  iNPoTF GcZOdA Slovakia 118 Malaria NO
+9442  hqi axPOMV Slovakia 29 Cholera YES 14-04-2004

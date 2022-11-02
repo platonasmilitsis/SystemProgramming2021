@@ -1,0 +1,15 @@
+76  gxt XtmLYdK UnitedStatesAmerica 9 COVID19  YES 05-07-2001
+401  DXUdSF DNnl UnitedStatesAmerica 77 Measles NO
+927  SzHt SrSjPm UnitedStatesAmerica 80 Rabies YES 11-03-2008
+1493  oKjBvZd tZB UnitedStatesAmerica 87 Poliomyelitis NO
+1755  JaMrA hYB UnitedStatesAmerica 39 Tickborneencephalitis NO
+2498  QlCH IEulS UnitedStatesAmerica 9 ShinglesHerpesZoster YES 19-11-2015
+3526  QsgRy WEgUoC UnitedStatesAmerica 53 Denguefever NO
+4467  ZANZNF Yzi UnitedStatesAmerica 84 Diphtheria NO
+5085  qWbTxv gURWkK UnitedStatesAmerica 78 Cholera YES 28-07-2002
+5913  sKsS gPlb UnitedStatesAmerica 85 HepatitisA NO
+6331  cnV WNkcefm UnitedStatesAmerica 16 Mumps YES 09-09-2014
+7267  SWFvoNf SiJaV UnitedStatesAmerica 47 HepatitisE YES 15-12-1996
+7801  xVYYw OqTRSvV UnitedStatesAmerica 111 Denguefever YES 30-11-2013
+8667  caY mHvS UnitedStatesAmerica 22 Influenza YES 10-09-1999
+9889  PGwT hwZ UnitedStatesAmerica 40 Tickborneencephalitis YES 07-07-2006

@@ -1,0 +1,13 @@
+252  jGqJy qaVscAr Romania 105 Influenza YES 28-02-2000
+583  XAW QBBCBQL Romania 20 Cholera NO
+1854  oSrDTT xACy Romania 90 Tickborneencephalitis YES 21-11-2013
+2390  KpX EvZTwVF Romania 51 Diphtheria NO
+2986  CGF ewEl Romania 86 Meningococcaldisease NO
+4391  niOPvLv MrBkoA Romania 70 Poliomyelitis YES 04-03-2004
+5114  BFuRQN saz Romania 81 Ebolavirus NO
+5823  iGPxyCQ zZp Romania 85 Measles NO
+6452  gOuF pgmS Romania 92 Mumps NO
+6954  ayaqg IiqCP Romania 64 Rubella YES 14-02-1996
+7386  SYzm tfLGR Romania 12 Rubella YES 02-05-2015
+8614  DyUQ wbpdDE Romania 15 Typhoidfever NO
+9425  wWfIwIs VNEJ Romania 109 Haemophilusinfluenzaetypeb NO

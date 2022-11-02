@@ -1,0 +1,17 @@
+66  gvo FlwioC Kosovo 25 Japaneseencephalitis YES 23-01-1999
+556  JAF ejVfbRM Kosovo 9 Pneumococcaldisease NO
+967  jqQWFA nIsZB Kosovo 3 Cholera YES 07-11-2014
+1582  fvXrCc NBZj Kosovo 31 Typhoidfever YES 19-08-2016
+2034  zkiYMX hbZTmv Kosovo 42 Tuberculosis YES 06-08-2009
+2332  wbQ pFakTq Kosovo 17 Pneumococcaldisease YES 03-02-2004
+2674  AIJyQJa dzaGqvb Kosovo 90 Meningococcaldisease YES 23-07-2019
+3089  HGc doyr Kosovo 116 COVID19  YES 22-05-2009
+4073  hWKfgE PPaZGS Kosovo 85 Tetanus YES 08-12-2017
+4705  IYB zOiVfkE Kosovo 113 Yellowfever NO
+5421  geP VpDI Kosovo 115 Yellowfever YES 13-12-2001
+6345  mKVw rtYxA Kosovo 2 Rotavirusgastroenteritis NO
+7115  jxU gTx Kosovo 43 Pertussis YES 21-09-2006
+7233  SKAmWLo gxn Kosovo 87 ShinglesHerpesZoster YES 09-10-1999
+7922  EakLn hqFfm Kosovo 45 Malaria NO
+8970  njJs fqy Kosovo 37 Diphtheria YES 12-09-2012
+9776  TyWa ekKUk Kosovo 120 Yellowfever YES 28-04-2011

@@ -1,0 +1,10 @@
+110  ltlX iMAfQo Brunei 110 Meningococcaldisease NO
+817  JPvTvm hRc Brunei 83 Pertussis NO
+1566  Tmby KywUWQa Brunei 40 Typhoidfever YES 29-01-2014
+2353  FgAb UFbF Brunei 32 Typhoidfever YES 02-03-2006
+3283  jEbCFVJ aXmX Brunei 104 Measles NO
+4054  InMRfvl jUbFP Brunei 69 HepatitisB NO
+4940  QmYL xlVzZSw Brunei 24 Pertussis YES 25-05-2012
+5717  bcWxExU FquuGjw Brunei 81 Pneumococcaldisease NO
+7163  WvpqW EFk Brunei 48 HepatitisB YES 05-01-2019
+8413  DfSEkZ eYDFjLn Brunei 112 Ebolavirus NO

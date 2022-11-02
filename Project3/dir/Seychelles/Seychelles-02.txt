@@ -1,0 +1,12 @@
+1116  aiHTc bRHJm Seychelles 6 Japaneseencephalitis YES 15-07-2019
+2394  OdaRw mdaRPIY Seychelles 101 Tickborneencephalitis YES 11-06-1995
+2743  xIBaKKN lDMxDCN Seychelles 55 Tetanus YES 20-09-1996
+3053  PjlW vzXXMAJ Seychelles 115 Japaneseencephalitis NO
+3690  UnpJF zLnWevc Seychelles 17 Pertussis NO
+4596  XID EsP Seychelles 36 HepatitisA YES 17-03-1995
+5049  ebQyUo zOmF Seychelles 62 HepatitisE NO
+5194  VnJjR FeLBPxI Seychelles 54 Poliomyelitis NO
+5764  xRF YEN Seychelles 112 Malaria YES 11-12-1999
+6698  SMe wofJ Seychelles 116 Meningococcaldisease YES 04-02-2005
+8251  EyA rDIiE Seychelles 95 Varicella NO
+8939  AzpNbqQ KoUVJx Seychelles 97 Tickborneencephalitis NO

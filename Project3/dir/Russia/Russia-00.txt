@@ -1,0 +1,12 @@
+105  lQvlLf kTRnf Russia 40 Cholera YES 27-01-2016
+1067  ZLi mOhVM Russia 108 HepatitisB YES 17-02-2003
+3043  bNMjJKk dNem Russia 97 Influenza YES 06-10-2003
+3473  wMbpoQ pSvCpAw Russia 84 Denguefever NO
+5008  ochHrx CVzMImQ Russia 9 Tuberculosis YES 13-06-2010
+5525  QpeRJB ckP Russia 96 Varicella NO
+6222  yIXKmMR elpcIY Russia 32 HepatitisE NO
+6860  kCyZ CIll Russia 100 ShinglesHerpesZoster YES 10-10-2011
+7596  YEJuWw ODaIiM Russia 70 Humanpapillomavirusinfection NO
+8238  sen GpyEnm Russia 113 Poliomyelitis NO
+8875  bGRuYuY xFpvp Russia 97 Tickborneencephalitis YES 09-04-2017
+9804  MDvQJY ZPIxv Russia 101 HepatitisE YES 12-08-2018

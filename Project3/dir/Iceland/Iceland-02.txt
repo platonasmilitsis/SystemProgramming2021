@@ -1,0 +1,14 @@
+972  RxUuta zLlKB Iceland 65 Influenza NO
+1525  Pfngtq hOY Iceland 71 Typhoidfever NO
+1696  LJu EyD Iceland 66 Tetanus YES 27-03-2002
+2513  JIigC bbVBFz Iceland 106 Tickborneencephalitis NO
+3991  bSb bOKzB Iceland 120 Diphtheria NO
+4745  uTwJwp awF Iceland 103 Humanpapillomavirusinfection YES 07-05-2016
+5488  dbxL VNUa Iceland 52 Pneumococcaldisease NO
+5795  kHffd jfDl Iceland 43 Yellowfever YES 14-08-2013
+6526  PoPZoRX jKU Iceland 91 HepatitisE NO
+7186  OXULH cklJlg Iceland 34 Varicella YES 03-09-2013
+7617  KgeT xKTO Iceland 101 Measles YES 10-07-2001
+7949  QvqRX dDpdJkP Iceland 110 COVID19  NO
+8846  IvYZdNS QFF Iceland 58 Yellowfever YES 05-12-2006
+9319  Pev xwrW Iceland 70 Mumps YES 19-08-2006

@@ -1,0 +1,14 @@
+208  sKoTnA Vbs Liberia 37 Poliomyelitis NO
+661  AYnaOv iEs Liberia 24 HepatitisB NO
+2154  LBMMe JjebNn Liberia 96 Diphtheria NO
+2983  TImdu PBzv Liberia 37 Varicella YES 13-04-2008
+3508  JegkQLZ YLKzk Liberia 68 Mumps NO
+4115  sHgipe lHebvFq Liberia 47 ShinglesHerpesZoster NO
+5318  FIGcX AJVbQG Liberia 98 Measles YES 13-12-2001
+5877  NojYmO dybvXVI Liberia 23 Pneumococcaldisease NO
+6436  dYU hnJDldj Liberia 116 Japaneseencephalitis YES 18-10-2015
+6549  appfNh lzfPVKe Liberia 112 Japaneseencephalitis YES 11-08-2011
+7159  PiR qSbJrIl Liberia 43 Rotavirusgastroenteritis YES 25-11-2002
+8217  FyYaAwJ aeClhb Liberia 102 COVID19  NO
+8960  DOmKJa sVG Liberia 10 Denguefever NO
+9798  AaqwO uQGLlf Liberia 40 Cholera NO

@@ -1,0 +1,11 @@
+527  sfb wrN Norway 118 Measles YES 19-07-1997
+1260  wYBVqi yKxSWu Norway 40 Pneumococcaldisease NO
+2065  KLfkOBP AYWFm Norway 38 Pneumococcaldisease YES 22-12-1997
+2608  okIDP wJDX Norway 17 Tickborneencephalitis NO
+3799  MZBy eGlJkpn Norway 104 Rabies NO
+4706  cnV jxbq Norway 5 Pneumococcaldisease YES 09-03-2001
+5471  EzJYvXq mbkjzGq Norway 85 Yellowfever NO
+7026  ZsD kvBTA Norway 33 Varicella NO
+7816  jUawS lGKoT Norway 114 Diphtheria YES 06-10-2016
+8291  MAwrKD IqOxKkd Norway 106 Tuberculosis YES 06-05-2015
+9512  vhvarDn wcFmpfE Norway 55 Rotavirusgastroenteritis YES 19-01-2019

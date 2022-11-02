@@ -1,0 +1,12 @@
+225  athPQSy qlN Djibouti 35 Tetanus NO
+1013  tUMBp ytEXE Djibouti 67 Rotavirusgastroenteritis YES 07-02-2018
+1445  YavY PSy Djibouti 113 HepatitisB YES 17-05-2015
+2107  lBCs KJnDCl Djibouti 6 Poliomyelitis YES 20-01-2005
+3026  pOoMV uWt Djibouti 7 Ebolavirus NO
+3445  YgLC Dyjd Djibouti 78 Pertussis NO
+4372  Akf cGrs Djibouti 49 Rubella YES 05-03-2004
+4865  SNm pjPK Djibouti 4 ShinglesHerpesZoster NO
+6518  dYoLQ YpRW Djibouti 25 Measles YES 14-09-1998
+7288  LSMtwUW het Djibouti 46 COVID19  YES 18-11-2014
+8051  krPeBIG vykyD Djibouti 12 Tickborneencephalitis YES 22-10-1996
+9682  vvT QILkp Djibouti 118 Influenza NO

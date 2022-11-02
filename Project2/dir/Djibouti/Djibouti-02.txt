@@ -1,0 +1,11 @@
+777  gRWgsI QtHgz Djibouti 32 Pertussis NO
+1243  eQbEN cbu Djibouti 108 Tetanus NO
+1927  Kizo QcVf Djibouti 7 COVID19  YES 07-12-2008
+2606  sSyARqD YgOR Djibouti 13 Meningococcaldisease NO
+3163  rIoGGp KzCxvx Djibouti 76 Influenza YES 16-10-2009
+3926  bfZ SdcS Djibouti 116 HepatitisA NO
+4685  itw XSyUD Djibouti 61 Rubella NO
+5636  cym KiDLAJN Djibouti 58 COVID19  NO
+6911  Ixq YgbOpf Djibouti 25 Cholera NO
+7887  xicLR nlugPp Djibouti 114 HepatitisE NO
+8372  QljPsEb PWja Djibouti 29 Ebolavirus NO

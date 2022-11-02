@@ -1,0 +1,15 @@
+13  aVLM OUpjgkp CapeVerde 76 Rotavirusgastroenteritis NO
+345  puKJINE ZqUtdXb CapeVerde 76 Pneumococcaldisease YES 09-02-2015
+810  ekw kieuySn CapeVerde 49 Meningococcaldisease YES 01-10-2016
+1307  HEBlgPL Oge CapeVerde 93 Rubella YES 10-05-2004
+1978  lDCW ntsQZVm CapeVerde 92 Rabies NO
+2197  tpyUEmg ybIlKq CapeVerde 5 Influenza YES 03-12-1997
+2804  zAbheo pvHU CapeVerde 97 Typhoidfever YES 12-08-2000
+3945  FCFYK pPaB CapeVerde 22 Pertussis YES 21-10-2000
+4387  Nktf cnwC CapeVerde 62 Meningococcaldisease YES 03-06-2010
+5280  nvZY sAeU CapeVerde 22 Poliomyelitis YES 15-04-2007
+5863  jdoCdc HdFNMvC CapeVerde 49 Varicella NO
+6692  BAtIwu ZUS CapeVerde 26 Typhoidfever YES 19-10-2012
+7898  xBJXs cGPiKn CapeVerde 16 COVID19  NO
+8824  hXDSPDE yMq CapeVerde 110 Influenza YES 07-06-2002
+9877  JPCrB vveopg CapeVerde 11 Meningococcaldisease YES 19-10-2006

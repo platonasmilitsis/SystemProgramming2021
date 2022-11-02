@@ -1,0 +1,11 @@
+288  rHxUGu RBZ SaudiArabia 65 HepatitisA NO
+1162  IxhmTJ EVNpRjh SaudiArabia 67 Cholera NO
+1845  Ygc VzGjZjQ SaudiArabia 7 Pertussis NO
+2262  RRDPB gvqjzdL SaudiArabia 4 Rubella NO
+3047  vbsuh teImkdv SaudiArabia 17 Influenza NO
+3863  fzYdr Iysk SaudiArabia 98 Tuberculosis YES 15-09-1997
+4814  MxO wHzXvjO SaudiArabia 81 Meningococcaldisease YES 01-01-1995
+6402  IgxpgEE cFlo SaudiArabia 65 Influenza YES 10-04-1995
+7007  YiJ MtJjCPM SaudiArabia 19 Japaneseencephalitis YES 19-01-2009
+8252  PNDG tjavLuU SaudiArabia 46 Japaneseencephalitis NO
+9131  zYKDQ CtGglOT SaudiArabia 21 Humanpapillomavirusinfection YES 26-02-2012

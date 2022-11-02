@@ -1,0 +1,13 @@
+1197  mAvSu iHzB Zambia 103 Measles NO
+1847  ANk JlpU Zambia 34 Typhoidfever YES 25-03-2009
+3209  ZxuIVgE uDKJ Zambia 14 HepatitisB YES 13-01-2006
+3551  rIlnDAJ SRPitpR Zambia 5 Ebolavirus NO
+3844  GhBCs abbwtZE Zambia 107 Humanpapillomavirusinfection NO
+4373  MfcZ tULSv Zambia 103 Rabies NO
+4955  ojdomB TCYP Zambia 72 Humanpapillomavirusinfection NO
+5601  KosF ugsYB Zambia 64 Measles NO
+6510  iCtlN vuLpI Zambia 115 Rotavirusgastroenteritis YES 03-07-2016
+7349  eJrQonn BMAWo Zambia 74 COVID19  NO
+9157  Ahnz fPtUVO Zambia 60 Rotavirusgastroenteritis YES 12-06-1995
+9365  VwnAmPN rVYOTG Zambia 31 HepatitisB NO
+9885  JHLsZk kkxhTR Zambia 87 Typhoidfever YES 20-12-2012

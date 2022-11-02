@@ -1,0 +1,15 @@
+166  sgje OXhkNbm Canada 60 Tetanus YES 22-07-1995
+846  tXU pvuAA Canada 85 Tickborneencephalitis YES 17-05-2006
+1798  QHlulR dvcnC Canada 39 Measles YES 26-06-2006
+2740  yuucHzR WtkDW Canada 119 Mumps NO
+3105  Urmy hCD Canada 40 Influenza NO
+3684  OVjreM nREOQM Canada 5 Cholera YES 25-02-2017
+4454  CSU dYlyiM Canada 114 Denguefever NO
+4790  dHGfqF VFoFIz Canada 68 Typhoidfever NO
+5454  Ira HoXh Canada 91 Japaneseencephalitis NO
+6182  jADo HnYZAP Canada 60 Haemophilusinfluenzaetypeb YES 08-10-2006
+6449  GOG MZQtK Canada 53 ShinglesHerpesZoster YES 24-08-2006
+7298  ghZTO dlnoXY Canada 111 Rotavirusgastroenteritis YES 08-12-2011
+8077  qOO siDgO Canada 33 Humanpapillomavirusinfection YES 28-05-2017
+9043  ZCZvnin JakYp Canada 78 Rabies YES 04-04-2018
+9300  pBTcoT Wep Canada 97 Tuberculosis YES 08-11-2017

@@ -1,0 +1,12 @@
+1078  dRSgvRj QvUf Honduras 70 Rotavirusgastroenteritis YES 12-12-2014
+1610  XBJi hBPqx Honduras 20 Rabies YES 09-03-1996
+2183  cEUe tSJnKL Honduras 57 Measles NO
+4274  iRHB GpJW Honduras 96 Meningococcaldisease NO
+4758  jGVWRB ADF Honduras 80 Tickborneencephalitis NO
+5178  CBdw eaxK Honduras 77 Poliomyelitis NO
+5694  LQWQrDm mxmPMY Honduras 97 Varicella YES 25-02-2019
+6249  hrANXy ONjNm Honduras 49 Rotavirusgastroenteritis YES 27-08-2014
+7342  tNK OegqzEa Honduras 98 Rubella NO
+8112  ETWReT LGYN Honduras 36 Cholera NO
+8907  PqMoM BbJCER Honduras 31 Meningococcaldisease NO
+9781  VYzdUYK DAAhLlp Honduras 46 Mumps YES 13-12-2001

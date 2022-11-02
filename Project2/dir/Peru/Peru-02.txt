@@ -1,0 +1,13 @@
+221  WnrvvKm xuI Peru 61 Pneumococcaldisease YES 15-02-2009
+694  LTCj Vny Peru 58 ShinglesHerpesZoster YES 18-02-1999
+1185  QtlvTCj IpRTo Peru 100 Varicella YES 10-05-2004
+2117  KXt kKW Peru 11 Influenza YES 21-08-2001
+2628  bpYR MFxmEZs Peru 15 Influenza NO
+3906  CdY PwX Peru 64 Tuberculosis YES 01-02-2000
+4429  cMNi xbNpz Peru 114 Tetanus NO
+4978  Cqtn wUlu Peru 57 HepatitisA NO
+6453  sDR gzc Peru 45 Tickborneencephalitis YES 27-09-2016
+7264  kfJCVA aDkAY Peru 50 COVID19  YES 11-03-2014
+8287  oGOMuWw dFH Peru 105 Tickborneencephalitis NO
+8817  xBgiM bpokg Peru 95 Mumps NO
+9440  wUlYb xdTQEH Peru 62 Poliomyelitis NO

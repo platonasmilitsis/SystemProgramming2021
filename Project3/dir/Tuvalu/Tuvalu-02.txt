@@ -1,0 +1,13 @@
+434  bka UuRGJF Tuvalu 60 Meningococcaldisease YES 08-04-2012
+1332  JDAY KLXKq Tuvalu 105 Rotavirusgastroenteritis YES 07-12-2006
+1707  oYBi ElR Tuvalu 32 Japaneseencephalitis YES 23-07-2010
+2267  WuvjqaG YNchbH Tuvalu 91 Tuberculosis YES 14-08-2001
+2755  ygZzLbg teGR Tuvalu 4 Tickborneencephalitis YES 04-08-2006
+3356  BOg IKkfm Tuvalu 80 Ebolavirus YES 26-08-2005
+4258  TBcfR JXNS Tuvalu 86 Measles NO
+5385  wGjkIv Tho Tuvalu 108 COVID19  YES 20-09-1997
+5637  OJmZdjT GaloY Tuvalu 56 Pertussis YES 14-09-2003
+6673  KrGU yUMOe Tuvalu 56 Tetanus NO
+7367  hbrR slhe Tuvalu 3 Poliomyelitis NO
+8560  PwpCdJ fWh Tuvalu 94 Varicella NO
+9570  rcANDxi uUwKSTC Tuvalu 21 Humanpapillomavirusinfection NO

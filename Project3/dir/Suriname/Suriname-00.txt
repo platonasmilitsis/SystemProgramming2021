@@ -1,0 +1,16 @@
+472  yTbNYNc bKftaM Suriname 44 Pertussis NO
+1204  vxj bVnbwhY Suriname 18 Ebolavirus NO
+1813  hPmXBqh jeCsup Suriname 18 HepatitisE NO
+3017  kcPtD DgGpZuW Suriname 26 Rubella NO
+3784  jrU stXn Suriname 78 Rabies YES 07-02-2001
+4694  koUza mdL Suriname 19 HepatitisE YES 13-04-2003
+4895  vbbPUAL pgCjBu Suriname 92 Varicella YES 07-08-2012
+5985  EPOkTaE EQPEv Suriname 55 Rabies NO
+6542  YfswSBI OnEQa Suriname 107 Meningococcaldisease YES 21-02-2003
+7100  ryGtBQ DMZYjY Suriname 68 Mumps NO
+7487  ZBqRkrC lqGMTIv Suriname 80 Pertussis NO
+8005  ggswiNW TdE Suriname 27 HepatitisE NO
+8412  mLg cvRz Suriname 18 COVID19  NO
+8866  PTDGSG JiJJdw Suriname 36 Influenza YES 13-08-2005
+9277  AlHeB oIp Suriname 21 Rotavirusgastroenteritis NO
+9712  fky RxS Suriname 81 Cholera NO

@@ -1,0 +1,14 @@
+53  vliheg CxHFLsI Peru 32 Tetanus NO
+304  mKvW hLCPXVZ Peru 30 Tetanus NO
+805  OoL mKQYmC Peru 70 HepatitisE NO
+1453  zpG LvYVHXy Peru 49 Yellowfever NO
+2424  dzo gLr Peru 1 Cholera YES 06-06-2002
+3184  ykst ZvcGVfZ Peru 37 Rotavirusgastroenteritis NO
+4342  utZbmB ZUJVSo Peru 77 Rotavirusgastroenteritis NO
+4829  hPcu FvV Peru 5 Denguefever YES 20-08-1998
+5739  Rju lKqj Peru 46 Tickborneencephalitis YES 18-07-2018
+6857  dejl wOsQGFu Peru 63 Denguefever YES 17-01-2019
+7359  vyWCjR KNrji Peru 118 Pneumococcaldisease NO
+8574  AOFo aNnBvf Peru 109 Denguefever YES 27-08-2009
+9357  UiCY StJPUM Peru 40 Influenza NO
+9971  QWI wNnnO Peru 98 Rabies YES 18-09-2017

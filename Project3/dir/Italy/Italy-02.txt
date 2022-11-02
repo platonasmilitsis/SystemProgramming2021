@@ -1,0 +1,15 @@
+494  MPLdy hqgASr Italy 81 Humanpapillomavirusinfection YES 21-04-2018
+1010  CCTN XBeDDK Italy 64 Rubella YES 21-01-2000
+1731  IrAh gxXhQ Italy 80 Diphtheria YES 08-01-2018
+2587  cOp nMHl Italy 91 Pneumococcaldisease YES 24-05-2006
+3237  COVCbe eiVQcm Italy 95 Rabies YES 02-03-2009
+4023  uYdHCLI MonboQ Italy 88 Cholera YES 13-11-2003
+4992  ncHNE wMOXG Italy 2 Meningococcaldisease YES 04-08-2009
+5483  ZKKpzwA fenaAB Italy 103 Poliomyelitis NO
+6356  dkx AOQE Italy 16 COVID19  YES 07-06-2005
+6650  eYTn xdML Italy 78 Tetanus YES 17-06-1995
+7238  itxrbH yJO Italy 53 Humanpapillomavirusinfection NO
+7704  EsL GYyrlag Italy 87 Malaria NO
+8197  RWkSqit UVXr Italy 70 Pertussis NO
+8463  ClqRYm ydx Italy 74 Rabies YES 09-02-2014
+8688  Mocorw TmyawiH Italy 97 Typhoidfever NO

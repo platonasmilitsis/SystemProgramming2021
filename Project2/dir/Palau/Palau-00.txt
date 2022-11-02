@@ -1,0 +1,11 @@
+124  ohSbbDu PCiWap Palau 48 COVID19  YES 05-12-2019
+727  JWYqj XwtrM Palau 93 Meningococcaldisease NO
+1417  JqKJoq TBDwH Palau 72 COVID19  YES 14-03-2000
+2421  uaBga IMRse Palau 107 Diphtheria YES 28-07-2015
+2854  YCZpmUG UwAXQCC Palau 66 Poliomyelitis YES 17-02-2013
+3432  podwbSg Oak Palau 33 Diphtheria YES 19-10-2005
+4275  xEJhBI Dtucul Palau 12 Japaneseencephalitis YES 19-07-1995
+5852  bMoWQKY ALwC Palau 76 Malaria YES 05-03-1998
+6709  FEk pFour Palau 19 Tetanus NO
+8128  NZFDXI cUrUtR Palau 1 Malaria YES 10-04-1998
+9486  EAXQmJC wSfx Palau 84 Yellowfever YES 15-08-2005

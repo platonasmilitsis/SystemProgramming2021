@@ -1,0 +1,11 @@
+716  smgg uDm Finland 85 Meningococcaldisease NO
+1000  KpOa ggLXXrC Finland 84 Rubella YES 28-08-2013
+2098  goUli pMOJV Finland 62 Ebolavirus NO
+2800  rwqvqvU Xeynghl Finland 120 Measles NO
+3976  MSZjssC RCEM Finland 61 Influenza YES 26-01-2014
+4149  QWhs MMGHMYS Finland 80 Cholera NO
+4849  GvoI KVFIMa Finland 116 Rotavirusgastroenteritis YES 25-08-2019
+6304  QYknip AVCBGu Finland 22 Pneumococcaldisease NO
+7667  jYm XwGgM Finland 33 Tuberculosis YES 15-10-2004
+8876  LcQH JXYhLjl Finland 1 COVID19  YES 03-10-2016
+9842  uHI aiQ Finland 35 Diphtheria YES 17-11-2014

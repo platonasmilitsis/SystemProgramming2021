@@ -1,0 +1,10 @@
+1035  INgPY zwLSQC Cambodia 46 Pertussis YES 14-05-2013
+1594  PwrpYUd QllSufp Cambodia 47 Humanpapillomavirusinfection YES 02-03-2003
+2477  MYGn AZr Cambodia 108 Tuberculosis NO
+3182  ykUsHXq EaOFE Cambodia 13 Meningococcaldisease NO
+3901  OHzHGbo Pgzh Cambodia 111 Rotavirusgastroenteritis NO
+5229  jmQ KXk Cambodia 50 Tetanus NO
+7279  HOgiDvJ Tisj Cambodia 119 HepatitisA YES 14-10-2006
+8086  eXvhnb SIf Cambodia 68 Poliomyelitis YES 17-08-2012
+8946  lPcO ZQdzLXt Cambodia 12 Varicella NO
+9444  kuieh xHTKpDa Cambodia 9 Influenza YES 02-04-2006

@@ -1,0 +1,16 @@
+513  MOtoz Hzqfm Oman 100 Pertussis YES 27-06-1997
+1104  ayP StEv Oman 12 Tuberculosis NO
+1975  UkZUIhA SBT Oman 8 Tetanus NO
+2335  hVQg xMQUMkn Oman 92 Malaria YES 16-11-2010
+3102  PAqCNH XdQF Oman 3 Poliomyelitis YES 13-05-2005
+3561  CyR fSupvQe Oman 62 Japaneseencephalitis YES 04-04-2007
+4652  HhkDGJw pPIdx Oman 28 COVID19  NO
+5122  iPu UFmR Oman 23 Measles YES 21-12-2014
+5619  yVfyAr iRxiOa Oman 7 Poliomyelitis YES 18-04-2005
+6196  pdtYKf tAIG Oman 49 HepatitisB NO
+7010  SBuSMR YvKhp Oman 88 Japaneseencephalitis NO
+7437  iQOmY lpGGDMc Oman 77 Ebolavirus NO
+8174  XyAgMqq ppJo Oman 94 Poliomyelitis NO
+9284  EZChtJF aqOMh Oman 53 Tetanus NO
+9623  NNvB dvttOh Oman 103 Measles YES 29-12-2007
+9976  oQWRQ oykH Oman 31 Rubella NO

@@ -1,0 +1,17 @@
+442  qqJpKc elmu UnitedArabEmirates 64 HepatitisB NO
+1224  Zjn ZtICZ UnitedArabEmirates 104 Humanpapillomavirusinfection NO
+1986  qNckW STM UnitedArabEmirates 49 ShinglesHerpesZoster NO
+2324  gGTNc NQkggZD UnitedArabEmirates 74 Japaneseencephalitis NO
+2692  Sarf lwRiOBb UnitedArabEmirates 53 Cholera NO
+3374  VlFhayr FBbfP UnitedArabEmirates 24 Yellowfever YES 22-04-2014
+3692  peCkqNF HCz UnitedArabEmirates 14 HepatitisB YES 14-11-2004
+4251  GTRVV HUc UnitedArabEmirates 69 Diphtheria NO
+4743  DtlcKFa SHIO UnitedArabEmirates 95 COVID19  NO
+6405  VulPLB FQwm UnitedArabEmirates 48 Meningococcaldisease NO
+6879  johfrVZ Qxkmjt UnitedArabEmirates 74 Japaneseencephalitis YES 10-04-2017
+7782  lsvYat qWYhlP UnitedArabEmirates 52 Rabies NO
+8258  qjtWyVC wMx UnitedArabEmirates 69 Ebolavirus YES 12-07-1998
+8461  CMI tSRBeDv UnitedArabEmirates 105 Pneumococcaldisease YES 13-07-2017
+8791  yLwIeD YbwRw UnitedArabEmirates 97 Typhoidfever YES 28-02-2013
+9089  Ecst pfMqh UnitedArabEmirates 26 Cholera YES 03-07-1998
+9835  kDOQ thH UnitedArabEmirates 44 Diphtheria YES 08-09-2011

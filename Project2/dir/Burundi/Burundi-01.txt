@@ -1,0 +1,12 @@
+354  CjdHRga eQYlR Burundi 71 Rabies YES 05-02-2019
+1182  SWxxVU VdsYQBw Burundi 50 ShinglesHerpesZoster NO
+1642  NAw KugBy Burundi 62 Tickborneencephalitis NO
+2300  rODVU dlzHkAi Burundi 83 Japaneseencephalitis YES 12-06-2008
+2867  ico nLZVw Burundi 54 Typhoidfever YES 15-03-2010
+3733  TyAY SuGh Burundi 61 Pertussis YES 10-05-1995
+3862  ixIQU kXSu Burundi 90 Pneumococcaldisease NO
+4556  gJomrA ajm Burundi 11 Meningococcaldisease YES 14-03-2014
+6697  mSAXb xFvwO Burundi 94 Rubella NO
+7126  npxknr LutVE Burundi 5 ShinglesHerpesZoster NO
+7834  vbunqyW ZizF Burundi 9 Varicella NO
+9083  tme NugzZ Burundi 63 Denguefever NO

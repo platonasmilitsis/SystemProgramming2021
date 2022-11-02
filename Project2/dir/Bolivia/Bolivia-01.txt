@@ -1,0 +1,11 @@
+310  hsiamqA EVktoK Bolivia 51 Measles NO
+849  AJjEQBK bqV Bolivia 5 Influenza YES 03-05-2013
+1586  gxKuv peddfD Bolivia 65 HepatitisE YES 23-10-2008
+1960  caIaM sbCI Bolivia 43 Pneumococcaldisease YES 04-03-2015
+3060  jYtrV WUcDqlG Bolivia 73 Yellowfever YES 17-07-2010
+4060  lnUG CdB Bolivia 20 Typhoidfever YES 09-01-2019
+5878  VCIqjLm cRwOYy Bolivia 97 Malaria YES 06-04-1998
+6761  KjFVo Gpi Bolivia 41 Typhoidfever YES 25-04-2019
+7628  XIHV AxFj Bolivia 50 Mumps NO
+8474  jfpddJy BYt Bolivia 7 HepatitisA YES 23-07-2008
+9657  FFI IblS Bolivia 117 Yellowfever YES 18-05-2015

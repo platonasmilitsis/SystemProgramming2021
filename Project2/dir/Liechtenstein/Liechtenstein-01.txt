@@ -1,0 +1,13 @@
+599  kCqA eyEW Liechtenstein 66 Typhoidfever YES 24-05-2006
+1502  WcaAev wJmjo Liechtenstein 64 Mumps YES 24-11-2002
+3152  PIa xWiH Liechtenstein 113 Measles YES 02-03-1997
+3609  zAniEJ JygLzn Liechtenstein 18 Meningococcaldisease NO
+4074  QDa XoE Liechtenstein 11 Meningococcaldisease YES 01-12-2005
+4319  iNHKsF zwYZtHb Liechtenstein 119 Pertussis YES 19-08-2004
+5079  HWd qnQtWNh Liechtenstein 39 Tickborneencephalitis YES 19-05-2000
+5844  gkekJF CEl Liechtenstein 47 Pertussis YES 02-01-2002
+7072  MJLUExt suQeLwO Liechtenstein 59 Influenza YES 16-11-2012
+7849  SMZMoBe FneulS Liechtenstein 27 Rotavirusgastroenteritis NO
+8777  rMZC Uee Liechtenstein 112 COVID19  NO
+9143  cmLDcxO EyKT Liechtenstein 76 ShinglesHerpesZoster NO
+9507  MOWgt QimEp Liechtenstein 3 Rubella YES 02-12-2004

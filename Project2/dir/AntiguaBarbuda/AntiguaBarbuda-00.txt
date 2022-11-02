@@ -1,0 +1,11 @@
+291  aoUFL awm AntiguaBarbuda 34 Haemophilusinfluenzaetypeb NO
+1176  BOMW RWvhaie AntiguaBarbuda 76 Meningococcaldisease NO
+2040  Dsl ZepFn AntiguaBarbuda 32 Cholera NO
+2865  nbA Spv AntiguaBarbuda 28 Malaria YES 16-01-2000
+3947  lBjF PsKdqC AntiguaBarbuda 78 ShinglesHerpesZoster YES 10-10-2011
+5659  BPErYZs dEkXrcw AntiguaBarbuda 112 Typhoidfever YES 02-08-2005
+6729  EDACkNx APqo AntiguaBarbuda 13 Ebolavirus YES 23-01-2017
+7595  YzJdcyR kqU AntiguaBarbuda 105 Rotavirusgastroenteritis YES 14-09-2019
+7804  AsQ uGSbB AntiguaBarbuda 61 Meningococcaldisease YES 04-12-2002
+8347  lEVB KaRvLmN AntiguaBarbuda 11 Poliomyelitis NO
+9884  wuxt nixob AntiguaBarbuda 74 Pertussis NO

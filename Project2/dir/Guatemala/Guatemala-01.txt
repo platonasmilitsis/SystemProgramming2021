@@ -1,0 +1,13 @@
+184  RzQfe mBnJWwB Guatemala 42 Malaria NO
+1580  Flrm DJbsFW Guatemala 63 Denguefever NO
+1850  aSglr MjnWb Guatemala 38 Measles YES 06-06-2016
+3112  LBRBwFG ovB Guatemala 93 Rabies NO
+3480  LxUBsfR XcH Guatemala 23 Humanpapillomavirusinfection NO
+4485  kxn Sxq Guatemala 37 Denguefever YES 30-02-1995
+4890  gcDQ UOEtqoO Guatemala 7 Meningococcaldisease YES 11-09-2019
+5343  JnNkMJ bFD Guatemala 103 HepatitisE YES 19-08-1997
+6630  OwzYdhC ItUIs Guatemala 117 Pneumococcaldisease NO
+7354  KDuI ajxKxn Guatemala 49 Japaneseencephalitis YES 06-03-1997
+8579  qwNTs eoFMicY Guatemala 105 Pertussis NO
+9462  sZAbDT eKj Guatemala 94 Haemophilusinfluenzaetypeb YES 16-10-2006
+9837  dibQZRk faRhJw Guatemala 65 Denguefever NO

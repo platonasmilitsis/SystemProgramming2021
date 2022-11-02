@@ -1,0 +1,12 @@
+164  ZsVX uYtO GuineaBissau 44 Poliomyelitis YES 27-02-2018
+1064  JjGX xfu GuineaBissau 48 Rabies NO
+1517  EloQnDj ulSw GuineaBissau 36 HepatitisB NO
+2182  scQlhl POVUqa GuineaBissau 68 HepatitisA NO
+2584  FNaHeP TPcoqo GuineaBissau 22 Influenza YES 13-09-2018
+3311  pxgjbs AaKPbE GuineaBissau 19 HepatitisA NO
+4837  JYQdTQ BQAAr GuineaBissau 52 Poliomyelitis NO
+5921  UdWpmG zSGm GuineaBissau 85 Pertussis NO
+6809  GHsL oujz GuineaBissau 49 HepatitisE NO
+7594  WgvdMZ yRCP GuineaBissau 75 Varicella YES 16-06-2001
+8162  XsFu wft GuineaBissau 26 Malaria YES 10-06-2008
+9304  ygczmVV hzmj GuineaBissau 28 Tuberculosis YES 22-09-2006

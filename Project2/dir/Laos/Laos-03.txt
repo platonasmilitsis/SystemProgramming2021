@@ -1,0 +1,9 @@
+696  bVGCE PBT Laos 25 Diphtheria YES 09-08-2002
+1900  HmSxM caeNKt Laos 100 Humanpapillomavirusinfection YES 07-06-1999
+3394  Ngu BCc Laos 8 Rabies NO
+3622  BoN WzacN Laos 81 Rubella YES 21-09-2018
+4529  KWxkvYa rQb Laos 34 ShinglesHerpesZoster NO
+5654  VGeQA rarKBR Laos 72 Meningococcaldisease NO
+6642  Rmq hgSS Laos 37 Tuberculosis YES 01-05-2019
+7311  EZjxfZk zjw Laos 82 Tetanus NO
+8440  Mvo hVDUdD Laos 110 Varicella NO

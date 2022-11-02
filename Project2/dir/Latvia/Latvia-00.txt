@@ -1,0 +1,13 @@
+140  tNgcKP XIbl Latvia 95 Influenza YES 07-05-2017
+792  EdI KWrd Latvia 30 HepatitisE NO
+2020  AOhPw mHMYCzR Latvia 94 COVID19  YES 03-04-2016
+2974  TEsr ffB Latvia 40 Influenza NO
+3475  hRuw fsjQNi Latvia 17 Typhoidfever NO
+4564  kTPQyxw jZwPlo Latvia 8 HepatitisE YES 19-11-2016
+5013  pgQu YfzELp Latvia 50 ShinglesHerpesZoster YES 02-06-2018
+5610  SVCOpI Fkm Latvia 107 Denguefever YES 09-11-2009
+5893  Cinw KWpOjR Latvia 22 Pertussis NO
+7220  THc XzNPdm Latvia 75 Humanpapillomavirusinfection NO
+8295  Bvn vkMTRa Latvia 88 HepatitisA NO
+8600  VEwPN TThh Latvia 48 Diphtheria YES 01-04-2010
+9698  rjsY UTFGmT Latvia 85 Meningococcaldisease NO

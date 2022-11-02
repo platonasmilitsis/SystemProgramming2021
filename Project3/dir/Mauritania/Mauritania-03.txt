@@ -1,0 +1,14 @@
+424  ZkIN FkvmDk Mauritania 5 Influenza NO
+1404  TFtUF vxsDQSF Mauritania 63 Diphtheria YES 20-10-2008
+3151  vxIx zBpLl Mauritania 91 HepatitisB NO
+3964  rbBF JyslA Mauritania 93 HepatitisA NO
+4395  ujPb wKd Mauritania 43 Measles NO
+5142  lABY mFllg Mauritania 85 Meningococcaldisease NO
+5781  AKGqiE gDKcDCz Mauritania 99 Tickborneencephalitis YES 13-07-2007
+6265  fFSs amtta Mauritania 46 ShinglesHerpesZoster YES 20-05-1996
+6955  eoNFoS nCaTCD Mauritania 119 ShinglesHerpesZoster NO
+7543  FwdCexo AAuwM Mauritania 49 Yellowfever YES 23-11-2004
+7871  XtwPFnf lmtL Mauritania 30 Meningococcaldisease YES 17-12-2007
+8149  YvblAJ WNAccnG Mauritania 76 Tuberculosis NO
+8847  zutSFto eKenq Mauritania 46 Yellowfever YES 06-08-2016
+9061  ndvCSW aIXhXde Mauritania 59 Pneumococcaldisease YES 17-01-2010

@@ -1,0 +1,15 @@
+43  HRp XhCHQj Ethiopia 38 Japaneseencephalitis YES 30-02-2007
+446  CFkFCZJ zhX Ethiopia 117 Poliomyelitis NO
+695  HCDvVA IpQofYv Ethiopia 107 Tickborneencephalitis YES 04-06-2019
+1865  MnHkGAa bmB Ethiopia 56 Rubella NO
+3258  eDchwy GsoNza Ethiopia 21 ShinglesHerpesZoster NO
+3963  IuoPVG fyPzO Ethiopia 96 Meningococcaldisease YES 01-04-2000
+4840  tUXrvOF gvK Ethiopia 110 COVID19  YES 24-08-1997
+5315  paouhXI GsDRdLF Ethiopia 110 Rabies YES 02-04-2017
+6261  IKBVSS uRVSaSs Ethiopia 20 HepatitisE YES 01-07-2011
+6600  hkbIy RSRdf Ethiopia 41 Meningococcaldisease YES 26-02-2008
+7209  mRtnpGj MprQoiK Ethiopia 2 Influenza NO
+7521  KsZyoYs DEBW Ethiopia 11 Measles YES 01-09-2010
+7796  vGP UhnOP Ethiopia 25 Japaneseencephalitis NO
+8480  puGEvx dJQ Ethiopia 98 Mumps YES 06-02-2002
+9876  EZhZyUE kIS Ethiopia 61 Haemophilusinfluenzaetypeb NO

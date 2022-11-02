@@ -1,0 +1,18 @@
+92  jGMIO hYIrv Mexico 100 Cholera YES 18-10-2001
+557  nlLi Yvc Mexico 68 Tetanus NO
+1063  yKVG nvKGl Mexico 9 Denguefever YES 09-07-2003
+1235  mtBdBy CkBhtv Mexico 25 Influenza NO
+1489  EWG UWct Mexico 39 Yellowfever NO
+2162  LNtjy KHmG Mexico 10 HepatitisE YES 14-05-1995
+2551  qFcFt SbGD Mexico 49 Pertussis NO
+3279  eZbEYb VDGGb Mexico 72 HepatitisA YES 29-05-2005
+4142  JAJ laTyi Mexico 101 Ebolavirus YES 04-05-1999
+4462  jMsLaP gEvpPLg Mexico 112 Tickborneencephalitis YES 20-05-2006
+5264  bNtY VeJV Mexico 15 Tuberculosis YES 25-04-1995
+6039  gsrU dBX Mexico 109 Haemophilusinfluenzaetypeb NO
+6574  NrKN Krb Mexico 110 COVID19  NO
+7018  sjbfNTw yQPj Mexico 115 Varicella NO
+7411  eCIYmY qlV Mexico 83 Measles YES 28-06-2000
+7700  Umn DEGuJ Mexico 92 Tuberculosis NO
+8499  FWjTM MzKBufU Mexico 67 Meningococcaldisease NO
+9133  eHuTRUv UDgfTV Mexico 55 Humanpapillomavirusinfection NO

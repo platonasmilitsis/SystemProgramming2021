@@ -1,0 +1,12 @@
+409  wcXPF XPLxGq Armenia 102 Varicella YES 08-05-2015
+815  ydSYp dteiZr Armenia 79 Yellowfever YES 15-11-2017
+1611  qxkwBex XvJZPn Armenia 58 Malaria YES 22-05-2007
+3664  IBe guZx Armenia 115 Meningococcaldisease YES 04-09-2007
+4724  CUJdS blWZ Armenia 73 HepatitisE YES 09-09-2006
+6018  PLfbdW twV Armenia 37 Pneumococcaldisease YES 01-12-2007
+6516  XRtz jnY Armenia 12 Measles YES 05-01-1995
+6940  Asj OsyLND Armenia 34 Haemophilusinfluenzaetypeb YES 12-03-2008
+7597  lvDRDz wfYIZ Armenia 19 Pneumococcaldisease NO
+8266  Fuzim kQs Armenia 5 Diphtheria NO
+8837  CVHUWtc eks Armenia 1 Pertussis NO
+9699  Uejqz MmLRN Armenia 55 Pneumococcaldisease NO

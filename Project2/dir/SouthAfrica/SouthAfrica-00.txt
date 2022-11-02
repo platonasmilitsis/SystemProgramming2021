@@ -1,0 +1,13 @@
+411  yanu dMoYjxS SouthAfrica 91 Haemophilusinfluenzaetypeb YES 10-03-2001
+1375  zVPCO sFOC SouthAfrica 24 Haemophilusinfluenzaetypeb YES 27-05-1995
+2170  IOk BaOLD SouthAfrica 68 Poliomyelitis NO
+2525  SXgSyVX ZIZY SouthAfrica 26 Meningococcaldisease NO
+2828  YZRceHX Uiwq SouthAfrica 73 Yellowfever NO
+4680  AyW oQtspB SouthAfrica 40 HepatitisE NO
+5363  onHq usmYYCm SouthAfrica 105 Pertussis NO
+5833  kcN mZBc SouthAfrica 82 COVID19  YES 29-03-2010
+6468  AQrPgF Vxlnx SouthAfrica 102 Haemophilusinfluenzaetypeb NO
+6847  lvbXSA BQxXte SouthAfrica 56 Tickborneencephalitis YES 14-01-2015
+7415  yMpj mfoyvK SouthAfrica 100 Denguefever YES 12-05-1997
+8263  Axrbi iZfMd SouthAfrica 27 HepatitisB YES 26-08-2012
+9482  ika TaMsKxf SouthAfrica 70 Humanpapillomavirusinfection YES 28-10-2019

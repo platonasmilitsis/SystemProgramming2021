@@ -1,0 +1,10 @@
+162  hSyfBO wKThEed Vanuatu 96 Varicella NO
+1321  NZnFmj ehkZerd Vanuatu 43 Pertussis NO
+2281  qDenTD sdmNW Vanuatu 54 Humanpapillomavirusinfection YES 15-12-1995
+2848  jWGCONn mOxDeX Vanuatu 78 Denguefever YES 21-05-2007
+3256  eHgWCS YqKq Vanuatu 23 Varicella YES 14-01-2015
+3997  ypH DFLKm Vanuatu 43 Cholera NO
+6059  HoJ cVmQ Vanuatu 74 HepatitisB YES 03-04-2012
+7867  pfsul UEDT Vanuatu 78 Diphtheria YES 05-10-2007
+8933  xIn gqBzAz Vanuatu 41 Rotavirusgastroenteritis NO
+9755  cdHwW iJtO Vanuatu 71 ShinglesHerpesZoster YES 22-05-2008

@@ -1,0 +1,13 @@
+907  MWLHR HssekD Mozambique 79 Influenza YES 13-07-1997
+1280  TdDnl ORhdtJ Mozambique 111 Varicella YES 22-01-2002
+1976  TPzEIA XMb Mozambique 85 Typhoidfever NO
+2530  uOeW Hef Mozambique 42 ShinglesHerpesZoster YES 14-02-2015
+3704  khLj zWcdaba Mozambique 70 Influenza YES 05-05-2019
+4080  lftvmN ezcb Mozambique 105 HepatitisA YES 03-09-1999
+4887  jUAlmk pKcLrH Mozambique 115 COVID19  YES 11-11-2011
+6389  OQNVd NuQKlXg Mozambique 29 Tuberculosis YES 22-06-2000
+6999  SBIUhFb KqbKCyK Mozambique 97 Cholera NO
+7399  pyZ zIojuhy Mozambique 91 Japaneseencephalitis YES 23-10-2003
+8117  UaqauQe XgpHzq Mozambique 27 Humanpapillomavirusinfection NO
+9044  qfZs Tin Mozambique 94 HepatitisB YES 02-02-2004
+9792  yItsqz DCewxd Mozambique 67 Pneumococcaldisease YES 03-12-2000

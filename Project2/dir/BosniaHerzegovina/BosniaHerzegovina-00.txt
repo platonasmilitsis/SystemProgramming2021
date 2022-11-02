@@ -1,0 +1,13 @@
+96  eDnI YUyGZ BosniaHerzegovina 90 Haemophilusinfluenzaetypeb YES 11-01-2009
+452  mfL rKDeh BosniaHerzegovina 11 Pneumococcaldisease YES 16-07-2018
+847  GzaRI nYnSP BosniaHerzegovina 55 Tickborneencephalitis YES 21-11-2007
+1236  WTrk VpdCjKt BosniaHerzegovina 114 Denguefever NO
+2059  jUtX aQCB BosniaHerzegovina 3 Denguefever YES 25-01-2010
+2724  toJ nIiwI BosniaHerzegovina 1 Ebolavirus NO
+3474  KRcbXi wjIT BosniaHerzegovina 83 HepatitisE NO
+4040  tmotWmj Ooy BosniaHerzegovina 76 Pneumococcaldisease YES 11-09-2003
+4674  JzXS myNk BosniaHerzegovina 90 HepatitisB YES 15-05-1999
+5132  BTxSeQO oXwjwoC BosniaHerzegovina 82 Meningococcaldisease YES 26-04-2003
+6536  IWqW jbTRbt BosniaHerzegovina 61 HepatitisA NO
+8581  JJHaV QCr BosniaHerzegovina 74 Rubella YES 07-07-2003
+9868  JGoJ AwlBlNE BosniaHerzegovina 74 HepatitisA YES 25-09-2019

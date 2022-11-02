@@ -1,0 +1,13 @@
+118  bmzGmXl jKDJN Namibia 105 HepatitisE NO
+1683  TvTebTi gMXkvTl Namibia 91 Cholera NO
+1905  RdQW tUsw Namibia 15 Ebolavirus YES 24-09-2019
+2558  OgxVeb zlqAiz Namibia 73 Pertussis YES 28-06-2007
+2829  NfZdwuf UTDYtS Namibia 19 Japaneseencephalitis YES 20-10-2014
+4280  ZbFGwe WxkZNU Namibia 117 Denguefever NO
+5231  gDPFB OUCVAxB Namibia 25 Rotavirusgastroenteritis YES 06-09-2019
+6163  SSQge eCRABb Namibia 104 Mumps NO
+6802  pDrI SwoM Namibia 5 HepatitisB YES 07-08-1997
+7064  FgFUUt OEjArRj Namibia 67 Denguefever YES 15-01-1996
+8084  HDwnwB rUrdm Namibia 100 Typhoidfever YES 15-10-2003
+9120  fYTf msBP Namibia 14 Poliomyelitis NO
+9823  dsdkX wtKNL Namibia 3 Malaria YES 05-10-2006

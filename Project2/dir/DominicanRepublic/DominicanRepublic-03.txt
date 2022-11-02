@@ -1,0 +1,11 @@
+1890  jSa MbX DominicanRepublic 47 Measles NO
+3198  EKHMAo ZAh DominicanRepublic 113 HepatitisE YES 03-08-2002
+3954  GAqO AXZn DominicanRepublic 110 ShinglesHerpesZoster YES 09-10-2006
+5117  QBhRIj WbcC DominicanRepublic 14 Meningococcaldisease NO
+5735  GNoax MTpmae DominicanRepublic 20 Ebolavirus NO
+5953  dfp xhAjHZ DominicanRepublic 58 COVID19  YES 02-03-2001
+6986  IdkBuw ODapJk DominicanRepublic 63 Malaria NO
+7969  kiYpv rHK DominicanRepublic 96 Mumps YES 06-07-1998
+8648  CNJOmHU yEQzzIq DominicanRepublic 87 ShinglesHerpesZoster YES 14-06-2003
+8991  qOz dBl DominicanRepublic 97 Rubella YES 08-10-1999
+9829  fFS yKq DominicanRepublic 95 Poliomyelitis YES 11-09-1996

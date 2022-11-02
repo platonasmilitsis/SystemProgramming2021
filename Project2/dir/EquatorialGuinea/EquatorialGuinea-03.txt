@@ -1,0 +1,11 @@
+621  uve tILEjnv EquatorialGuinea 88 Ebolavirus NO
+1609  lZzVuB PkbaUTV EquatorialGuinea 24 Diphtheria YES 07-06-2002
+1907  WeMlj bHRsr EquatorialGuinea 92 Ebolavirus YES 08-09-1999
+3137  oPxJsa YIYZTE EquatorialGuinea 110 Tickborneencephalitis YES 27-08-2012
+4109  bDC KlIdk EquatorialGuinea 65 COVID19  NO
+5466  nnbmmF ziddaR EquatorialGuinea 52 HepatitisE NO
+5731  IOAp vmfuIr EquatorialGuinea 54 Yellowfever NO
+6943  TOT JskeBt EquatorialGuinea 54 Cholera YES 18-05-2011
+7519  sPFgt FmRX EquatorialGuinea 70 Meningococcaldisease YES 19-02-2003
+8257  Cwy raxA EquatorialGuinea 67 ShinglesHerpesZoster YES 26-06-2017
+9403  VKjGK YiZa EquatorialGuinea 99 Humanpapillomavirusinfection NO

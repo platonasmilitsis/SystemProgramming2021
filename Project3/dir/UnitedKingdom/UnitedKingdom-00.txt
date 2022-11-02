@@ -1,0 +1,11 @@
+20  WPBMr EQL UnitedKingdom 22 Haemophilusinfluenzaetypeb NO
+2522  kST AKiv UnitedKingdom 59 Diphtheria NO
+2877  SzJvfM IHzce UnitedKingdom 31 Tickborneencephalitis YES 27-01-1999
+3593  YgFij Qvq UnitedKingdom 21 Yellowfever NO
+4273  hNgree TptxnCm UnitedKingdom 20 HepatitisE YES 25-06-2010
+4631  fvOZxw TbbJoQ UnitedKingdom 67 Tetanus NO
+5826  SCgOBm XkAQg UnitedKingdom 53 Influenza NO
+6476  TZZXYy QpTUE UnitedKingdom 32 Pertussis YES 17-04-2012
+7347  MnLd rvy UnitedKingdom 27 Poliomyelitis YES 28-06-2015
+8508  FDpoKv bvggrGY UnitedKingdom 45 Varicella NO
+9347  avAjn SfIa UnitedKingdom 97 Yellowfever NO

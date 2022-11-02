@@ -1,0 +1,9 @@
+2443  CRP OLaO TheBahamas 76 Poliomyelitis YES 05-04-1996
+4063  RTad MoYVjeO TheBahamas 69 Mumps NO
+5499  iTTL SDAs TheBahamas 14 Measles YES 03-01-1999
+6057  tvAD gRgJRJC TheBahamas 33 Rabies YES 18-09-1997
+6722  HAE cZtmuPN TheBahamas 87 Denguefever NO
+6919  EIXi GgISWk TheBahamas 38 Rabies NO
+7759  iLAikVn AsNWn TheBahamas 77 Pertussis YES 12-12-2004
+8419  SVeBSF NLxIGp TheBahamas 119 COVID19  NO
+9021  dVKV xZJ TheBahamas 102 Pneumococcaldisease NO

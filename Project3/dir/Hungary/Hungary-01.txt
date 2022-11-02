@@ -1,0 +1,13 @@
+149  eEO GXZU Hungary 35 Rotavirusgastroenteritis YES 01-04-2003
+1316  yWK VqmURu Hungary 47 Cholera YES 20-11-2015
+2151  JUPbE fArN Hungary 98 Diphtheria YES 25-01-2010
+2658  xEKqWz EMQn Hungary 83 Diphtheria YES 23-12-2006
+3792  isHQwH iVn Hungary 23 Varicella NO
+4314  HtNJ NBkA Hungary 34 Denguefever YES 14-08-2008
+4633  uwJFrC EjhbXB Hungary 33 Poliomyelitis YES 03-06-1995
+5696  MrcT rCQeGj Hungary 9 Yellowfever YES 15-01-2008
+6517  mOo rMZD Hungary 61 Rabies NO
+7575  TQgBauA DLktkp Hungary 62 Pneumococcaldisease YES 18-05-1997
+8327  IiyrUkZ FAWXhb Hungary 107 Typhoidfever NO
+8903  rJrDMX lBjhuu Hungary 116 Varicella YES 24-03-2019
+9555  fJQoRP Nzb Hungary 11 Rotavirusgastroenteritis YES 03-02-2019

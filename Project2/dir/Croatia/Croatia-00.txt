@@ -1,0 +1,10 @@
+24  Qhnv rgZ Croatia 70 Yellowfever NO
+664  eHk mZrMkCx Croatia 23 Meningococcaldisease NO
+1019  AGJZpd tzYCE Croatia 42 COVID19  NO
+2377  anseIa glRVSP Croatia 12 Rubella NO
+3323  ZsGl uSkzKe Croatia 71 Tuberculosis YES 15-03-2019
+4863  XWxXNOU ljH Croatia 79 Tetanus NO
+5628  AVETz YNTLs Croatia 14 Yellowfever YES 28-03-2016
+7550  TMCz HJNANxh Croatia 92 Pertussis NO
+9479  ZtGScVk IXj Croatia 29 Poliomyelitis YES 25-02-2009
+9874  VuL yCvvp Croatia 103 COVID19  NO

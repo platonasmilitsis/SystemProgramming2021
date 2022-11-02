@@ -1,0 +1,11 @@
+67  XHEUY srQO Finland 36 Haemophilusinfluenzaetypeb NO
+908  chhvr AQv Finland 26 Haemophilusinfluenzaetypeb YES 04-12-1997
+1102  BJmX uqKX Finland 44 Japaneseencephalitis NO
+2406  yYMj ZevR Finland 64 HepatitisE YES 04-11-2009
+2817  EnZXAM sjdeh Finland 80 Tuberculosis YES 03-07-2006
+4038  vTItJ VqpI Finland 31 Japaneseencephalitis YES 06-02-1996
+4179  OXxU elJMyI Finland 108 COVID19  NO
+5018  myQ nnjugzo Finland 16 Meningococcaldisease NO
+6585  uRBZ RyGzLy Finland 11 Malaria YES 27-11-2019
+8042  wcMn TyeW Finland 56 Meningococcaldisease NO
+9257  cLq npUjGsz Finland 51 Denguefever NO

@@ -1,0 +1,12 @@
+1115  cECx oWobT Kiribati 83 ShinglesHerpesZoster NO
+1810  blPpe psrDyK Kiribati 43 Rubella NO
+2736  vvt BlRqWE Kiribati 50 Tuberculosis YES 02-07-1996
+3569  AlFbqg UXbu Kiribati 11 HepatitisA NO
+4216  LKBL wuK Kiribati 101 Mumps NO
+5003  glRbLxn CBZ Kiribati 40 HepatitisA YES 17-01-2014
+5187  bEHQyF ubrW Kiribati 75 COVID19  YES 20-09-2004
+6484  bZMbOln ZdDsED Kiribati 110 Haemophilusinfluenzaetypeb NO
+7482  NboXIKz IAbDO Kiribati 116 Malaria NO
+8719  VErAX qFZnep Kiribati 17 HepatitisE YES 26-11-2009
+9410  HJNw NnW Kiribati 94 Tickborneencephalitis YES 08-03-2016
+9916  fzaB vda Kiribati 34 Rabies NO

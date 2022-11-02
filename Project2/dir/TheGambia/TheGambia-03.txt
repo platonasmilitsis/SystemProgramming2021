@@ -1,0 +1,15 @@
+748  lKpUo thB TheGambia 42 Influenza YES 23-08-1997
+1550  GyScSuq FeLWy TheGambia 12 Tetanus YES 02-07-2007
+2012  qRIgEzV UJS TheGambia 28 Malaria YES 17-03-2015
+2806  XMCCAve qAVlHiP TheGambia 27 Pneumococcaldisease YES 25-04-2015
+3479  pwWEH nQNm TheGambia 114 Meningococcaldisease YES 25-09-2019
+3642  PAsgNv Ixouzo TheGambia 34 Japaneseencephalitis NO
+3967  qphzMr djE TheGambia 98 Pertussis YES 07-09-2014
+4496  NMvPuF kslCST TheGambia 2 Influenza NO
+5535  VmQtgC iqD TheGambia 58 Mumps NO
+6003  KwO CnXzzg TheGambia 35 Rabies YES 16-06-2017
+6520  SgwhwB wseEknR TheGambia 31 Tickborneencephalitis NO
+7062  EvmQ ZPrwCHe TheGambia 41 Tetanus NO
+7859  lUpM HZRn TheGambia 56 Diphtheria NO
+8371  aqGdufF dMj TheGambia 12 Rotavirusgastroenteritis NO
+9912  JjJM wqmSIfJ TheGambia 48 Tetanus NO

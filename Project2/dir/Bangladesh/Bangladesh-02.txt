@@ -1,0 +1,14 @@
+358  uAC yPUX Bangladesh 52 Pneumococcaldisease NO
+993  pCMvNk lJixPYo Bangladesh 66 Haemophilusinfluenzaetypeb YES 20-04-2005
+1709  oHv lQf Bangladesh 76 Varicella NO
+2089  QpqxT DSmrP Bangladesh 20 Varicella YES 21-04-2011
+3321  wJznUq Glua Bangladesh 3 Measles YES 20-02-1995
+3716  URa NEWnpwo Bangladesh 70 Tuberculosis NO
+4358  eYFJ dai Bangladesh 92 ShinglesHerpesZoster YES 22-03-2018
+4720  MRVx Rcgrc Bangladesh 106 Meningococcaldisease YES 12-01-2014
+5305  yMsHmcV NluVkzf Bangladesh 112 Meningococcaldisease YES 23-11-2010
+5946  hVjpR WuvPb Bangladesh 95 COVID19  YES 24-04-2003
+7152  fKK HVS Bangladesh 22 Rubella NO
+7938  AmRq sKZER Bangladesh 62 Tickborneencephalitis NO
+9004  HJQxpv XjYdmp Bangladesh 85 Haemophilusinfluenzaetypeb YES 24-12-1996
+9878  wxfV piiD Bangladesh 18 Rotavirusgastroenteritis NO

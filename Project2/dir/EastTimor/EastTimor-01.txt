@@ -1,0 +1,12 @@
+680  Nqx yBY EastTimor 92 Denguefever YES 03-02-2015
+956  FIc QRcMuu EastTimor 80 Rotavirusgastroenteritis YES 16-05-2002
+1829  Yzjq ukurEeC EastTimor 108 Meningococcaldisease YES 06-08-2017
+2890  wiVS JIGOsBr EastTimor 62 Japaneseencephalitis NO
+3380  rSXAg uvIGtZ EastTimor 107 ShinglesHerpesZoster NO
+4178  hRZgDSe epdW EastTimor 10 Rotavirusgastroenteritis YES 30-10-2002
+4782  oPSL JWedPD EastTimor 75 Malaria YES 28-02-2015
+5245  OiuIbx uHUihux EastTimor 50 Diphtheria YES 29-07-1999
+5796  MRCfde xhmhCGE EastTimor 57 Measles YES 09-12-2018
+7053  sgA cYMQIp EastTimor 114 HepatitisB NO
+8190  bwOqFs hnAAn EastTimor 112 ShinglesHerpesZoster YES 30-03-1998
+9582  GEK cVX EastTimor 42 Yellowfever YES 06-10-2018

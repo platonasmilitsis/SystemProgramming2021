@@ -1,0 +1,12 @@
+1001  ZTSAxp eKnb Senegal 27 Pneumococcaldisease YES 06-09-1997
+1481  Ksy sblUnr Senegal 22 Humanpapillomavirusinfection YES 05-06-2007
+2678  gFctGg OPJaXv Senegal 110 Diphtheria YES 23-09-1995
+3438  EcFZCYx rRMWMXt Senegal 27 Humanpapillomavirusinfection YES 08-12-2005
+3777  zuWwdf vCGo Senegal 31 Rotavirusgastroenteritis YES 05-06-2004
+4617  LQKfvsI emrv Senegal 72 Influenza YES 03-06-2017
+5063  dlgG SrYjEb Senegal 67 Rabies YES 23-01-2011
+5531  tLO Rmi Senegal 76 Tickborneencephalitis NO
+6420  TJWTXe vNO Senegal 27 Mumps NO
+6868  UUaTjxt fOD Senegal 13 Varicella YES 23-10-2015
+8484  Fqq suyx Senegal 58 Cholera NO
+9457  oVm KJLR Senegal 112 HepatitisA NO

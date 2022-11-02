@@ -1,0 +1,13 @@
+1002  iOBXkKD Ektmb Seychelles 7 Typhoidfever NO
+1750  GBiYuZa SdBBPC Seychelles 109 Cholera YES 08-01-2009
+2645  ZRdzB cazCfV Seychelles 46 Diphtheria NO
+2972  mNeR Aysjg Seychelles 21 Tetanus NO
+3304  ojJOa iCOAMJH Seychelles 66 Poliomyelitis NO
+4385  XCekSTn fjpggp Seychelles 23 HepatitisA NO
+4910  aRPLL bXLF Seychelles 27 Pneumococcaldisease NO
+5185  ZgZVjnI OWTh Seychelles 104 Poliomyelitis NO
+5676  LqgzsOS YNpxN Seychelles 95 HepatitisB NO
+6682  RGjDw epyGWtp Seychelles 83 Rabies NO
+8215  Ioto HSmVXL Seychelles 105 Yellowfever NO
+8569  oScdv arl Seychelles 77 Varicella NO
+9821  eicVf vEDYN Seychelles 101 Rotavirusgastroenteritis NO

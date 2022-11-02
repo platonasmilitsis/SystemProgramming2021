@@ -1,0 +1,12 @@
+598  XqYM WMiRZ Moldova 53 Tuberculosis NO
+1531  bCvR lmhGgL Moldova 48 Denguefever NO
+2374  rHljiDi bvoSCcJ Moldova 9 Poliomyelitis NO
+3224  lRbG oWY Moldova 14 Typhoidfever YES 20-11-1996
+4983  NbaTgY ObgbavT Moldova 85 Tickborneencephalitis YES 24-08-2004
+5491  UoL wHd Moldova 6 Influenza NO
+6268  jZRKcv sBdpAi Moldova 51 Influenza YES 02-01-2019
+6831  YTBsPlZ elVRPBh Moldova 2 Pneumococcaldisease YES 17-09-2018
+7661  cmyH RRKsK Moldova 31 Pneumococcaldisease YES 26-07-2001
+8656  ozIeQ uQf Moldova 112 Malaria NO
+9469  Ssm dMy Moldova 98 HepatitisE NO
+9817  QMUVrG pTwdpem Moldova 54 ShinglesHerpesZoster YES 10-09-2002

@@ -1,0 +1,11 @@
+512  xAiczf hcjVm France 36 Pertussis NO
+1516  KZp eOfP France 49 Rabies NO
+1851  fHpdv fUvSYY France 115 Varicella YES 06-08-2008
+2308  CppbwuX UAjnmQ France 28 Pneumococcaldisease YES 08-10-2006
+3576  OALR Jcu France 56 Pertussis NO
+4382  EqS yzDY France 102 Diphtheria YES 17-08-2016
+5611  aodRNIE NYTs France 85 COVID19  YES 07-05-2010
+6988  iymGxl jBPNoaY France 42 Tuberculosis NO
+7780  iStV RUWOzks France 120 Tetanus YES 20-05-2004
+8635  AqBMw zAi France 72 Rabies NO
+9370  TIfs KaAM France 12 Measles NO

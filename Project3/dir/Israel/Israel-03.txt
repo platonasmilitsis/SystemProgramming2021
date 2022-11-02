@@ -1,0 +1,11 @@
+1970  lWJZ jrA Israel 90 Ebolavirus YES 03-09-2003
+2493  QXM WkgYns Israel 117 COVID19  NO
+3635  qpHD EBNSo Israel 85 ShinglesHerpesZoster NO
+4436  EQX OQv Israel 90 Pneumococcaldisease YES 28-08-2018
+4753  qNHvB WcflCZu Israel 81 ShinglesHerpesZoster NO
+5846  HsXo GLLrqU Israel 86 Rotavirusgastroenteritis NO
+6584  ATbpX bYFUVf Israel 64 Tuberculosis YES 24-04-1996
+7474  jXJywMI zNp Israel 76 Pneumococcaldisease YES 28-03-2014
+8722  YAhBA CDhdIX Israel 22 COVID19  NO
+9140  nnowKtu gmpR Israel 1 Tuberculosis NO
+9615  AzhEPgj VbSzFQH Israel 61 Tuberculosis NO

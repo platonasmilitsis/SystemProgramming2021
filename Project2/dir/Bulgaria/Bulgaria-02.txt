@@ -1,0 +1,12 @@
+363  umrZc EEwGAF Bulgaria 52 Japaneseencephalitis NO
+595  Ceb lofdYR Bulgaria 89 Meningococcaldisease NO
+1249  pXMkqz dnnJeN Bulgaria 91 Tickborneencephalitis NO
+2050  pDhPWG scC Bulgaria 58 Ebolavirus NO
+2371  uEHWlW hGUn Bulgaria 9 Malaria NO
+3641  ETYnQ Tziwayy Bulgaria 37 Tickborneencephalitis YES 30-04-1997
+4340  sHT wtcRe Bulgaria 12 Measles NO
+5159  GffkBa yRIJs Bulgaria 12 Ebolavirus YES 24-11-2005
+5754  ACTiHMx kZoXPG Bulgaria 119 Typhoidfever YES 11-06-2012
+6330  qQF UIcc Bulgaria 23 Rotavirusgastroenteritis YES 07-02-2006
+8989  kqBMCpr neWjZ Bulgaria 100 HepatitisB YES 26-05-2014
+9689  nzwoeVr CvIwcwH Bulgaria 76 Denguefever YES 21-05-2005

@@ -1,0 +1,15 @@
+160  awgNE IgV Dominica 92 COVID19  NO
+791  maJotyq IVPSr Dominica 73 Meningococcaldisease NO
+1184  CmNgO lTZPz Dominica 51 Rabies YES 19-01-2001
+2110  LVZ NymoUm Dominica 13 Malaria YES 10-07-2000
+2937  nAqL euTaHfs Dominica 83 Pertussis YES 21-11-2006
+3929  QbGd bYaSSR Dominica 26 Meningococcaldisease NO
+5489  wMiP lYzigAw Dominica 2 Tickborneencephalitis YES 03-11-2017
+6172  RaMljB qLZR Dominica 103 Humanpapillomavirusinfection NO
+6469  lgAq eIHfYNs Dominica 93 HepatitisA YES 03-10-2001
+6693  sVRc wCbTG Dominica 48 Humanpapillomavirusinfection YES 02-12-1997
+7410  XKRFs deJ Dominica 53 Tuberculosis NO
+8351  eBO ebxADm Dominica 84 Mumps YES 15-01-1995
+8860  BEIEcPo lSIC Dominica 93 Diphtheria NO
+9329  vOyaN EDPGKEY Dominica 104 Poliomyelitis YES 21-12-2006
+9727  sdwBQbt jjPvE Dominica 15 Malaria YES 06-08-2019

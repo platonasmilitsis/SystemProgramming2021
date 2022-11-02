@@ -1,0 +1,14 @@
+123  lqlvr UcUGEcH Andorra 115 Cholera YES 29-11-2014
+532  KZPGLk vcD Andorra 63 Measles NO
+1448  KFhCBZa BPKs Andorra 91 Influenza NO
+2475  LADONI sKVGFkn Andorra 117 Rabies NO
+3206  sOEPnpU OoDmHA Andorra 117 Yellowfever NO
+3861  uMviP YTTVg Andorra 107 Poliomyelitis YES 19-07-2006
+4727  BHrBjg DfFQa Andorra 37 Poliomyelitis YES 12-03-2006
+5663  EGI Sikotxl Andorra 111 Tickborneencephalitis YES 18-03-2015
+5752  YsYwzcj sFEPy Andorra 117 Rabies YES 01-07-2007
+6937  wtfoIS cbDzO Andorra 110 Tuberculosis YES 04-07-2001
+7750  yxjdz tPtUUB Andorra 27 Malaria NO
+8067  MVpxlcK iXGrci Andorra 39 Pertussis YES 10-09-2013
+9141  SygKpC VMF Andorra 43 Yellowfever YES 16-12-2013
+9906  yEJ oKqsP Andorra 18 Rubella NO

@@ -1,0 +1,15 @@
+362  MAJv ubxzJY Argentina 106 Japaneseencephalitis NO
+642  jFpGHF aDXf Argentina 29 Influenza NO
+905  kjSVIt wTWD Argentina 46 Influenza YES 04-06-1998
+2302  BmJHP FLD Argentina 15 Haemophilusinfluenzaetypeb NO
+3148  kLx kfF Argentina 55 Japaneseencephalitis YES 12-10-2000
+4155  fYBO zaOvqYh Argentina 69 Typhoidfever YES 11-06-2002
+4823  XxEt uSHZ Argentina 68 Rubella YES 12-08-1997
+4936  JOwpMg uMr Argentina 2 ShinglesHerpesZoster YES 30-06-1997
+5365  yXK jhxT Argentina 116 Haemophilusinfluenzaetypeb NO
+6343  HTw YEA Argentina 25 Pertussis NO
+6833  zUmx oUTrJ Argentina 66 Meningococcaldisease NO
+7794  sXs tacKnJn Argentina 2 Meningococcaldisease YES 27-10-2009
+8580  iXdaJFn KKeEz Argentina 80 Mumps YES 26-01-2001
+9283  yYWV BCzB Argentina 4 COVID19  YES 05-06-1995
+9785  JUYZTag rVTuPP Argentina 35 Varicella YES 22-09-2011

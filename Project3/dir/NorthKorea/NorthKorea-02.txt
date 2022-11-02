@@ -1,0 +1,15 @@
+235  Iekqe sINVuD NorthKorea 86 Rabies NO
+1016  aySJSj lcobm NorthKorea 76 Tickborneencephalitis YES 22-03-2002
+1913  aJSkr rJXRTc NorthKorea 7 Typhoidfever NO
+2096  CgBcaH BHPxKuM NorthKorea 101 Ebolavirus NO
+2880  CmWVJU Muk NorthKorea 101 Rubella YES 13-09-2011
+3471  pyUN znFItn NorthKorea 101 Mumps YES 04-08-2012
+3741  gTxd niGkMzW NorthKorea 44 HepatitisE YES 07-06-1997
+4941  sLM qbFsZi NorthKorea 47 Rotavirusgastroenteritis YES 22-03-1996
+5458  CzJIl ELbCvv NorthKorea 96 HepatitisA NO
+6115  PtSbUT tRDpJH NorthKorea 21 Rotavirusgastroenteritis YES 15-09-2009
+7138  hFqC siAtWD NorthKorea 29 Tickborneencephalitis YES 15-03-2008
+7950  baJSz MQiBMx NorthKorea 94 Varicella NO
+8741  wWWoY afRprJm NorthKorea 23 Diphtheria YES 06-06-1999
+9305  JTknfxa nupdfwn NorthKorea 27 Pertussis NO
+9538  TIEY gfayLUK NorthKorea 1 Meningococcaldisease NO

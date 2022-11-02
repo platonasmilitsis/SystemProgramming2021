@@ -1,0 +1,13 @@
+337  hQWqevZ EtBoWL Uganda 115 Influenza YES 06-04-2015
+1205  ekMVSb LPylno Uganda 93 Tuberculosis NO
+2115  ZOcs tmHmpPr Uganda 14 HepatitisB NO
+2517  PUF wAn Uganda 48 Varicella NO
+3341  CwMP qvApxWs Uganda 61 Typhoidfever YES 24-08-2002
+4068  sHT eOcf Uganda 3 Haemophilusinfluenzaetypeb YES 28-08-2008
+4262  eZrPaTx tPwA Uganda 88 Japaneseencephalitis YES 05-07-2011
+5545  mbM wlBfG Uganda 68 Meningococcaldisease NO
+6624  IRFN wBK Uganda 100 HepatitisE NO
+7028  baTwYOu KoZ Uganda 97 Influenza NO
+8039  UlZJ qpIIX Uganda 37 Meningococcaldisease NO
+9057  nzjy dOH Uganda 79 Pneumococcaldisease NO
+9693  TzwYi ufYw Uganda 30 ShinglesHerpesZoster NO

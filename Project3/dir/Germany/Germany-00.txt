@@ -1,0 +1,16 @@
+199  trrd sKOZvc Germany 44 Tuberculosis NO
+419  yntbO gkcEEFz Germany 6 Tetanus YES 19-01-2012
+1295  jvEJk PBAYC Germany 19 HepatitisB NO
+1797  ITv ola Germany 60 Yellowfever NO
+2579  SxOmU oxTwEqK Germany 21 HepatitisB YES 05-08-2001
+3141  VprEZ JpGBlN Germany 10 Poliomyelitis YES 27-09-2010
+3693  mjmV POQftv Germany 4 Yellowfever NO
+4368  AoUdGF xQE Germany 59 Tickborneencephalitis YES 24-07-2000
+5511  KZnwc KEFOinU Germany 83 Japaneseencephalitis YES 15-01-2019
+5920  EgC sONQrq Germany 94 Tetanus YES 20-09-2001
+6296  RrP bmNZg Germany 99 Poliomyelitis NO
+6591  cxrr vfnYdTN Germany 42 Rabies YES 13-11-1999
+7323  nhtJO EAU Germany 86 Tickborneencephalitis NO
+8059  wuu BTvokwl Germany 18 Typhoidfever NO
+8400  DtIrbqG nujk Germany 57 Humanpapillomavirusinfection NO
+9253  gaMLQK dByb Germany 101 Rubella NO

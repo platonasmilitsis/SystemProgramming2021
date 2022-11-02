@@ -1,0 +1,15 @@
+229  uDwly WMEvk UnitedStatesAmerica 59 Tickborneencephalitis YES 13-11-2008
+549  tfwQqHw nEHjVm UnitedStatesAmerica 62 Diphtheria YES 05-12-2005
+1283  QCqWbT ptxfC UnitedStatesAmerica 109 Tickborneencephalitis NO
+1498  nUv qOa UnitedStatesAmerica 16 Cholera NO
+2022  MwJMnp JfXQn UnitedStatesAmerica 120 Ebolavirus YES 19-03-1996
+2901  hTLlRiZ LEQZjF UnitedStatesAmerica 113 Measles YES 02-06-2006
+3914  PKiu mEtk UnitedStatesAmerica 105 Tetanus YES 06-12-2013
+4710  hXVm Mzh UnitedStatesAmerica 39 Humanpapillomavirusinfection YES 07-11-2003
+5334  xwl VRA UnitedStatesAmerica 56 Rotavirusgastroenteritis NO
+5932  HNfl tWgiHL UnitedStatesAmerica 1 HepatitisE NO
+6588  TJCPG aUkutm UnitedStatesAmerica 73 HepatitisA YES 24-08-2014
+7321  hstK VPFUht UnitedStatesAmerica 106 COVID19  NO
+7872  EDah tbjBtB UnitedStatesAmerica 75 HepatitisE YES 12-12-2002
+8938  ujmIwUA YeXN UnitedStatesAmerica 75 Typhoidfever YES 04-07-2012
+9966  YIXKP cvzjMb UnitedStatesAmerica 29 Influenza NO

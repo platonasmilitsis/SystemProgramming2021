@@ -1,0 +1,14 @@
+134  jaqy eLt SaoTomePrincipe 63 Tuberculosis YES 11-09-1999
+505  hCPiNAP RCFXMw SaoTomePrincipe 100 Denguefever YES 25-04-2005
+1305  uJy Izvesd SaoTomePrincipe 15 Malaria YES 25-06-2014
+2364  QSJrws LVfg SaoTomePrincipe 110 COVID19  NO
+3378  IyvHv Jpsja SaoTomePrincipe 31 Ebolavirus YES 04-08-2003
+3903  wZAeSo QxH SaoTomePrincipe 49 HepatitisB YES 20-05-2005
+4190  RIfx RoYK SaoTomePrincipe 21 Rabies NO
+4452  wqsePT aOWR SaoTomePrincipe 60 Cholera YES 07-12-2006
+5157  Evdj UtnhWEH SaoTomePrincipe 19 Tetanus NO
+5998  vmbnGwG MXa SaoTomePrincipe 120 Ebolavirus YES 06-11-2001
+7221  ajTMX fwFMH SaoTomePrincipe 13 HepatitisE NO
+7899  GBR KbNSq SaoTomePrincipe 67 Meningococcaldisease NO
+8628  QgkY wuXkFqY SaoTomePrincipe 119 Rotavirusgastroenteritis NO
+9576  ApVMHAA pKFjTqq SaoTomePrincipe 80 Meningococcaldisease YES 08-09-2015

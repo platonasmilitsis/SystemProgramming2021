@@ -1,0 +1,15 @@
+244  VzjRqMM MwpKVbX NewZealand 45 Diphtheria YES 29-06-2012
+878  cWqXHaR pRyIi NewZealand 79 ShinglesHerpesZoster NO
+1320  WNr Uee NewZealand 85 Varicella NO
+1996  owRd rKuCPk NewZealand 63 Malaria YES 18-02-1996
+2208  WkZGKfA CUAYadh NewZealand 114 Yellowfever NO
+3200  Zlnrl hWi NewZealand 26 Measles YES 12-01-2013
+3934  WEGTk pjSB NewZealand 5 HepatitisE NO
+4671  ttdXdp LUJF NewZealand 18 HepatitisB NO
+6036  XTBRFI cROz NewZealand 67 Tuberculosis NO
+6415  eWaaxGy Kiu NewZealand 39 ShinglesHerpesZoster YES 16-03-2004
+7071  ifksvfX UlCg NewZealand 11 Mumps YES 08-08-2005
+8171  AZIWOC OyOo NewZealand 47 Yellowfever NO
+8582  vkf VrmGc NewZealand 32 Rotavirusgastroenteritis YES 27-05-2007
+8870  ukKds UdS NewZealand 55 COVID19  YES 14-09-2010
+9646  mKiGUXx yzF NewZealand 102 Cholera NO

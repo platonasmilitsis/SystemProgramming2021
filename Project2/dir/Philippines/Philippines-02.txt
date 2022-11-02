@@ -1,0 +1,12 @@
+366  dmgoGRU TAx Philippines 84 Rotavirusgastroenteritis NO
+928  PnFSFl WMKBu Philippines 62 Malaria YES 06-09-2011
+1385  FEx jETnqDr Philippines 56 Ebolavirus NO
+1744  jtWiSXK jLkCGd Philippines 87 Typhoidfever YES 21-07-2010
+2092  QGYKM vTVk Philippines 36 HepatitisA YES 24-10-1995
+2509  ECvCPw ggHyPb Philippines 94 Pneumococcaldisease NO
+3410  dPREhms uQXh Philippines 34 Typhoidfever YES 20-04-1999
+4402  aHn yys Philippines 20 Rotavirusgastroenteritis NO
+5423  AlyG fvEB Philippines 28 Malaria NO
+6273  qtN HIeav Philippines 27 Tuberculosis YES 10-08-1997
+7509  sNqlRr YVF Philippines 94 Tetanus NO
+8121  wEKkp tmDRvd Philippines 27 Meningococcaldisease NO

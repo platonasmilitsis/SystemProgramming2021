@@ -1,0 +1,13 @@
+42  ChobKk Mzv ElSalvador 12 Pneumococcaldisease NO
+1767  FoBUENo gzeg ElSalvador 54 Tuberculosis NO
+2142  FTiMR AdJg ElSalvador 35 Diphtheria YES 21-12-1998
+2868  wSP LmxpG ElSalvador 59 COVID19  YES 18-12-2012
+3046  rJt WHpXk ElSalvador 34 Denguefever NO
+3888  eNnl DdxDM ElSalvador 49 Diphtheria YES 26-04-1996
+4662  BBoARV vvbfH ElSalvador 89 ShinglesHerpesZoster YES 10-12-1998
+5202  VtYZeS BIMZywd ElSalvador 5 Cholera NO
+6466  eqXEEHI nkzw ElSalvador 117 COVID19  NO
+6963  vWieRJ cGwDY ElSalvador 33 Japaneseencephalitis NO
+7281  yiJQ HiAM ElSalvador 77 Ebolavirus YES 02-03-2012
+8551  npg USA ElSalvador 113 Malaria NO
+9023  lOzn abmdM ElSalvador 33 Meningococcaldisease NO

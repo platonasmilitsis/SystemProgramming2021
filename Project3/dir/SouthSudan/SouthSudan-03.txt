@@ -1,0 +1,15 @@
+508  Hhy AWoVKR SouthSudan 102 Diphtheria YES 27-03-2005
+1506  Bwo KDpg SouthSudan 17 Typhoidfever NO
+2127  NAAW fMZZ SouthSudan 58 Denguefever NO
+2637  AcWBpF EYmMfgx SouthSudan 21 Ebolavirus NO
+3513  lUxRJ Itr SouthSudan 117 Haemophilusinfluenzaetypeb NO
+3983  QCoZIW CaAv SouthSudan 95 Measles YES 17-09-2002
+4851  OSJXAtI lnbgAF SouthSudan 35 Ebolavirus NO
+5386  AGl ZiMfcMh SouthSudan 14 Denguefever YES 22-05-2015
+5655  MUvWY pGWl SouthSudan 12 Tuberculosis YES 14-10-2003
+6160  ZdHza JmJRSg SouthSudan 113 ShinglesHerpesZoster YES 05-07-2011
+6957  INSLV OPV SouthSudan 47 Typhoidfever NO
+7557  dPj MQJVFM SouthSudan 103 Yellowfever NO
+8350  LWj GEQUjz SouthSudan 79 Pertussis NO
+8633  IfvV GkRP SouthSudan 26 ShinglesHerpesZoster NO
+9879  OrzjW fkCJBi SouthSudan 15 Cholera YES 23-08-1999

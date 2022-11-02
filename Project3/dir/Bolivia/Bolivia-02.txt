@@ -1,0 +1,11 @@
+537  MsWOa rxGyE Bolivia 37 Tetanus YES 01-12-1995
+1241  SJbWV KsI Bolivia 83 Pneumococcaldisease YES 02-06-2010
+1682  djpzFa uxfWz Bolivia 14 Japaneseencephalitis YES 15-10-1996
+2097  AEny vDg Bolivia 87 Influenza NO
+3944  aayv tLlfOB Bolivia 75 Rubella NO
+4763  EWw zNvIwUv Bolivia 119 HepatitisB YES 12-05-2015
+5879  vZkgUXU cPvUTkv Bolivia 22 Pertussis YES 27-08-1996
+6770  DlKQUw EDF Bolivia 40 Denguefever NO
+7678  Iew hfrrUZ Bolivia 53 HepatitisE NO
+9074  PUNuwnq tzWc Bolivia 71 Japaneseencephalitis YES 30-04-1995
+9853  DsQ lPTjFFH Bolivia 19 Pneumococcaldisease NO

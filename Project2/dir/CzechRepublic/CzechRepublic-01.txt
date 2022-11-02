@@ -1,0 +1,13 @@
+316  NDwpYRp iYxua CzechRepublic 62 Mumps NO
+1326  xuJQl EsXF CzechRepublic 85 HepatitisA NO
+1855  ubeio LUoPWE CzechRepublic 100 Haemophilusinfluenzaetypeb NO
+2673  hipcBym IZhiSI CzechRepublic 119 Pertussis YES 06-11-2002
+3068  QmVmz zOy CzechRepublic 7 Cholera NO
+3407  Jsi LNFrf CzechRepublic 97 Tuberculosis NO
+4160  OUpkr mISuPT CzechRepublic 63 Poliomyelitis YES 16-03-2016
+5381  huDAB JmB CzechRepublic 64 Haemophilusinfluenzaetypeb YES 25-07-2011
+5813  BTm UJgml CzechRepublic 14 Typhoidfever NO
+7106  axkFAQS zrRaBEB CzechRepublic 99 Japaneseencephalitis NO
+7932  WqHmE LYJp CzechRepublic 64 Typhoidfever YES 12-02-2018
+8723  XOSn auYHb CzechRepublic 69 Haemophilusinfluenzaetypeb YES 04-04-2009
+9200  vlRH Yvb CzechRepublic 45 Japaneseencephalitis YES 20-10-2003

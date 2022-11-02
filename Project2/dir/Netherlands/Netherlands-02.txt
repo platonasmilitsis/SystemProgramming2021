@@ -1,0 +1,15 @@
+531  XUr MLf Netherlands 80 Yellowfever YES 22-02-2003
+1274  JQBH xmQJn Netherlands 7 Ebolavirus NO
+1800  GndTpa kbUdU Netherlands 10 HepatitisA NO
+2361  hfjKBDi cVM Netherlands 40 Malaria YES 29-01-2009
+2837  KuMc PMd Netherlands 63 Malaria NO
+3452  kes ptUdjY Netherlands 115 Pneumococcaldisease YES 04-01-2007
+4476  Sdsb LWMkll Netherlands 113 HepatitisA YES 07-05-2002
+5098  dQqg nbe Netherlands 82 Humanpapillomavirusinfection NO
+5685  OMd TKKVwEe Netherlands 82 Ebolavirus NO
+6011  lfGUgbU KSa Netherlands 75 COVID19  YES 27-05-2013
+6850  fer heHZvy Netherlands 7 Haemophilusinfluenzaetypeb YES 28-07-2010
+7753  qLEzwL EXidi Netherlands 55 Tuberculosis NO
+8288  IkuDG yHpIF Netherlands 66 Pneumococcaldisease YES 24-09-2000
+9392  nkh KBZzRE Netherlands 54 COVID19  NO
+9811  kFwxfI AKX Netherlands 25 Cholera YES 26-02-2011

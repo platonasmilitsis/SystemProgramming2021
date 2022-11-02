@@ -1,0 +1,13 @@
+186  yHNW DSJR Paraguay 42 Denguefever YES 26-04-2015
+789  TPCrn ZwNf Paraguay 12 HepatitisE NO
+1778  AhbXhi clfjPU Paraguay 118 Rotavirusgastroenteritis NO
+2612  spL nQPMR Paraguay 74 Pneumococcaldisease NO
+4141  AvYI BUKt Paraguay 29 Haemophilusinfluenzaetypeb YES 19-09-2005
+4536  PcuZL OcUqL Paraguay 54 Malaria YES 19-02-2016
+5460  LjMIh DuVYfdn Paraguay 84 Typhoidfever NO
+6300  wPkb APF Paraguay 93 Ebolavirus YES 14-10-2009
+7733  hBoHXR ABEuUr Paraguay 27 Malaria YES 15-04-2017
+8008  zPFSi bGuZA Paraguay 88 Ebolavirus YES 10-06-2002
+8471  NFp YeiAnc Paraguay 100 Yellowfever NO
+9052  iPgGRF sksoY Paraguay 34 Yellowfever YES 28-07-2003
+9517  ChzCdo VRD Paraguay 70 Poliomyelitis NO

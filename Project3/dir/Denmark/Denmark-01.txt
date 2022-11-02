@@ -1,0 +1,13 @@
+135  kkTnro Hzdocw Denmark 65 Poliomyelitis YES 13-03-2018
+841  oVo pjY Denmark 50 Pneumococcaldisease NO
+1706  qJGLLCz RpXJm Denmark 88 Pertussis NO
+2821  aTtA tLnPTfC Denmark 120 Poliomyelitis YES 09-03-2014
+4172  JoPSNGI ziK Denmark 43 Yellowfever NO
+4844  WjtkrND sZeV Denmark 51 Malaria YES 28-03-2006
+5277  HUEbqy DSsU Denmark 109 Rotavirusgastroenteritis YES 19-08-2015
+5976  dOaBIVa eGuw Denmark 74 Ebolavirus NO
+6826  Sann HyC Denmark 111 Yellowfever YES 09-09-2003
+7844  FVlZMhY MsG Denmark 64 Pertussis NO
+8396  uhUDDyI fJyjMLo Denmark 17 Tuberculosis YES 23-03-2004
+9184  lGgFi azVePtw Denmark 17 Rotavirusgastroenteritis YES 23-02-2005
+9913  xsDvL nUAWat Denmark 52 HepatitisB YES 22-04-2006

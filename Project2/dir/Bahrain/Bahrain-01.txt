@@ -1,0 +1,11 @@
+1308  DwIRfJi ChPV Bahrain 8 Yellowfever NO
+1795  DdR LfNBIP Bahrain 47 Rabies YES 11-04-2019
+2490  hGavz UCT Bahrain 38 Rotavirusgastroenteritis NO
+2942  keN XAef Bahrain 90 Tickborneencephalitis NO
+4658  wyIX sTI Bahrain 51 Tuberculosis YES 18-08-1997
+5484  AKi PTfUIl Bahrain 97 Malaria YES 03-11-1995
+6245  ByQC ezwpMY Bahrain 112 Tetanus NO
+7435  VTg TaZAfd Bahrain 82 Cholera NO
+8248  DBp yHpjHZg Bahrain 119 Humanpapillomavirusinfection YES 07-06-2017
+8807  mcEUiO gLyifJn Bahrain 60 Tetanus NO
+9734  noukQ gJS Bahrain 51 Measles NO

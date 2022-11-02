@@ -1,0 +1,14 @@
+380  NVvsWBY sCXKEE BurkinaFaso 7 COVID19  YES 10-08-2013
+728  CFD LTFPvGa BurkinaFaso 73 Diphtheria YES 24-01-1999
+1157  OlfK CrFMBX BurkinaFaso 85 Poliomyelitis YES 15-09-2002
+1879  bbSYoy Abj BurkinaFaso 12 Rotavirusgastroenteritis YES 23-04-2014
+2876  hUA XsLxPP BurkinaFaso 57 Ebolavirus NO
+3073  RwT pvr BurkinaFaso 78 Ebolavirus NO
+4449  RbC eCmM BurkinaFaso 91 Typhoidfever YES 19-09-2015
+4765  RCqh hNM BurkinaFaso 81 Tuberculosis YES 11-07-2005
+5656  jHIJK BMuPz BurkinaFaso 2 Pneumococcaldisease YES 22-09-1998
+6040  RrZi qoCW BurkinaFaso 80 Influenza YES 18-03-2003
+6658  rfP MDDYyD BurkinaFaso 101 Pneumococcaldisease YES 01-12-2004
+7364  ifACtuG LFqtUEc BurkinaFaso 71 Cholera YES 13-01-2006
+8001  ILkPSJ RNvYBTf BurkinaFaso 49 Cholera NO
+9686  PtE OsfPBXw BurkinaFaso 117 HepatitisB NO

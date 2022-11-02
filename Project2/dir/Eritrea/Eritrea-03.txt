@@ -1,0 +1,11 @@
+1251  WuBy nwVoT Eritrea 52 Pertussis NO
+2681  pikRm wVwKPKQ Eritrea 31 Rotavirusgastroenteritis YES 04-06-2005
+3585  rrhiHDT AAR Eritrea 75 Pertussis NO
+4020  MfX AUyGPPN Eritrea 44 HepatitisE NO
+4788  xeETNO syEPgm Eritrea 86 Denguefever YES 23-07-1999
+5284  wKIRbPK PLrC Eritrea 1 Pneumococcaldisease NO
+6930  gchuRYS nsNu Eritrea 65 Malaria YES 04-04-2018
+7560  VpIWuBq kUHIO Eritrea 75 Tuberculosis YES 20-08-2006
+8081  qsaqv kxdvH Eritrea 116 Japaneseencephalitis YES 23-10-2002
+9103  ioib rqFeZ Eritrea 65 Diphtheria YES 19-05-2001
+9692  xoVomK ucY Eritrea 110 Mumps NO

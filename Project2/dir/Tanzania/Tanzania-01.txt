@@ -1,0 +1,13 @@
+528  mUpH AsZN Tanzania 49 Influenza YES 19-03-2011
+1181  frPAj dCtW Tanzania 119 Measles NO
+2153  XrX yCnW Tanzania 60 Meningococcaldisease NO
+2529  mCR OFoS Tanzania 17 Rabies YES 10-10-2010
+2894  nIiG uGC Tanzania 22 Rotavirusgastroenteritis YES 03-02-2004
+3990  UFf pMi Tanzania 71 HepatitisA YES 17-06-2011
+5257  dXSQClC JODqxpb Tanzania 67 Ebolavirus YES 22-04-2011
+6178  bDJ LqOXK Tanzania 103 ShinglesHerpesZoster NO
+6569  lVlnY YUHWl Tanzania 39 Pertussis YES 29-03-2003
+7203  APcOO juZ Tanzania 44 Rotavirusgastroenteritis NO
+8122  wnvU XIbqYgK Tanzania 25 COVID19  NO
+8385  rGN KijBf Tanzania 64 Mumps NO
+9595  VAq olCt Tanzania 98 Pneumococcaldisease YES 16-08-2005

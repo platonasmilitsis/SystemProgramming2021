@@ -1,0 +1,12 @@
+356  OEMF GHlCip BosniaHerzegovina 110 Rotavirusgastroenteritis NO
+723  WHSfW vZIzL BosniaHerzegovina 112 Yellowfever YES 25-10-1999
+1191  mgHD Ccw BosniaHerzegovina 99 HepatitisB NO
+2051  hXRQ FFqk BosniaHerzegovina 67 Typhoidfever NO
+2605  QXLxMJ sAo BosniaHerzegovina 88 Diphtheria YES 18-03-2003
+3366  xON uAar BosniaHerzegovina 89 HepatitisA YES 09-01-2016
+3877  oXjpl RUhHEtJ BosniaHerzegovina 28 Japaneseencephalitis NO
+4403  IBRaqn YLDQ BosniaHerzegovina 89 Poliomyelitis NO
+4972  hYYlY kYGp BosniaHerzegovina 22 Malaria YES 10-03-2013
+6270  XHarKbG ThBnIbO BosniaHerzegovina 23 Meningococcaldisease NO
+8221  FkTxiqd DKalzJe BosniaHerzegovina 2 Pneumococcaldisease NO
+9439  ayCgTpD SHG BosniaHerzegovina 49 COVID19  YES 29-05-2000

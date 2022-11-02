@@ -1,0 +1,9 @@
+1497  ZxyhsUT VIco CostaRica 32 Influenza YES 29-12-2007
+2984  DfATcnW QcPXOJ CostaRica 109 Meningococcaldisease YES 22-11-2010
+3995  CtKXk fXxcYF CostaRica 101 Tuberculosis NO
+4581  DNjBT CsQnMW CostaRica 64 Mumps NO
+5189  pLlaUX nXJHatN CostaRica 9 Measles YES 30-12-2000
+6109  KjYxGy oExX CostaRica 104 Meningococcaldisease YES 19-07-2003
+7065  tdp cTSdCB CostaRica 16 Tuberculosis YES 06-10-2016
+8670  bujE OinY CostaRica 115 Japaneseencephalitis YES 05-12-2003
+9432  guIYLC tSYmJ CostaRica 68 Diphtheria NO

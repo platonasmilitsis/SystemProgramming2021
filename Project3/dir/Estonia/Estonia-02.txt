@@ -1,0 +1,12 @@
+428  lTYgtL tIqqqvt Estonia 30 Cholera NO
+765  mlZ BtCjv Estonia 33 Influenza YES 27-03-2018
+1693  hcSDzz RfhCp Estonia 116 ShinglesHerpesZoster NO
+2523  hWhSvw QId Estonia 69 Measles YES 24-11-2002
+3873  DXOJrNN dId Estonia 109 Measles YES 26-10-2015
+4756  FhovWd jRD Estonia 100 Tuberculosis YES 22-10-2013
+6119  ZFd beKbV Estonia 28 Meningococcaldisease YES 22-07-2009
+6907  OqS MkThd Estonia 79 HepatitisB YES 14-08-2012
+7850  swJWTbI gcbqwo Estonia 35 Haemophilusinfluenzaetypeb YES 23-01-2012
+8390  jTT cpfjgMY Estonia 70 Tickborneencephalitis YES 10-04-2014
+9358  AcA LVqjh Estonia 14 COVID19  YES 02-02-2009
+9754  DYjUfV TdRe Estonia 7 Malaria NO

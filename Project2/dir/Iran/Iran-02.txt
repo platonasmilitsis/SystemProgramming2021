@@ -1,0 +1,13 @@
+463  SdPiAz khed Iran 51 Typhoidfever YES 08-01-2015
+1881  rQqbHC JIP Iran 54 Tuberculosis NO
+2450  nsxDmi ZAb Iran 117 Influenza NO
+2753  xOwOSQ xqV Iran 8 Haemophilusinfluenzaetypeb YES 06-09-2016
+3444  kOacnyJ vKbn Iran 56 Yellowfever YES 14-03-2015
+4161  ZLGRd mDTiK Iran 96 Tickborneencephalitis YES 08-05-2002
+4460  TVHG zik Iran 9 Rabies NO
+4935  xfrmjDu aHppcL Iran 23 HepatitisB YES 12-06-2016
+5618  WzZd otBub Iran 120 Denguefever YES 04-12-2014
+6232  Sfzr znBV Iran 79 Poliomyelitis YES 29-12-2008
+6902  wnWNTj mgJT Iran 24 Haemophilusinfluenzaetypeb NO
+7525  oEZjp Ocx Iran 25 COVID19  YES 07-02-2015
+9232  FKlgUCN PHyXl Iran 46 Influenza NO

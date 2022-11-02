@@ -1,0 +1,13 @@
+136  uEkLDr mFZUgi Zambia 80 Japaneseencephalitis NO
+1400  ZZWdefk Mmut Zambia 61 Ebolavirus YES 23-06-2004
+1868  isnddid wTDe Zambia 114 Tetanus NO
+3238  QtQ cDQum Zambia 71 Diphtheria YES 11-12-2006
+3553  bkKAN fxPrBK Zambia 13 Japaneseencephalitis YES 15-06-1996
+3868  eQjumsW mNyl Zambia 105 Ebolavirus YES 10-01-2012
+4597  VQhL JJYGI Zambia 55 Denguefever NO
+4957  CFUc bOAUj Zambia 93 HepatitisB YES 10-06-2016
+5782  tywIi giKyaau Zambia 74 Malaria NO
+6561  XbNwyT nJwqlA Zambia 74 Diphtheria NO
+7665  LZZosF BqRnGV Zambia 46 Diphtheria YES 20-07-1996
+9190  JFEQ kHFUHks Zambia 120 Poliomyelitis NO
+9419  LHYP UFSH Zambia 9 Rabies YES 20-09-2000

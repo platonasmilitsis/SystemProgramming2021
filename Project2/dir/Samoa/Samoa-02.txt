@@ -1,0 +1,14 @@
+831  rAFH WkgvjzK Samoa 52 Malaria YES 01-05-2015
+1237  ytpsE TbxZT Samoa 106 Poliomyelitis YES 15-10-2015
+2487  rZNsP LXxpcSb Samoa 50 Denguefever NO
+2971  kfkY eTMasqk Samoa 91 Malaria NO
+3481  YIn fjHL Samoa 56 Mumps YES 09-06-2012
+4014  PfKtDR yTeN Samoa 53 HepatitisB NO
+4784  UqiHzK VYHB Samoa 43 Influenza NO
+5521  qyOVS Yvoj Samoa 61 Varicella NO
+5904  PrzA HEJSAn Samoa 97 Tuberculosis YES 13-09-2001
+6285  tQB pIawv Samoa 46 Typhoidfever NO
+7283  cUe pxH Samoa 63 Haemophilusinfluenzaetypeb NO
+8553  mQdrs mlw Samoa 15 Cholera YES 12-12-2012
+9097  Ofm HvRxOM Samoa 47 Pertussis NO
+9711  xBQiK JaKQ Samoa 78 Tickborneencephalitis YES 11-03-1995

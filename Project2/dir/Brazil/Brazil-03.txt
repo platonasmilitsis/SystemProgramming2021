@@ -1,0 +1,11 @@
+1756  yDuQP pIk Brazil 23 HepatitisA YES 11-03-2011
+2574  MJt QNBXtUZ Brazil 109 Tetanus NO
+3165  hVQx OvPfeX Brazil 92 Tuberculosis NO
+4180  vwHw RcNZpNd Brazil 93 HepatitisA YES 23-12-1999
+4660  yUZd yhT Brazil 49 Rotavirusgastroenteritis YES 11-12-2006
+5430  GDr XHDVR Brazil 99 Poliomyelitis YES 09-05-2018
+6438  cFzfhfD oRTe Brazil 69 Tetanus YES 28-01-2015
+7205  gmVaKP JFpRrPy Brazil 106 Tickborneencephalitis NO
+8748  BOfw WvLn Brazil 95 Japaneseencephalitis NO
+9363  TGai dzhkgwT Brazil 45 Ebolavirus YES 03-10-2001
+9991  JzEomb FHr Brazil 72 ShinglesHerpesZoster YES 07-09-2015

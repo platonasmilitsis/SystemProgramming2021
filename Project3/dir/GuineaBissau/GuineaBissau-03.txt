@@ -1,0 +1,12 @@
+498  LxtZibw irknZ GuineaBissau 34 Malaria YES 23-04-2000
+1403  ZqIp cnAyYY GuineaBissau 58 Tickborneencephalitis YES 10-02-2009
+1840  jEvh NxPnVx GuineaBissau 117 Influenza NO
+2453  IpI SKti GuineaBissau 91 Malaria YES 17-02-1997
+3065  GisxfC QEgbN GuineaBissau 33 Ebolavirus NO
+3946  jqJCqq oXyD GuineaBissau 90 HepatitisA YES 24-06-2013
+5175  NLzGHd tuCjDW GuineaBissau 23 Poliomyelitis NO
+6111  KCSj BUze GuineaBissau 74 HepatitisA YES 14-03-1995
+7493  Rsahb aiTAEBs GuineaBissau 3 Typhoidfever NO
+7752  MOjUwK cDW GuineaBissau 116 Yellowfever NO
+8578  rQOZlEt HVq GuineaBissau 11 Rotavirusgastroenteritis YES 13-10-2015
+9818  uoAmD MNPebp GuineaBissau 66 Varicella NO

@@ -1,0 +1,10 @@
+370  yBVP HDYMD Slovakia 45 Measles YES 05-06-2002
+1482  EQMqCIu xfPawQ Slovakia 54 COVID19  YES 29-10-2019
+1969  ISMwACw ntukA Slovakia 114 Yellowfever YES 24-05-2005
+3114  gtV JmoULGZ Slovakia 24 Ebolavirus YES 15-12-1996
+4483  lXVT zHaYj Slovakia 90 Meningococcaldisease YES 24-02-2009
+5258  VuMYtWm JgViYA Slovakia 12 Yellowfever NO
+6237  FqQTw RkfpwsF Slovakia 20 Meningococcaldisease YES 27-11-2016
+7241  aOuz REO Slovakia 32 Diphtheria NO
+8922  GOWHmZ UPN Slovakia 80 Tickborneencephalitis YES 29-09-2000
+9674  svK kTejz Slovakia 10 Poliomyelitis YES 08-07-2006

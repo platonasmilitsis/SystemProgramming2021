@@ -1,0 +1,14 @@
+34  wwNL IYQiVY Rwanda 38 Poliomyelitis NO
+631  rDaAxp sFFzUZO Rwanda 92 Pneumococcaldisease NO
+2776  STt KKA Rwanda 26 Tickborneencephalitis NO
+3194  HDrFpUs cPnJZ Rwanda 13 Malaria YES 30-02-2010
+3718  jLNz ptG Rwanda 65 Tuberculosis NO
+3985  PdC LUyDUl Rwanda 91 Tickborneencephalitis YES 03-12-1996
+5160  yPuxLJJ jCsdtLQ Rwanda 42 Pneumococcaldisease NO
+5532  DMdAZRL ijMY Rwanda 35 Denguefever NO
+6318  pCICmC thTeRc Rwanda 111 Rabies NO
+7166  fsHZikJ wmuMb Rwanda 111 Humanpapillomavirusinfection YES 03-02-2016
+8424  yJI zuhex Rwanda 109 ShinglesHerpesZoster YES 02-06-2000
+8850  yyhLFpX gBt Rwanda 9 Varicella NO
+9142  PmokYI dEE Rwanda 9 Typhoidfever NO
+9509  uQA ihPlulZ Rwanda 91 HepatitisB YES 02-06-2013

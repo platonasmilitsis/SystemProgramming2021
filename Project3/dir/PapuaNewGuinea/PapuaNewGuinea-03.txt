@@ -1,0 +1,11 @@
+673  FjnWJS SPj PapuaNewGuinea 30 Varicella NO
+1209  hcAAVeF rmguTv PapuaNewGuinea 42 Pneumococcaldisease NO
+2289  RHpSkL aNVOR PapuaNewGuinea 96 Tetanus NO
+2581  uoZRb uPYkuPw PapuaNewGuinea 51 Pertussis NO
+4461  uhNdhZ kLeGqVV PapuaNewGuinea 4 Pertussis NO
+5307  nmhcJ ZKQ PapuaNewGuinea 42 Tuberculosis NO
+6256  xsFre WdsiP PapuaNewGuinea 90 Typhoidfever NO
+7027  PpSUKfI tcJP PapuaNewGuinea 44 Tuberculosis NO
+7638  ItkePBH PiTiShR PapuaNewGuinea 38 Pertussis YES 07-01-1998
+8681  SSSxYM KlJE PapuaNewGuinea 75 HepatitisB NO
+9778  asxzR XMC PapuaNewGuinea 28 Yellowfever YES 23-04-1997

@@ -1,0 +1,15 @@
+658  uSxK VWpd Dominica 32 Yellowfever YES 29-01-2007
+988  zjQDdHP ffKJ Dominica 75 Rabies NO
+1329  rWmEZF GfySFAx Dominica 80 HepatitisE NO
+2496  MZIFkul AZiOVK Dominica 57 Varicella YES 02-01-2014
+3626  uhMgdEW TQn Dominica 105 Tickborneencephalitis NO
+4265  ZenExLw xbxz Dominica 31 Tetanus YES 21-08-2018
+6095  LYAsaLz tTaENt Dominica 81 Typhoidfever NO
+6224  zxUYTLy mkCizK Dominica 70 HepatitisE NO
+6615  zVr ymOoE Dominica 72 Influenza YES 14-07-2001
+6927  yYA mNdStu Dominica 24 Varicella NO
+7825  ehzeb QdP Dominica 76 Rubella YES 06-02-2007
+8549  Mdh cAcTv Dominica 37 COVID19  NO
+8889  XOt uvPnUl Dominica 29 Tuberculosis YES 26-10-2013
+9665  nJdfSE pvHtscH Dominica 55 Measles NO
+9972  HBl pjBNC Dominica 33 ShinglesHerpesZoster NO

@@ -1,0 +1,13 @@
+249  QLBGacC pgIpFvf Seychelles 75 Malaria YES 07-07-2016
+1436  Vaz hYi Seychelles 29 Pneumococcaldisease YES 01-09-2012
+2590  SiqH UMbPQv Seychelles 52 Tetanus NO
+2950  yhMtZ iZbfL Seychelles 11 Cholera NO
+3166  msYIV TPo Seychelles 22 Yellowfever YES 11-05-2012
+4129  zRPATT bvdMkha Seychelles 54 Humanpapillomavirusinfection YES 27-07-2004
+4885  YPYHB SIrNvQj Seychelles 38 ShinglesHerpesZoster YES 27-02-2004
+5092  CExxgCM gpBDvrx Seychelles 66 Influenza YES 14-05-1999
+5565  hxIkQZo rFglruy Seychelles 21 ShinglesHerpesZoster NO
+5971  PhMcEub Zwn Seychelles 17 Diphtheria YES 16-06-1996
+7118  jgDtU cbDY Seychelles 42 Humanpapillomavirusinfection NO
+8563  LSTuyo nSws Seychelles 38 Rotavirusgastroenteritis NO
+9348  aPUHU Zov Seychelles 114 Rubella YES 02-01-1996

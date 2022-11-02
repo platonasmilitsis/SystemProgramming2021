@@ -1,0 +1,11 @@
+39  lBVgS ecap Brunei 76 Japaneseencephalitis YES 03-04-1997
+802  faIvc rpA Brunei 31 Pneumococcaldisease NO
+1250  bwO CsVNRl Brunei 16 COVID19  NO
+1987  bPcwyu cLeoio Brunei 14 Cholera YES 21-05-1998
+3091  MKsetZ ysj Brunei 41 Haemophilusinfluenzaetypeb NO
+3902  BlIGy qKmwBnc Brunei 36 Cholera NO
+4923  XBxNi wNNG Brunei 42 Tickborneencephalitis YES 18-04-2000
+5558  yRxF ldjKr Brunei 5 Tetanus NO
+6925  YYtlwo fEX Brunei 112 Diphtheria YES 08-04-2015
+8403  lTWjNOj abYUUeW Brunei 3 Rabies NO
+9111  BHnghD cnNJGyg Brunei 91 Pertussis YES 14-09-2013

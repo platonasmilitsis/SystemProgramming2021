@@ -1,0 +1,11 @@
+1668  UwJAB gNHu Luxembourg 15 Ebolavirus YES 05-10-2001
+2172  XiObxv AvKTAIc Luxembourg 118 Poliomyelitis YES 17-05-2003
+3125  KrTP GRUd Luxembourg 36 HepatitisB NO
+4260  djUJvO HMkjRa Luxembourg 103 HepatitisA YES 09-02-2003
+4912  UDco smw Luxembourg 93 Typhoidfever NO
+5306  wXQ sCgGk Luxembourg 111 Rubella YES 10-11-2012
+5677  tvOjyIN BStvRo Luxembourg 77 Pneumococcaldisease NO
+6636  ZzPBoh kmXUgM Luxembourg 32 Influenza YES 21-08-1997
+7376  BJRwww rStsXQH Luxembourg 27 Poliomyelitis YES 15-12-2017
+8082  VEyq sYCme Luxembourg 84 Influenza NO
+9492  kvYSRo PtqViOU Luxembourg 41 Ebolavirus YES 24-09-1999

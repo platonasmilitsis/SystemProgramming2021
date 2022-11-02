@@ -1,0 +1,12 @@
+1225  VFgdF kcYXUmS Macedonia 79 Yellowfever YES 23-06-2007
+2271  HSl idPyHMh Macedonia 88 Pertussis YES 03-05-2004
+3022  UXKG vzn Macedonia 31 Tuberculosis YES 03-03-2006
+3639  qVd UFigU Macedonia 43 Tetanus YES 10-04-2016
+4533  Ryc YXBiDPD Macedonia 39 HepatitisB NO
+5196  rzHjVKx CQosnHq Macedonia 63 Measles YES 16-06-2003
+6316  ngRKh aImrsZm Macedonia 95 Tetanus NO
+6961  FOk SvyFri Macedonia 31 HepatitisA NO
+7773  YZjSx oCI Macedonia 68 HepatitisA NO
+9068  eqxhRh HqgAon Macedonia 64 Japaneseencephalitis YES 13-12-2015
+9237  KkHrFq kUiVwJF Macedonia 78 Typhoidfever YES 12-06-2001
+9902  QsieO SKez Macedonia 81 Meningococcaldisease YES 02-09-2015

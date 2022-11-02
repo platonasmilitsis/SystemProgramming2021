@@ -1,0 +1,13 @@
+863  MKB wNxd SaintKittsNevis 98 HepatitisA YES 11-06-2019
+1788  lsijYmG IyR SaintKittsNevis 40 Rotavirusgastroenteritis YES 27-04-2005
+2768  sWsAo whjZC SaintKittsNevis 111 Typhoidfever YES 08-07-2015
+2893  jCuz wVG SaintKittsNevis 35 Humanpapillomavirusinfection YES 18-04-2010
+4107  VRjp xcRDBSP SaintKittsNevis 96 Humanpapillomavirusinfection NO
+4634  uaBb QADUYV SaintKittsNevis 14 Yellowfever YES 01-09-2000
+4962  NpUvt IpFOnrr SaintKittsNevis 36 Denguefever NO
+5420  nLTbo NppYix SaintKittsNevis 82 Denguefever NO
+5958  WIaYF QVrlBQ SaintKittsNevis 46 COVID19  YES 12-06-2019
+6646  wpmo xhWijfT SaintKittsNevis 20 HepatitisB YES 26-05-2012
+7561  GgHL ynFO SaintKittsNevis 16 Rotavirusgastroenteritis NO
+8573  bdM rqzHI SaintKittsNevis 93 Poliomyelitis NO
+9351  GFH Cqch SaintKittsNevis 31 Pneumococcaldisease YES 23-08-1996

@@ -1,0 +1,10 @@
+640  qWmEbS sMpGFHd Guyana 64 Meningococcaldisease YES 06-08-1997
+1791  dFuHRDa baKV Guyana 42 Tetanus NO
+2238  WLtMb XFuAjbm Guyana 24 Diphtheria NO
+2994  PnRmKm PHt Guyana 93 Pertussis NO
+4292  TiVWzz bQLFg Guyana 84 Haemophilusinfluenzaetypeb YES 03-11-2010
+4891  LjW PtYVzP Guyana 7 Meningococcaldisease NO
+6000  TNZD gtU Guyana 59 Humanpapillomavirusinfection YES 24-05-2015
+7535  HvVmSou kAKXe Guyana 59 HepatitisB YES 23-08-2009
+8342  Wrc ULE Guyana 63 Haemophilusinfluenzaetypeb YES 21-07-2004
+9159  LabQyTg tfMz Guyana 103 Influenza YES 22-06-2002

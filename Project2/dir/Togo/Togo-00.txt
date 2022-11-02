@@ -1,0 +1,13 @@
+278  fJM BEYsPD Togo 51 Pertussis NO
+637  Heww AdnobM Togo 97 Tetanus YES 16-08-2010
+1037  vOE lHsfloN Togo 60 Tetanus YES 19-11-2001
+1849  mpM llIR Togo 54 HepatitisE NO
+2333  uZnKOs LDuldV Togo 48 Pneumococcaldisease NO
+3131  VVYmk jrOB Togo 31 Japaneseencephalitis NO
+3606  ruuHSDP XBJPyV Togo 17 Poliomyelitis NO
+5062  alXro Ban Togo 61 Rotavirusgastroenteritis YES 19-01-2016
+6490  bEDqLWT hZrP Togo 106 Meningococcaldisease NO
+6740  hSMT UgG Togo 66 Rotavirusgastroenteritis NO
+7494  afJcUZr fnUq Togo 91 Rubella YES 27-01-2010
+8712  Mtrl YYM Togo 53 Pneumococcaldisease NO
+9366  zwChc bTxay Togo 86 Meningococcaldisease YES 12-09-2007

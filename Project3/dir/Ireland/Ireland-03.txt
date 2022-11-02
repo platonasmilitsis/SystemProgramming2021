@@ -1,0 +1,14 @@
+1607  tgwDBE axJrJ Ireland 104 Rubella YES 04-06-2013
+2014  CHgh xil Ireland 29 Yellowfever YES 02-11-2011
+2254  qJizln kaKAMiL Ireland 47 Cholera NO
+2638  ctz AchM Ireland 96 Haemophilusinfluenzaetypeb YES 09-09-2010
+4304  TQMjm rOCa Ireland 83 Haemophilusinfluenzaetypeb NO
+4699  aefi QbQpfK Ireland 105 Pertussis YES 04-03-1998
+5445  Pva nBmvAd Ireland 84 Cholera NO
+5723  lWJNfMC PdC Ireland 22 Typhoidfever YES 16-11-2018
+6183  iqh RzXWgl Ireland 64 Rabies YES 04-10-2017
+7131  OojmV aEy Ireland 6 Cholera NO
+7705  JSzMx GeleDv Ireland 19 Mumps YES 30-06-2010
+8275  GUbrKu tZo Ireland 117 Influenza NO
+8746  CLqPMCv xHRnGq Ireland 67 COVID19  NO
+9960  EudzdQh GJSf Ireland 77 HepatitisE NO

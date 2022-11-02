@@ -1,0 +1,16 @@
+854  pESyxpe tneMn Suriname 45 Rubella YES 23-05-1996
+1214  hob KjmU Suriname 69 Mumps NO
+2249  iLr BzWU Suriname 66 Measles NO
+3038  SuYJ uxZPmY Suriname 14 Denguefever NO
+3941  CSMcbiA OhvIP Suriname 8 COVID19  YES 11-02-2019
+4715  uNIrSJ HQHwoY Suriname 35 Humanpapillomavirusinfection YES 24-07-2004
+4980  NpA ipHc Suriname 112 Influenza NO
+6139  ZtjdGaS vvGEU Suriname 78 Cholera NO
+6810  bAI jxNuVH Suriname 111 Rotavirusgastroenteritis YES 22-08-1995
+7184  hEAOgUD pnAnxA Suriname 23 Rabies NO
+7822  raBRPxM QbnJvq Suriname 21 Diphtheria YES 04-07-2015
+8145  euFZ jPbYZh Suriname 120 Pneumococcaldisease YES 02-04-2009
+8715  ItAbs HWDPey Suriname 39 Denguefever NO
+8868  mzwT NXGlku Suriname 56 Measles NO
+9309  fzscXcY RUGVD Suriname 4 HepatitisE YES 01-11-2003
+9768  cYoqAk trz Suriname 1 Yellowfever NO

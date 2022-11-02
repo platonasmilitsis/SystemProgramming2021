@@ -1,0 +1,11 @@
+307  Ehx ZQqDAQE Syria 83 Tetanus YES 26-04-2008
+1342  YNJpFu bKWMx Syria 49 HepatitisE YES 14-09-1999
+1820  MrAJXR qpEO Syria 96 Meningococcaldisease NO
+2750  DZcwvb nQhSFMw Syria 50 Pertussis NO
+3771  jZxWMV KGQ Syria 94 Diphtheria YES 09-05-2008
+4507  DaNJpo QnkPyEg Syria 72 COVID19  NO
+5177  eHvgvI qJgS Syria 84 Influenza YES 02-05-1996
+5630  ylqzXET WQKK Syria 89 Measles NO
+6481  EaLjMp TPZWuL Syria 41 Rotavirusgastroenteritis YES 28-02-2000
+7405  MRdwn YGDAK Syria 60 Mumps YES 20-04-2003
+8271  YBwdBnv UFxbusY Syria 78 HepatitisB NO

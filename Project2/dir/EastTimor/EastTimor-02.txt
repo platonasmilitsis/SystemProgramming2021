@@ -1,0 +1,11 @@
+697  UJiPbod XRfFx EastTimor 65 Malaria YES 29-12-1996
+1300  xwL pmv EastTimor 39 Tuberculosis NO
+1992  pFu WrwKL EastTimor 10 HepatitisA NO
+3201  iQi bQZdm EastTimor 89 Cholera YES 30-05-1998
+3427  zFUs LfhKsm EastTimor 70 Measles YES 08-04-1998
+4303  zVdmFuT mfLosnO EastTimor 37 COVID19  NO
+4839  kGJt xYiMw EastTimor 56 Diphtheria NO
+5344  OfDjSC QyXupeZ EastTimor 40 Typhoidfever YES 29-12-2012
+6668  DvSYuap Jczmn EastTimor 105 Poliomyelitis YES 27-07-2018
+7382  aNvy iFE EastTimor 5 HepatitisA YES 07-10-2004
+8602  yIsTm cKRBBTw EastTimor 7 Haemophilusinfluenzaetypeb NO

@@ -1,0 +1,12 @@
+286  ihvOX pRBl Japan 12 Malaria YES 12-09-2002
+1981  wfKSyf cbSz Japan 63 Tuberculosis NO
+2492  BLIj nBaA Japan 49 COVID19  NO
+2701  GCt WGVPro Japan 84 Tickborneencephalitis NO
+3118  Lin wyrTdK Japan 71 Influenza NO
+3559  CNI RQRTRY Japan 52 Rabies NO
+4626  aHeHP OCVxN Japan 43 Japaneseencephalitis YES 30-04-2010
+5415  LgBx qmeQHux Japan 85 Rubella YES 15-02-2010
+6762  eDYdFWF qTKydO Japan 4 Japaneseencephalitis NO
+8080  mltRjTw FDU Japan 75 Cholera NO
+8223  xyNytC ysEZM Japan 67 Typhoidfever NO
+9638  EPaKet ndVk Japan 59 Denguefever NO

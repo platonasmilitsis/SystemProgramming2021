@@ -1,0 +1,17 @@
+81  mTKm srlUc Egypt 44 Rubella NO
+581  LoGPGX oBtiUg Egypt 10 Influenza YES 24-02-2002
+1430  OSCtd lTbT Egypt 58 Influenza NO
+1860  JciCS rrcVVy Egypt 14 Poliomyelitis NO
+2274  IFSp HuRpAT Egypt 115 Tickborneencephalitis NO
+3037  gNBIO yPoImy Egypt 2 Rubella NO
+3454  SGzOO JJH Egypt 22 Tickborneencephalitis NO
+4084  OwHw WjiQPb Egypt 15 Denguefever YES 02-11-2007
+4520  HgLmx lhnPsBj Egypt 66 Pertussis YES 17-09-1995
+5584  RgFD aHtPXW Egypt 82 Haemophilusinfluenzaetypeb NO
+6056  GWV NLshp Egypt 53 Poliomyelitis YES 05-03-2005
+6501  IdmTd aRWOoCa Egypt 28 ShinglesHerpesZoster NO
+7213  neUcHt DhVVSQ Egypt 3 Diphtheria NO
+7862  YyhFpqi ctBB Egypt 75 Influenza NO
+8554  qMX YhI Egypt 76 HepatitisA YES 13-01-2002
+9173  NFTTCxI nfkYC Egypt 20 Japaneseencephalitis NO
+9969  PhapL pzTx Egypt 112 COVID19  YES 18-08-2000

@@ -1,0 +1,13 @@
+636  JtLHnbP GEn Liberia 115 Pertussis NO
+2069  Najv MxswFHU Liberia 97 Tickborneencephalitis NO
+2599  XFQ wiQi Liberia 52 Mumps YES 27-03-2006
+3175  JNXG AGW Liberia 23 Pneumococcaldisease YES 03-08-2010
+4069  LZHAS ehFJDD Liberia 109 Rubella NO
+5026  agSus VlD Liberia 31 HepatitisA NO
+5768  rbI JUem Liberia 114 ShinglesHerpesZoster YES 30-05-2011
+6299  EfDnp iwqh Liberia 88 Rabies YES 29-06-2001
+6548  uds wCl Liberia 81 COVID19  NO
+7006  eaomg KjSuX Liberia 43 Yellowfever YES 09-09-1996
+7720  fiT vwxlL Liberia 48 Yellowfever YES 19-11-2016
+8760  oeN ofjsT Liberia 24 Tickborneencephalitis YES 05-03-2017
+9261  XJCVLR IesBya Liberia 113 Rotavirusgastroenteritis YES 22-04-2013

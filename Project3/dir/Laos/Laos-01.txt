@@ -1,0 +1,9 @@
+113  hUtcIEW FtuLT Laos 96 Ebolavirus YES 05-08-2006
+1387  GRB ZOWdu Laos 2 Yellowfever NO
+2766  cVDsZL WjsIazw Laos 47 Pertussis NO
+3573  qjMIWJE ZwqXai Laos 96 Humanpapillomavirusinfection YES 06-06-2012
+3908  szhG YliJ Laos 2 Tuberculosis NO
+5455  UaAZ QxWfkC Laos 79 Varicella NO
+5825  JhdZcSf bpPItk Laos 118 Rabies YES 21-07-2017
+7172  wACdNaV cRGcr Laos 71 Tickborneencephalitis NO
+7502  INfUO rbDU Laos 117 HepatitisA NO

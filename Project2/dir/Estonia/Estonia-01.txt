@@ -1,0 +1,12 @@
+301  Aup vZhYwT Estonia 10 Haemophilusinfluenzaetypeb NO
+719  CuqeSBh mGRd Estonia 4 Humanpapillomavirusinfection NO
+1486  PfXEaqd yMuA Estonia 74 Measles YES 02-05-2004
+2427  uaKcJS OJYdZry Estonia 63 Tuberculosis NO
+3813  bEethZ RFXJCPo Estonia 97 HepatitisB YES 15-12-2018
+4682  HDhNsaF EvNbHTp Estonia 95 Japaneseencephalitis YES 30-02-2010
+6041  FzPPEUS gCzI Estonia 45 Malaria YES 30-10-2007
+6900  RgRnPX enSWbgN Estonia 98 Poliomyelitis YES 22-12-2011
+7654  GMN rUg Estonia 16 Tuberculosis YES 19-08-2002
+8333  GIEqd SZJl Estonia 100 Rubella NO
+9092  YJYO OJPSsvA Estonia 74 Rotavirusgastroenteritis NO
+9567  cKrvx Nbw Estonia 84 HepatitisE NO

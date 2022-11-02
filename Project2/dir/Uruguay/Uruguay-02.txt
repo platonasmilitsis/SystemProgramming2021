@@ -1,0 +1,13 @@
+1088  UMh uzZzDRB Uruguay 24 Varicella NO
+1897  AbO gRjqGx Uruguay 101 Ebolavirus NO
+2914  DEL WrsQ Uruguay 51 HepatitisA YES 23-02-2014
+3595  QegPHB GJl Uruguay 59 Influenza NO
+4097  zzRJSv mpR Uruguay 34 Cholera NO
+5161  WGz LMbic Uruguay 87 Rabies YES 11-12-1999
+5633  xYrTZk MonpdD Uruguay 57 Humanpapillomavirusinfection YES 21-03-2008
+6633  bSKJKW fjNCMMy Uruguay 28 Pertussis NO
+7695  xlOtv DndTls Uruguay 115 Tickborneencephalitis YES 06-02-2015
+8399  IAFihR cmI Uruguay 83 HepatitisE YES 20-02-2004
+9175  VUs qwu Uruguay 70 Typhoidfever YES 06-05-2010
+9550  VVIv HXXOc Uruguay 24 Measles YES 01-02-2016
+9855  sdHapd oXv Uruguay 43 ShinglesHerpesZoster YES 14-01-1995

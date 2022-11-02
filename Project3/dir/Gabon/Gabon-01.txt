@@ -1,0 +1,16 @@
+649  AyJmxDE DWF Gabon 102 Rotavirusgastroenteritis NO
+1301  SsLDh RxbCS Gabon 1 Pertussis YES 19-01-2000
+1906  yicz XGYIsAB Gabon 103 Poliomyelitis NO
+2225  xZhqwjp yiTY Gabon 116 Pneumococcaldisease NO
+2843  wGh aFH Gabon 23 ShinglesHerpesZoster YES 17-05-2016
+3554  XBDrwgu CxzAEl Gabon 4 Diphtheria YES 15-01-1998
+4868  agt GCQ Gabon 42 Measles NO
+5444  gnTRGmc HdVfnIW Gabon 109 Denguefever YES 13-03-2007
+5816  Brjs RGB Gabon 59 Measles NO
+6494  hrYpJqo eqp Gabon 80 Denguefever NO
+6724  IvLeyvR sEqGtU Gabon 79 HepatitisB NO
+7392  BGdGtBw pdBG Gabon 106 Haemophilusinfluenzaetypeb YES 28-04-2003
+8299  rux PrM Gabon 37 Varicella YES 25-04-2007
+9036  HFVcC njWCcLL Gabon 115 HepatitisE NO
+9236  GhL NZN Gabon 73 Measles NO
+9756  yUSZGP qODBZ Gabon 57 COVID19  YES 09-01-2016

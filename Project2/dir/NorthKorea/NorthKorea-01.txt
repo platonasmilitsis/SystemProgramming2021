@@ -1,0 +1,15 @@
+103  htIJl tYvEU NorthKorea 83 Haemophilusinfluenzaetypeb YES 07-01-2009
+842  sTeN MOOUv NorthKorea 41 Tetanus NO
+1790  trhiX zaT NorthKorea 1 Rotavirusgastroenteritis YES 03-04-2004
+1983  XPcEB qzXW NorthKorea 82 COVID19  NO
+2719  ajGZMJX nsh NorthKorea 107 Denguefever NO
+3357  vnQEqEm MMLKuT NorthKorea 38 Pertussis NO
+3619  tEjIR iDeFmwp NorthKorea 50 Typhoidfever NO
+4871  ECvFug CtEWMp NorthKorea 20 Pertussis YES 03-01-2010
+5139  IPoB mraJ NorthKorea 57 Japaneseencephalitis YES 02-05-2008
+5977  QMitX vBVpqI NorthKorea 15 Poliomyelitis YES 29-08-2018
+6872  ZmUxLK enK NorthKorea 37 Humanpapillomavirusinfection NO
+7732  eVDeexk jEmKBil NorthKorea 11 Tetanus NO
+8714  gJQJxA COuY NorthKorea 89 Meningococcaldisease NO
+9255  mcf krwL NorthKorea 41 Tuberculosis NO
+9524  KtVYk UXsy NorthKorea 62 Pneumococcaldisease YES 29-03-2003

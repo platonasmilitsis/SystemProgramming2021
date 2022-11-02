@@ -1,0 +1,12 @@
+40  wfou ZvCumJQ Belize 64 Tetanus YES 25-02-2005
+421  KPNI NONN Belize 100 Tuberculosis YES 06-04-2005
+1095  CJmgSs RZchlk Belize 87 Denguefever YES 10-10-2016
+1754  JrZFJSf FTCElx Belize 88 Meningococcaldisease NO
+2285  VQRB KKUOv Belize 54 Tickborneencephalitis NO
+3158  rhQP XHRzn Belize 51 HepatitisB YES 26-11-2009
+4187  KtXl cbZY Belize 85 HepatitisE NO
+4668  SPx hdM Belize 15 Pertussis NO
+6014  DENR toxrNTZ Belize 118 HepatitisE YES 19-05-2013
+7452  nfw OoMuwZP Belize 30 Japaneseencephalitis YES 23-02-1995
+7975  JZTf bxYKPi Belize 81 Humanpapillomavirusinfection YES 06-02-2004
+8530  gbyr CVs Belize 100 HepatitisB NO

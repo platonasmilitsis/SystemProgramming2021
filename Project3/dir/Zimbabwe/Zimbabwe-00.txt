@@ -1,0 +1,13 @@
+26  skKBTD AZlpUO Zimbabwe 108 Ebolavirus NO
+852  SPfsAqV sGutY Zimbabwe 61 Cholera NO
+1433  JuWzDt GZu Zimbabwe 104 Malaria YES 07-08-2015
+1575  yuMNw MLURqz Zimbabwe 76 Rotavirusgastroenteritis YES 17-01-1998
+3012  FoO QxBr Zimbabwe 49 Rotavirusgastroenteritis YES 15-11-2004
+4728  PDCZwGL pzOHzDr Zimbabwe 21 Meningococcaldisease YES 10-11-1999
+5104  dRkaj lYbaNq Zimbabwe 108 Rubella NO
+6042  Zqp FNI Zimbabwe 91 Pneumococcaldisease YES 28-12-2012
+6460  QaPuOZ XDTLPVI Zimbabwe 19 HepatitisE YES 24-11-1997
+7424  YitTVl YVfpQ Zimbabwe 50 Malaria YES 20-02-2007
+7888  svTLZ lFsHdYs Zimbabwe 4 Haemophilusinfluenzaetypeb YES 28-10-1999
+8164  BdDDj VBcaI Zimbabwe 24 Tickborneencephalitis NO
+9715  tOmw HPzq Zimbabwe 59 Japaneseencephalitis NO

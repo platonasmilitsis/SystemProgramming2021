@@ -1,0 +1,11 @@
+400  FePpU DwC Kuwait 75 Varicella NO
+940  cBQkxV AFNrkU Kuwait 88 Rubella YES 27-09-2008
+1758  PCthg ZWyEB Kuwait 64 Influenza NO
+3424  sqTx dTh Kuwait 6 Rubella NO
+4132  oIb MYOtiD Kuwait 83 HepatitisE YES 06-06-2001
+5051  Vdg tZjBoDV Kuwait 54 Poliomyelitis NO
+5804  gEp tVDzlt Kuwait 119 HepatitisE NO
+6349  rsRes yEIQFiz Kuwait 59 Pertussis YES 12-02-2012
+7008  BonN pNF Kuwait 71 Yellowfever YES 13-09-2017
+7656  DwVmrVv cRd Kuwait 96 Diphtheria YES 03-11-1996
+9522  nWJOMp dZTX Kuwait 100 Tetanus NO

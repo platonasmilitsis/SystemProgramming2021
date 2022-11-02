@@ -1,0 +1,11 @@
+182  fIUEox JrLVDE PapuaNewGuinea 62 Cholera NO
+735  oRNIEsn KkCUut PapuaNewGuinea 105 Poliomyelitis YES 24-05-2014
+1478  gPeEGZ mxcVaGC PapuaNewGuinea 68 Pertussis NO
+2329  uzh Ogbm PapuaNewGuinea 69 Yellowfever YES 20-08-2005
+2957  GpLUig dXbH PapuaNewGuinea 116 Yellowfever YES 19-01-2002
+4562  lzZYck DhFvs PapuaNewGuinea 6 Tickborneencephalitis YES 02-01-2001
+5606  hRqM OjQmmwz PapuaNewGuinea 68 Mumps NO
+6393  BHgVo pRc PapuaNewGuinea 110 Denguefever YES 26-11-2009
+7533  CwsNP ogO PapuaNewGuinea 66 Cholera YES 04-05-2015
+7772  JyFT EnYBwQ PapuaNewGuinea 75 Varicella NO
+8969  fJJA KfAwF PapuaNewGuinea 115 Rotavirusgastroenteritis YES 19-07-2015

@@ -1,0 +1,13 @@
+226  cxZfV hWzQVCn Hungary 17 Japaneseencephalitis NO
+1587  YZSyqZI OPjaaw Hungary 47 Yellowfever YES 17-06-2019
+2161  PXC cBN Hungary 69 Rabies YES 09-04-2016
+3295  qPw cwVf Hungary 75 Malaria YES 05-01-2003
+3942  QBnPK zScF Hungary 114 Malaria NO
+4376  XNgiAv KFz Hungary 101 Japaneseencephalitis NO
+5333  wgYy RsXj Hungary 18 Cholera NO
+5886  MYzNLM kfgBCT Hungary 55 Rotavirusgastroenteritis YES 25-12-2004
+6672  BFVid FKxWqpj Hungary 91 Typhoidfever NO
+7584  Aln nYt Hungary 97 COVID19  NO
+8529  cUWUiAH SMy Hungary 32 Pneumococcaldisease YES 14-09-2006
+9059  cIstIl lhtaSQv Hungary 14 Pneumococcaldisease YES 15-05-2015
+9691  ojoyqb pPYmaG Hungary 96 Tickborneencephalitis YES 13-11-2012

@@ -1,0 +1,12 @@
+323  Ilx ebcvO DominicanRepublic 105 HepatitisA YES 25-12-2015
+2217  QKjg xjVIYk DominicanRepublic 64 Tuberculosis YES 26-09-2013
+3761  yGuEriI bFk DominicanRepublic 91 Cholera NO
+4444  PWgaY MCzGDSG DominicanRepublic 86 Yellowfever YES 01-06-2007
+5150  eSO DTuKeF DominicanRepublic 58 Meningococcaldisease NO
+5875  VilS wzJkxUg DominicanRepublic 28 Humanpapillomavirusinfection YES 30-09-2018
+6390  HrUMSc eHDuJwX DominicanRepublic 28 Denguefever YES 05-05-2003
+7061  lrKuwaE wYeCZ DominicanRepublic 2 Measles YES 23-12-2004
+8439  Izs NvqBM DominicanRepublic 74 COVID19  YES 15-03-1997
+8966  Icg JxJYcyH DominicanRepublic 41 Mumps YES 18-09-2013
+9100  pzlMwf ivSjpbp DominicanRepublic 117 Pneumococcaldisease NO
+9852  bRUArkd utJPY DominicanRepublic 10 Rotavirusgastroenteritis YES 02-03-2010

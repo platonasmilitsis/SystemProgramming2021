@@ -1,0 +1,13 @@
+114  ood Igz Angola 42 Varicella YES 13-01-2008
+1363  mLCfn NKu Angola 33 Meningococcaldisease NO
+1821  xxj uYP Angola 11 Meningococcaldisease YES 08-03-2005
+3008  vgQ JPyQuSM Angola 65 COVID19  NO
+4339  kAKK DaDls Angola 30 Typhoidfever NO
+5549  sZncIb HcsfLT Angola 30 Humanpapillomavirusinfection YES 29-06-2011
+6314  gZtjn CdozJ Angola 26 HepatitisB NO
+6894  LlEkV zdXE Angola 17 Humanpapillomavirusinfection YES 07-01-1996
+7647  xUS ODhzWi Angola 63 Pneumococcaldisease NO
+7984  aVjAxzs FXoe Angola 26 Diphtheria YES 06-10-2011
+8844  KKbgNFQ KEX Angola 41 Rotavirusgastroenteritis NO
+9029  HXvG ospx Angola 69 Measles NO
+9695  Inuyy XZOEN Angola 22 Tuberculosis NO

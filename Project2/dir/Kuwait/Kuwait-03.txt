@@ -1,0 +1,10 @@
+533  UUsqLWd tusk Kuwait 19 Tetanus YES 22-12-2019
+1255  YGHx EnL Kuwait 78 Pertussis NO
+3084  PAALD PAqrm Kuwait 10 COVID19  NO
+3735  tTgldhs XeQqVn Kuwait 82 Yellowfever NO
+4963  MHlSCR YHnUYuy Kuwait 83 HepatitisA YES 08-01-2013
+5208  pyRBrr GuEgd Kuwait 56 Humanpapillomavirusinfection NO
+6065  xntF zNHvG Kuwait 80 Cholera YES 19-04-1996
+6443  pdREuvc xxcPMvQ Kuwait 102 Influenza YES 13-05-2017
+7420  otx bPYxfI Kuwait 116 Tuberculosis YES 21-03-2005
+8331  fyfkbi wxYZs Kuwait 15 Tuberculosis YES 22-09-2017

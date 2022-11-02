@@ -1,0 +1,12 @@
+881  MqjDs TJrMJ Nicaragua 23 HepatitisB NO
+1579  imEx WIxT Nicaragua 89 Pneumococcaldisease NO
+2669  saoGaDg GQyly Nicaragua 22 Poliomyelitis NO
+3226  lAjOL nsfRSt Nicaragua 53 Malaria NO
+4093  MCDaqwJ caGl Nicaragua 61 Malaria NO
+4827  Fnnlj VJmvL Nicaragua 89 Rubella YES 08-10-2019
+5793  rXHnJ sKmMdsK Nicaragua 95 Malaria YES 04-05-1999
+6337  alRIz Cgq Nicaragua 95 Influenza NO
+7492  XAXN fzi Nicaragua 49 Typhoidfever NO
+8348  hoyu eWWu Nicaragua 64 Cholera YES 09-09-1996
+9386  fUQIue BtU Nicaragua 57 Pneumococcaldisease NO
+9724  coXQ ClMEj Nicaragua 82 Poliomyelitis NO

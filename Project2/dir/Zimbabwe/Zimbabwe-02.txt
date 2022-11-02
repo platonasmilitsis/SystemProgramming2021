@@ -1,0 +1,12 @@
+284  MkfqNc Cpe Zimbabwe 30 Meningococcaldisease YES 30-01-1999
+1018  PoLMr xaEa Zimbabwe 17 Yellowfever NO
+1512  ArObqJ xDJoTY Zimbabwe 5 Rotavirusgastroenteritis YES 25-10-2002
+2176  qgppAE McHLGov Zimbabwe 6 Influenza YES 16-12-2017
+3601  IGStH KLhN Zimbabwe 2 Ebolavirus YES 03-07-2006
+5045  wALa oOmvT Zimbabwe 67 Humanpapillomavirusinfection NO
+5704  aXH yEmb Zimbabwe 50 Rabies NO
+6089  NeFolg lmooDx Zimbabwe 72 Rabies NO
+6754  YKe lUHF Zimbabwe 26 Ebolavirus YES 06-08-2014
+7655  urMQ tUZWu Zimbabwe 104 Pneumococcaldisease YES 01-05-2013
+8110  ckOxhr sZmpabO Zimbabwe 72 Diphtheria NO
+9156  rzsWZt dSVKae Zimbabwe 99 Humanpapillomavirusinfection NO

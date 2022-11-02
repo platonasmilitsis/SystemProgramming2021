@@ -1,0 +1,13 @@
+161  ATvpV enR Tanzania 71 Denguefever NO
+1080  cuMHYQ fbCDp Tanzania 109 Rubella NO
+2113  maOKgmT msOp Tanzania 28 Mumps NO
+2485  TKWPgox rceEyfO Tanzania 89 Cholera YES 19-06-2006
+2888  sFIW sJfbcdN Tanzania 88 Meningococcaldisease NO
+3870  opLtF NJqnB Tanzania 110 Malaria YES 13-08-2012
+5017  aFsD HFY Tanzania 117 Haemophilusinfluenzaetypeb NO
+5980  tpZ WwzNV Tanzania 29 Denguefever YES 22-10-2018
+6334  nNZC UQCKtld Tanzania 77 Tickborneencephalitis YES 21-11-2008
+7136  aBRdBj xvx Tanzania 52 Denguefever NO
+8050  cSLcZ sKrxfX Tanzania 1 Measles YES 22-02-2015
+8369  Ksrv KhgRRPW Tanzania 15 Influenza YES 29-03-2015
+9033  RHOn mGuk Tanzania 8 Cholera NO

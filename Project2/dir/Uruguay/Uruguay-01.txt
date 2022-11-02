@@ -1,0 +1,13 @@
+395  KDmYJq PXgb Uruguay 118 HepatitisB NO
+1344  nooW pgKtE Uruguay 20 Pneumococcaldisease YES 22-06-1999
+2085  IsgAW qIlLmVs Uruguay 87 Rotavirusgastroenteritis YES 25-10-2008
+3574  KFoozb BQjgC Uruguay 55 COVID19  YES 15-02-2009
+3896  olUt OtBa Uruguay 100 Ebolavirus YES 20-05-1997
+5060  gBh pHw Uruguay 103 Tetanus NO
+5543  jEagS GxsUtb Uruguay 28 Rotavirusgastroenteritis NO
+6618  tppm rdRfgHc Uruguay 59 Poliomyelitis YES 18-06-2011
+7643  KiiUid XhdR Uruguay 49 Tuberculosis YES 12-01-2004
+8293  wGqPF OSDm Uruguay 4 Haemophilusinfluenzaetypeb NO
+8728  NSZKbil QTgL Uruguay 36 Influenza YES 30-05-2002
+9359  IvqXYoq usR Uruguay 105 Japaneseencephalitis NO
+9808  Lfl BYnO Uruguay 30 Yellowfever YES 27-03-2018

@@ -1,0 +1,12 @@
+1904  hkrAyjV bFxvj Japan 46 Pneumococcaldisease NO
+2334  EedYb QiGJ Japan 95 Pertussis NO
+2535  NrRhY MMhcHFG Japan 115 Denguefever YES 02-04-2013
+2799  jByuEb Rtqt Japan 32 Poliomyelitis NO
+3515  tDGxC zUbgx Japan 103 Japaneseencephalitis YES 13-04-1999
+3617  XdQY UXy Japan 55 Typhoidfever YES 08-09-2010
+5133  nQyjJ krSJQ Japan 93 Diphtheria NO
+5711  caNiMua gww Japan 74 Mumps YES 07-07-2010
+7069  zWWJYo iuLea Japan 24 Tickborneencephalitis NO
+8143  gPvBsZ hxpEQjm Japan 37 Pertussis YES 20-10-1998
+9161  jaqcgii FOUl Japan 115 Measles NO
+9925  tmJVfy EXm Japan 42 Malaria NO

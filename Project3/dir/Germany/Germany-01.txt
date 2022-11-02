@@ -1,0 +1,16 @@
+299  WKfj NLe Germany 35 Tuberculosis YES 29-01-2010
+787  vSK fJwN Germany 79 Malaria YES 11-01-2007
+1330  vFLcWuq tUKwy Germany 38 Rubella YES 05-04-1999
+1846  XXG oQnuVsb Germany 33 Varicella YES 03-06-1996
+2659  VDRR ioPCb Germany 2 Cholera NO
+3248  LpHWNe jaBDGp Germany 1 Malaria YES 27-06-2016
+3739  EKNdOQ bFIOyXP Germany 6 COVID19  YES 23-12-1998
+5068  mKdAJ uGwUlfN Germany 116 Yellowfever YES 19-01-2008
+5542  ebr ioIsgi Germany 53 Influenza NO
+6013  LtMS EhuI Germany 75 Japaneseencephalitis NO
+6406  qzCBo dCBqT Germany 71 Tickborneencephalitis YES 08-08-2014
+6952  XLCZoNj MglhNx Germany 43 Tuberculosis YES 27-02-2002
+7710  VAc SoKkHXu Germany 37 Denguefever NO
+8078  Jsk fyje Germany 20 Typhoidfever YES 27-09-2019
+8751  nqEcMTb VMofN Germany 83 Poliomyelitis YES 19-08-2004
+9627  WNSmgr ukViO Germany 61 Tickborneencephalitis YES 05-02-2010

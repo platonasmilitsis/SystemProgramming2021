@@ -1,0 +1,13 @@
+1075  IyCjRl qRCVzZ CentralAfricanRepublic 43 Tuberculosis NO
+2080  HsGz dXmgygL CentralAfricanRepublic 28 HepatitisA YES 18-03-2003
+2699  IiIn yTTTMEG CentralAfricanRepublic 12 Yellowfever YES 05-09-1999
+3368  BFMtk Tcm CentralAfricanRepublic 63 Influenza NO
+4331  Zolyy avPyO CentralAfricanRepublic 76 ShinglesHerpesZoster YES 24-05-2003
+5353  mWqVxcy jYNMBv CentralAfricanRepublic 102 Tetanus YES 15-01-2012
+5651  VQIk CGYHib CentralAfricanRepublic 117 Rabies NO
+6096  Fst cXRwGEt CentralAfricanRepublic 95 HepatitisE YES 10-04-2005
+6486  YZIa rHpVQb CentralAfricanRepublic 59 HepatitisA YES 14-02-2000
+7225  XjzpaAZ OKfB CentralAfricanRepublic 59 Tuberculosis YES 11-02-2013
+7511  uvvF eDiR CentralAfricanRepublic 68 Tetanus NO
+9084  LrvaoD wMb CentralAfricanRepublic 23 Humanpapillomavirusinfection NO
+9709  tCyyNZ zsbJSbk CentralAfricanRepublic 84 Cholera YES 07-10-1998

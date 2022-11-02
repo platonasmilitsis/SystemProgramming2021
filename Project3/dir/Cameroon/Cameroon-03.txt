@@ -1,0 +1,12 @@
+720  HjIauR QLiMI Cameroon 77 HepatitisE NO
+1553  STCvIu JfAhw Cameroon 14 Poliomyelitis YES 20-04-2017
+2316  Vbb qrPf Cameroon 45 Cholera NO
+3215  IWg dFsTshv Cameroon 2 Tickborneencephalitis NO
+4249  IebyrIZ bPRkGPj Cameroon 15 Cholera YES 24-03-1998
+4607  LJIVVZ cTBtTX Cameroon 14 Tuberculosis YES 27-04-2014
+5384  ccX GZrbZQy Cameroon 108 COVID19  YES 18-11-2003
+6773  PzHMbfY ayisn Cameroon 66 Cholera YES 15-01-1997
+7889  KzLnefD UXWM Cameroon 3 Meningococcaldisease YES 23-12-2001
+8537  tLwo YLAza Cameroon 4 Malaria NO
+9079  Sxd mufC Cameroon 91 Pertussis YES 06-09-2002
+9456  CFTDRBo aChj Cameroon 68 Influenza YES 13-01-2012

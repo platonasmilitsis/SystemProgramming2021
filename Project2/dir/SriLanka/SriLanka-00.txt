@@ -1,0 +1,12 @@
+236  DDrkFSY HXe SriLanka 110 Pertussis YES 30-08-2018
+1324  Qhiqa ScNUf SriLanka 106 Haemophilusinfluenzaetypeb NO
+2060  ribMAKy spuNnz SriLanka 115 HepatitisE YES 12-10-2002
+2499  kenrALW wsT SriLanka 113 Diphtheria YES 05-05-2006
+3787  qjby KFEDLyN SriLanka 10 Japaneseencephalitis YES 06-10-2000
+4346  YuF PWsaK SriLanka 58 HepatitisB YES 18-01-2013
+5097  bKlNKI okxM SriLanka 109 Mumps NO
+5437  dftw NxmLcB SriLanka 102 Influenza NO
+5789  rwZMN OWGQqA SriLanka 90 Rotavirusgastroenteritis YES 25-07-2003
+7368  zAZreLE TKWXgXw SriLanka 38 Meningococcaldisease YES 07-05-1999
+8861  ALw aUkc SriLanka 61 Meningococcaldisease NO
+9511  IGC srTSlQ SriLanka 106 Measles NO

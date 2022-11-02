@@ -1,0 +1,16 @@
+312  Bjipm oRKQy Egypt 47 HepatitisA YES 03-10-2002
+1108  OjBAu eNfr Egypt 79 Poliomyelitis YES 26-10-2016
+1459  zdA zgHZ Egypt 11 Influenza YES 20-01-1998
+1880  tlpZ AhG Egypt 84 Rubella NO
+2442  skrZGt dTkS Egypt 83 Meningococcaldisease NO
+3087  InyOU zdMjcp Egypt 50 Varicella NO
+3567  lQiqwF QYQ Egypt 100 Yellowfever YES 04-05-2002
+4174  KGDBhuS pBLI Egypt 84 HepatitisA NO
+5043  wRTgoRX cea Egypt 26 Pertussis NO
+5603  HQdCCz TQqsSM Egypt 19 Japaneseencephalitis NO
+6246  ShBKAdM TzQpK Egypt 62 Varicella NO
+6552  TQDebw RuH Egypt 74 Mumps YES 12-11-2012
+7501  CVXnHZ SjVHsql Egypt 22 COVID19  NO
+7915  orWT HQj Egypt 31 ShinglesHerpesZoster NO
+8959  hayXCiO WbC Egypt 120 Tetanus YES 25-09-2001
+9264  vpATxU elvlKHT Egypt 15 Tuberculosis NO

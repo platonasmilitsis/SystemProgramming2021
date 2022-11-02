@@ -1,0 +1,13 @@
+210  yHdarJ pMbU Madagascar 82 Denguefever YES 30-09-2012
+1114  MxR czg Madagascar 30 Diphtheria NO
+3050  SPns whqPm Madagascar 117 COVID19  NO
+3969  biOEfs KphiSD Madagascar 16 Rotavirusgastroenteritis NO
+4737  uUoae IDogx Madagascar 42 Pertussis NO
+4921  mBs xwEi Madagascar 71 Tuberculosis YES 06-11-2006
+6533  NyDuN owGURV Madagascar 6 Tuberculosis NO
+7098  Tuqxx MCLvlm Madagascar 45 Yellowfever YES 20-08-1995
+7736  QoBZ JBtdX Madagascar 8 Malaria YES 30-02-2000
+8265  zUODoT XAi Madagascar 100 Rubella YES 11-12-2006
+8675  iYOB rNK Madagascar 28 Ebolavirus YES 10-05-2007
+9355  eTx PkQY Madagascar 110 Influenza YES 13-02-2015
+9770  qdEJpY HMUN Madagascar 35 Yellowfever YES 09-07-2002

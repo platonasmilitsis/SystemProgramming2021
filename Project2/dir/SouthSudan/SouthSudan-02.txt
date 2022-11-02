@@ -1,0 +1,15 @@
+455  DJNFkNf BqCZiP SouthSudan 31 Cholera YES 18-08-2009
+1406  HAOhZ NKKpwr SouthSudan 87 Varicella YES 25-08-1997
+2121  xeGP Cwfw SouthSudan 91 COVID19  NO
+2586  fRFFiy jcmnJiz SouthSudan 45 Cholera YES 05-12-2015
+3379  kHS IvctapD SouthSudan 95 Ebolavirus NO
+3857  VFWcx ZfWN SouthSudan 76 Yellowfever YES 22-05-2011
+4217  uMMLHL uDbqxNr SouthSudan 98 HepatitisE YES 04-06-2001
+5171  rTRVit aLWKfkw SouthSudan 106 Typhoidfever YES 20-07-2017
+5605  mPITdgX lpSSSO SouthSudan 30 Influenza NO
+6105  eqENfX HmyV SouthSudan 39 Rubella NO
+6734  ARk oLYdQH SouthSudan 61 HepatitisA YES 28-06-2001
+7421  EUXJfao zVxNk SouthSudan 105 Mumps NO
+8213  manY TUk SouthSudan 8 Rabies NO
+8583  EDSNQj nXTnQaC SouthSudan 47 COVID19  NO
+9830  KqqrtZe CZiIFBL SouthSudan 23 Malaria YES 14-03-2011

@@ -1,0 +1,14 @@
+439  RUsjC JeF NorthKorea 3 Tuberculosis NO
+1020  FsCj SkK NorthKorea 88 Influenza YES 21-04-1998
+1932  rHlaLpG yedt NorthKorea 105 Denguefever NO
+2239  cUQYC sDti NorthKorea 59 Humanpapillomavirusinfection YES 22-01-2008
+2993  ozJnzYz rYsW NorthKorea 109 Rubella NO
+3560  jEUJ XWgLwRC NorthKorea 65 Typhoidfever YES 16-12-2001
+3876  kCpUXt ZSjTTuk NorthKorea 69 HepatitisE YES 13-04-2010
+4952  oqJk vDvQlE NorthKorea 21 Tuberculosis YES 21-03-2005
+5578  jDLj FRY NorthKorea 59 Ebolavirus YES 01-01-2013
+6546  jWOGta nXqMHZu NorthKorea 63 Ebolavirus YES 06-04-1996
+7416  zXArCPs MHpD NorthKorea 83 Rabies YES 03-09-2018
+8038  lBJpiLh kgHZaBz NorthKorea 21 Denguefever YES 30-09-1996
+8917  IisUQp oPXhRPr NorthKorea 37 HepatitisB NO
+9324  wcJMV wPG NorthKorea 97 Varicella NO

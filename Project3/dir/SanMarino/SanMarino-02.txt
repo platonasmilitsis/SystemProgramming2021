@@ -1,0 +1,11 @@
+1194  MJJNu bjcTMCX SanMarino 102 Ebolavirus YES 21-11-2019
+2048  CIFr Nyx SanMarino 67 Rubella NO
+2741  AtNnBZ XpD SanMarino 38 Typhoidfever NO
+3842  aLyH Pgp SanMarino 40 COVID19  YES 07-03-2017
+4305  ZWbF OUQsuY SanMarino 3 Meningococcaldisease NO
+4878  xbWX MGv SanMarino 119 COVID19  NO
+5563  JWhCwM VHHv SanMarino 6 Tickborneencephalitis YES 21-01-1995
+6775  wgk EtMU SanMarino 26 Typhoidfever NO
+7226  fOScPgR xcyOael SanMarino 1 Mumps YES 08-11-2007
+8434  HQmugaQ gPtOzg SanMarino 23 Pneumococcaldisease YES 07-07-1996
+9955  HTtSisE geJpB SanMarino 78 Cholera YES 19-07-2012

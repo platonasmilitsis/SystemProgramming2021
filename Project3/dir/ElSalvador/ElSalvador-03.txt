@@ -1,0 +1,12 @@
+1389  GzBhFX qzicHga ElSalvador 23 Tuberculosis YES 19-09-2017
+2015  Zby RzebK ElSalvador 37 Measles NO
+2840  TKTpYFG iEfcI ElSalvador 100 Cholera NO
+3021  ZxnBUYe Lypo ElSalvador 94 Humanpapillomavirusinfection NO
+3686  JWQNO cvAzxvQ ElSalvador 84 Ebolavirus YES 23-01-2004
+4169  RGFnc FLwq ElSalvador 97 Typhoidfever YES 21-12-1997
+4897  GLDyu dzzLrR ElSalvador 56 Pneumococcaldisease NO
+6218  VPRpl MlwJ ElSalvador 95 Tickborneencephalitis YES 28-09-2018
+6852  CmqIUtx waLelq ElSalvador 80 Tetanus NO
+7103  ogapWLJ NiV ElSalvador 32 Humanpapillomavirusinfection NO
+8411  xBFuGL oORe ElSalvador 18 Haemophilusinfluenzaetypeb NO
+8757  oUrD YLiObmR ElSalvador 34 Varicella NO

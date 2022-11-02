@@ -1,0 +1,12 @@
+376  WQrD dpic Kiribati 104 Yellowfever NO
+1669  nuD bgWdWoj Kiribati 104 Influenza YES 07-10-2000
+2456  yerj JnScKTE Kiribati 82 Humanpapillomavirusinfection NO
+3251  mHnXBw DasUtD Kiribati 117 Rubella NO
+4113  PnzDw fLQk Kiribati 62 Varicella YES 25-08-2011
+4922  LsoQJAb JjDhc Kiribati 77 Rotavirusgastroenteritis NO
+5102  YZayx zHHRsfS Kiribati 63 HepatitisE NO
+6214  vKgP nAP Kiribati 42 Rubella YES 22-07-2002
+6878  QtGz ZFTLLRK Kiribati 101 Cholera YES 29-05-1997
+8244  nae OxZjJ Kiribati 102 COVID19  YES 21-11-2004
+9303  Ahho HEdfW Kiribati 114 Yellowfever NO
+9688  qJPjEzQ NwxWdEN Kiribati 96 Pneumococcaldisease NO

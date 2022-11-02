@@ -1,0 +1,12 @@
+106  fnJJ rAYahgU Moldova 89 Pneumococcaldisease YES 19-08-2012
+790  REe tZu Moldova 12 Pneumococcaldisease YES 15-11-2002
+2018  DSn sVWPKxP Moldova 112 Tetanus NO
+2625  nCwhnPD KtSwjpH Moldova 32 Haemophilusinfluenzaetypeb NO
+4739  QFYKJDw UrMih Moldova 19 HepatitisA YES 14-05-2017
+5317  psKle sfuhOP Moldova 69 Rotavirusgastroenteritis YES 02-07-2017
+5803  zHuDt JIAPdHP Moldova 45 Mumps NO
+6779  afi nUh Moldova 20 Typhoidfever NO
+7324  gBMyl inRyxUU Moldova 2 Malaria NO
+7952  iFOBKf DwQHH Moldova 33 Tuberculosis NO
+9388  BXpdjk nRkinIv Moldova 28 COVID19  NO
+9670  IGG ezmIpjv Moldova 42 HepatitisB YES 18-03-2005

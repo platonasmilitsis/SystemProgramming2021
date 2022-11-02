@@ -1,0 +1,11 @@
+899  qfqJI bvxx DemocraticRepublicoftheCongo 39 Pertussis NO
+1110  IBDB vrGTqf DemocraticRepublicoftheCongo 3 Yellowfever NO
+2074  jRLBMY USbPQ DemocraticRepublicoftheCongo 13 Rabies YES 27-04-2016
+3297  AACixUn qFzWHKc DemocraticRepublicoftheCongo 60 Pneumococcaldisease NO
+4439  vVN FZxCyZr DemocraticRepublicoftheCongo 1 Malaria NO
+5899  VAuo RPNj DemocraticRepublicoftheCongo 49 Poliomyelitis YES 13-06-2001
+6593  PjZh NBqWPNa DemocraticRepublicoftheCongo 21 Influenza YES 25-01-1996
+7024  YAA zfHPpjh DemocraticRepublicoftheCongo 86 HepatitisE NO
+7566  cKkBYuP VbE DemocraticRepublicoftheCongo 58 Influenza YES 30-03-1998
+8888  XHtB WRbW DemocraticRepublicoftheCongo 98 Varicella YES 09-12-2016
+9871  gyQzch oDag DemocraticRepublicoftheCongo 45 ShinglesHerpesZoster NO

@@ -1,0 +1,12 @@
+125  SgVZeog fjpt Belize 84 Cholera YES 30-09-2006
+651  MfHxjVy XlaUs Belize 17 Cholera YES 20-04-2011
+1547  NoMpW hBXdvi Belize 62 Haemophilusinfluenzaetypeb NO
+1831  GkMTLMK VkB Belize 37 Malaria YES 23-09-2018
+2784  JwtGVyX tfp Belize 89 Tetanus NO
+3759  bbLx bLbjoi Belize 91 Tetanus NO
+4458  ZZDR XTa Belize 37 Pertussis NO
+5084  lqRwhdD YyoJb Belize 60 HepatitisA NO
+6854  PrGl ibQqm Belize 57 HepatitisB YES 27-06-2016
+7852  LtIvOy MIohoM Belize 79 Japaneseencephalitis YES 02-02-2015
+8384  lVa ySnn Belize 43 Tickborneencephalitis YES 04-07-1997
+8820  xZia VdE Belize 41 Influenza YES 03-05-1997

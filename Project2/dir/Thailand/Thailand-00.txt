@@ -1,0 +1,13 @@
+381  iXddnmw QKVGwVf Thailand 72 Ebolavirus YES 06-07-2001
+877  Usl TBb Thailand 89 Japaneseencephalitis NO
+1643  pGmQ pUosfDy Thailand 102 Tuberculosis NO
+3035  tfPIe DipeGz Thailand 78 Diphtheria NO
+3823  DZb KRuwExq Thailand 23 Meningococcaldisease YES 15-08-2019
+4211  yJVKi lxwIn Thailand 12 Pertussis YES 04-10-2014
+4843  rKt udvIL Thailand 94 Rabies NO
+5673  AIbHCMx DSAODav Thailand 110 Pneumococcaldisease NO
+6254  ySMbghn VagZ Thailand 87 Malaria YES 02-10-2010
+7718  OkTvs ZvBOIL Thailand 68 Pertussis NO
+8491  pVyMxMv lpBTXv Thailand 48 Ebolavirus YES 12-01-1995
+8971  fBIg gpUT Thailand 33 Tetanus YES 13-01-2011
+9816  eOquFBn nSL Thailand 9 Denguefever NO

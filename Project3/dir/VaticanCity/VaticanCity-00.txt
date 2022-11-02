@@ -1,0 +1,15 @@
+36  fspyuo VPekpTy VaticanCity 79 Malaria NO
+788  Wle zHEwsd VaticanCity 99 Poliomyelitis NO
+2211  Ztae hYrKPz VaticanCity 55 Tuberculosis YES 30-02-2002
+3254  JYuqs pJAI VaticanCity 6 Yellowfever YES 05-12-2011
+4051  INas aeifeY VaticanCity 31 HepatitisB YES 04-05-2001
+4184  sAEsNc zsdEISz VaticanCity 57 Cholera YES 05-11-2013
+4938  jsHwr rbVkIR VaticanCity 59 HepatitisA YES 30-05-2012
+5300  dTqCpS bsRebnQ VaticanCity 104 Cholera YES 16-07-1996
+5892  IZLb NkW VaticanCity 89 Humanpapillomavirusinfection NO
+6408  DkJ cpVlUZk VaticanCity 119 Haemophilusinfluenzaetypeb NO
+7161  bZUFLZ miP VaticanCity 119 Denguefever NO
+7897  LYFM GZl VaticanCity 79 Rabies NO
+8405  FSnbPQ iDxPvs VaticanCity 99 Rubella NO
+8739  QpGsua ZsOlU VaticanCity 50 Tuberculosis YES 09-05-1999
+9658  tVAK QmsJNdx VaticanCity 57 Measles NO

@@ -1,0 +1,13 @@
+219  lYDTMlZ PXHtd Uzbekistan 3 Diphtheria YES 11-11-2001
+1070  CKEpyP oxQxn Uzbekistan 74 Meningococcaldisease YES 24-08-2005
+1598  BGQJM UQnUOul Uzbekistan 53 HepatitisE YES 29-07-1995
+2339  nBg Tlde Uzbekistan 96 Rotavirusgastroenteritis NO
+3203  wryJ MgGnbM Uzbekistan 19 Diphtheria YES 24-12-1996
+4755  qCHbaH qRhvn Uzbekistan 40 Diphtheria YES 17-09-2009
+5304  odcxJS ogKve Uzbekistan 94 Rotavirusgastroenteritis NO
+6086  DjEj sEk Uzbekistan 82 Diphtheria NO
+6820  QDuxla rRPtuI Uzbekistan 64 Humanpapillomavirusinfection YES 29-11-2012
+7246  HwcOpd ffV Uzbekistan 38 ShinglesHerpesZoster NO
+7826  gaQeJ bEHn Uzbekistan 92 ShinglesHerpesZoster NO
+8020  oWHg bBs Uzbekistan 29 Tuberculosis YES 10-10-2011
+9042  JzcaY uFc Uzbekistan 5 ShinglesHerpesZoster NO

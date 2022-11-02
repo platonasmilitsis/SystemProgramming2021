@@ -1,0 +1,14 @@
+201  nEFWFtm oJLpy Comoros 84 Tetanus YES 11-10-2016
+666  VHJsQo UqVjhe Comoros 69 Pertussis NO
+2340  zJj SxKH Comoros 66 HepatitisE NO
+2698  uhX bPAw Comoros 86 HepatitisB NO
+3391  fHkzc OlJ Comoros 48 HepatitisB NO
+3849  cZGGGO tidL Comoros 109 HepatitisE NO
+4123  ZoJjdx Gds Comoros 89 Measles NO
+5527  gyxWCM lGeruR Comoros 48 Influenza NO
+6329  BSdeGV QUIbI Comoros 22 Typhoidfever NO
+6973  YUDC DhMT Comoros 54 Pneumococcaldisease NO
+7371  YkK RjMnzRs Comoros 62 Influenza NO
+8357  XTUV XMo Comoros 55 Meningococcaldisease YES 06-06-2013
+9176  YIpsQ TPgMokI Comoros 21 Rabies YES 06-03-2014
+9861  UVsnFO nmi Comoros 10 Mumps NO
